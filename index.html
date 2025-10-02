@@ -60,7 +60,7 @@
         input, button { font-size: 14px; }
     }
 
-    /* BOTÓN DE LEYENDA */
+    /* BOTÓN LEYENDA - escritorio por defecto */
     #leyendaBtn {
         position: fixed;
         top: 7px;
@@ -77,15 +77,22 @@
         transition: background-color 0.5s;
         width: auto;
     }
-        /* Ajuste para móviles */
+    #leyendaBtn:hover {
+        background-color: #0056b3;
+    }
+    
+    /* BOTÓN LEYENDA - móvil */
     @media (max-width: 600px) {
         #leyendaBtn {
-            top: auto;       /* quitar top fijo */
-            bottom: 20px;    /* lo ponemos abajo */
+            top: auto;       /* quitamos top */
+            bottom: 20px;    /* lo colocamos abajo */
             right: 20px;     
-            width: 120px;    /* ancho más cómodo en móvil */
+            width: 120px;    /* tamaño más cómodo */
+            padding: 10px;   /* opcional: ajustar padding */
+            font-size: 14px; /* opcional: que no ocupe mucho */
         }
     }
+
 
 
     #leyendaBtn:hover { background-color: #0056b3; }
@@ -282,3 +289,4 @@ window.onclick = e => { if(e.target == modal) modal.style.display = "none"; };
 
 </body>
 </html>
+
