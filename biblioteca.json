@@ -1,0 +1,1083 @@
+{
+    "AJED": {
+        "nombre": "Ajedrez",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    },
+    "ARTE": {
+        "nombre": "Arte",
+        "subsecciones": {
+            "Cine": [],
+            "Museos": [
+                {
+                    "referencia": "ARTE.MUSE.1",
+                    "titulo": "La guía del Prado",
+                    "autor": "Museo Nacional del Prado"
+                },
+                {
+                    "referencia": "ARTE.MUSE.2",
+                    "titulo": "La luz del Nácar",
+                    "autor": "Museo Avenida de América"
+                },
+                {
+                    "referencia": "ARTE.MUSE.3",
+                    "titulo": "Guía British Museum",
+                    "autor": "Museo Británico de Londres"
+                },
+                {
+                    "referencia": "ARTE.MUSE.4",
+                    "titulo": "Real Monasterio de San Lorenzo del Escorial",
+                    "autor": "José Luis Sancho Gaspar"
+                },
+                {
+                    "referencia": "ARTE.MUSE.5",
+                    "titulo": "Museo del Romanticismo - La colección",
+                    "autor": "Museo del Romanticismo"
+                },
+                {
+                    "referencia": "ARTE.MUSE.6",
+                    "titulo": "La Alhambra - Arquitectura, historia, planos y leyenda",
+                    "autor": "Ana Sánchez y Ángel Sánchez"
+                },
+                {
+                    "referencia": "ARTE.MUSE.7",
+                    "titulo": "Guía The National Gallery",
+                    "autor": "Erika Langmuir"
+                },
+                {
+                    "referencia": "ARTE.MUSE.8",
+                    "titulo": "Guía Los vikingos",
+                    "autor": "Museo de Oslo"
+                }
+            ],
+            "Música": [],
+            "Pintura": [
+                {
+                    "referencia": "ARTE.PINT.1",
+                    "titulo": "La pintura Italiana I",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.2",
+                    "titulo": "La pintura Italiana II",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.3",
+                    "titulo": "La pintura Italiana III",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.4",
+                    "titulo": "La pintura Española I",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.5",
+                    "titulo": "La pintura Española II",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.6",
+                    "titulo": "La pintura Española III",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.7",
+                    "titulo": "Grandes temas de la pintura: El retrato",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.8",
+                    "titulo": "Grandes temas de la pintura: El paisaje",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.9",
+                    "titulo": "Grandes temas de la pintura: El bodegón",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.10",
+                    "titulo": "Grandes temas de la pintura: La pintura de interiores",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.11",
+                    "titulo": "Grandes temas de la pintura: La pintura religiosa",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.12",
+                    "titulo": "Los genios universales de la pintura: Monet",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.13",
+                    "titulo": "Los genios universales de la pintura: Matisse",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.14",
+                    "titulo": "Los genios universales de la pintura: Caravaggio",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.15",
+                    "titulo": "Grandes maestros de la pintura: Picasso",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.16",
+                    "titulo": "El Impresionismo: Van Gogh",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.17",
+                    "titulo": "Goya",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.18",
+                    "titulo": "Maestros de la pintura mundial: Alfred Sisley",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.19",
+                    "titulo": "Maestros de la pintura mundial: Bartolomé Esteban Murillo",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.20",
+                    "titulo": "Cézanne",
+                    "autor": "No Aplicable"
+                }
+            ],
+            "Poesía": [],
+            "Teatro": []
+        },
+        "libros": [],
+        "subcontadores": {
+            "Museos": 8,
+            "Pintura": 20
+        }
+    },
+    "BIEN": {
+        "nombre": "Bienestar",
+        "subsecciones": {
+            "Cocina": [],
+            "Decoración": [],
+            "Yoga": []
+        },
+        "libros": [],
+        "subcontadores": {}
+    },
+    "CIEN": {
+        "nombre": "Ciencia",
+        "subsecciones": {
+            "Física": [],
+            "Matemáticas": [],
+            "Fauna": [
+                {
+                    "referencia": "CIEN.FAUN.1",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra I",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.2",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra II",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.3",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra III",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.4",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra IV",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.5",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra V",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.6",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra VI",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.7",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra VII",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.8",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra VIII",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.9",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra IX",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.10",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra X",
+                    "autor": "Félix Rodríguez de la Fuente"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Fauna": 10
+        }
+    },
+    "FILO": {
+        "nombre": "Filosofía",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "FILO.1",
+                "titulo": "Los filósofos presocráticos",
+                "autor": "G.S. Kirk y J.E. Raven"
+            },
+            {
+                "referencia": "FILO.2",
+                "titulo": "Sobre el ordenamiento de la naturaleza",
+                "autor": "Parménides"
+            },
+            {
+                "referencia": "FILO.3",
+                "titulo": "Epicuro",
+                "autor": "Antonio Roldán Marco"
+            },
+            {
+                "referencia": "FILO.4",
+                "titulo": "Pitágoras esencial",
+                "autor": "Abraham Miguel Ponz"
+            },
+            {
+                "referencia": "FILO.5",
+                "titulo": "Apología de Sócrates",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.6",
+                "titulo": "Política",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.7",
+                "titulo": "Categorías. De interpretatione / Isagoge",
+                "autor": "Aristóteles / Porfirio"
+            },
+            {
+                "referencia": "FILO.8",
+                "titulo": "Ética a Nicómaco",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.9",
+                "titulo": "La lógica del pensamiento. Aristóteles",
+                "autor": "Antonio Roldán Marco"
+            },
+            {
+                "referencia": "FILO.10",
+                "titulo": "Poética",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.11",
+                "titulo": "Retórica",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.12",
+                "titulo": "Parménides",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.13",
+                "titulo": "La República",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.14",
+                "titulo": "Epicteto. Un manual para la vida",
+                "autor": "Antonio Roldán Marco"
+            },
+            {
+                "referencia": "FILO.15",
+                "titulo": "Vidas de filósofos ilustres",
+                "autor": "Diógenes Laercio"
+            },
+            {
+                "referencia": "FILO.16",
+                "titulo": "Hipatia",
+                "autor": "Clelia Martigni Maza"
+            },
+            {
+                "referencia": "FILO.17",
+                "titulo": "Meditaciones",
+                "autor": "Marco Aurelio"
+            },
+            {
+                "referencia": "FILO.18",
+                "titulo": "Séneca o el beneficio de la suerte",
+                "autor": "Antonio Gala"
+            },
+            {
+                "referencia": "FILO.19",
+                "titulo": "Meditaciones metafísicas",
+                "autor": "René Descartes"
+            },
+            {
+                "referencia": "FILO.20",
+                "titulo": "Discurso de metafísica",
+                "autor": "Leibniz"
+            },
+            {
+                "referencia": "FILO.21",
+                "titulo": "Novum Organum",
+                "autor": "Francis Bacon"
+            },
+            {
+                "referencia": "FILO.22",
+                "titulo": "El sueño del humanismo. De Petrarca a Erasmo",
+                "autor": "Francisco Rico"
+            },
+            {
+                "referencia": "FILO.23",
+                "titulo": "Pensar y no caer",
+                "autor": "Ramón Andrés"
+            },
+            {
+                "referencia": "FILO.24",
+                "titulo": "El sofista",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.25",
+                "titulo": "Sobre la felicidad",
+                "autor": "Séneca"
+            },
+            {
+                "referencia": "FILO.26",
+                "titulo": "Kant, vida y doctrina",
+                "autor": "Ernst Cassirer"
+            },
+            {
+                "referencia": "FILO.27",
+                "titulo": "Fundamentación de la metafísica de las costumbres",
+                "autor": "Immanuel Kant"
+            },
+            {
+                "referencia": "FILO.28",
+                "titulo": "El contrato social",
+                "autor": "Jean-Jacques Rousseau"
+            },
+            {
+                "referencia": "FILO.29",
+                "titulo": "Investigación sobre el conocimiento humano",
+                "autor": "David Hume"
+            },
+            {
+                "referencia": "FILO.30",
+                "titulo": "Introducción a Newton",
+                "autor": "Mauricio Mamiani"
+            },
+            {
+                "referencia": "FILO.31",
+                "titulo": "Lecciones sobre la filosofía de la historia universal",
+                "autor": "G.W.F. Hegel"
+            },
+            {
+                "referencia": "FILO.32",
+                "titulo": "Fenomenología del espíritu",
+                "autor": "G.W.F. Hegel"
+            },
+            {
+                "referencia": "FILO.33",
+                "titulo": "Humano, demasiado humano",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.34",
+                "titulo": "Así habló Zaratustra",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.35",
+                "titulo": "El nacimiento de la tragedia",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.36",
+                "titulo": "La genealogía de la moral",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.37",
+                "titulo": "El ocaso de los ídolos",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.38",
+                "titulo": "Schopenhauer, Nietzsche, Freud",
+                "autor": "Thomas Mann"
+            },
+            {
+                "referencia": "FILO.39",
+                "titulo": "El Capital. Libro I. Tomo I",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.40",
+                "titulo": "El Capital. Libro I. Tomo II",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.41",
+                "titulo": "El Capital. Libro I. Tomo III",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.42",
+                "titulo": "El Capital. Libro II. Tomo I",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.43",
+                "titulo": "El Capital. Libro II. Tomo II",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.44",
+                "titulo": "Karl Marx",
+                "autor": "Karl Korsch"
+            },
+            {
+                "referencia": "FILO.45",
+                "titulo": "Fundamentos de filosofía",
+                "autor": "A. Rakitov"
+            },
+            {
+                "referencia": "FILO.46",
+                "titulo": "Sobre Marx y Marxismo",
+                "autor": "Manuel Sacristán"
+            },
+            {
+                "referencia": "FILO.47",
+                "titulo": "¿Qué es la vida?",
+                "autor": "Erwin Schrödinger"
+            },
+            {
+                "referencia": "FILO.48",
+                "titulo": "El salto se clasifica: de Linneo a Darwin",
+                "autor": "David Alvargonzález"
+            },
+            {
+                "referencia": "FILO.49",
+                "titulo": "Filosofía de la Cosmología",
+                "autor": "Carlos M. Massini-Correas"
+            },
+            {
+                "referencia": "FILO.50",
+                "titulo": "La relatividad ontológica",
+                "autor": "W.V. Quine"
+            },
+            {
+                "referencia": "FILO.51",
+                "titulo": "El gen egoísta",
+                "autor": "Richard Dawkins"
+            },
+            {
+                "referencia": "FILO.52",
+                "titulo": "Oriente y Occidente",
+                "autor": "Luis Racionero"
+            },
+            {
+                "referencia": "FILO.53",
+                "titulo": "Amor y pedagogía",
+                "autor": "Miguel de Unamuno"
+            },
+            {
+                "referencia": "FILO.54",
+                "titulo": "Niebla",
+                "autor": "Miguel de Unamuno"
+            },
+            {
+                "referencia": "FILO.55",
+                "titulo": "El positivismo lógico",
+                "autor": "A. J. Ayer"
+            },
+            {
+                "referencia": "FILO.56",
+                "titulo": "Tractatus Logico-Philosophicus",
+                "autor": "Ludwig Wittgenstein"
+            },
+            {
+                "referencia": "FILO.57",
+                "titulo": "El sistema de clasificación de Linneo",
+                "autor": "David Alvargonzález"
+            },
+            {
+                "referencia": "FILO.58",
+                "titulo": "El Ego Trascendental",
+                "autor": "Gustavo Bueno"
+            },
+            {
+                "referencia": "FILO.59",
+                "titulo": "¿Qué es la filosofía?",
+                "autor": "Gustavo Bueno"
+            },
+            {
+                "referencia": "FILO.60",
+                "titulo": "Einstein. Historia de un espíritu",
+                "autor": "Desiderio Papp"
+            },
+            {
+                "referencia": "FILO.61",
+                "titulo": "Principios actuales y fundamentales de la Filosofía",
+                "autor": "G. Politzer"
+            },
+            {
+                "referencia": "FILO.62",
+                "titulo": "Confucio, los cuatro libros clásicos",
+                "autor": "Montseant Martí i Bugués"
+            },
+            {
+                "referencia": "FILO.63",
+                "titulo": "Filósofos ante Cristo",
+                "autor": "Enrique Bonete Perales"
+            },
+            {
+                "referencia": "FILO.64",
+                "titulo": "La física de Dios",
+                "autor": "Joseph Selbie"
+            },
+            {
+                "referencia": "FILO.65",
+                "titulo": "Historia del mundo contada para escépticos",
+                "autor": "Juan Eslava Galán"
+            },
+            {
+                "referencia": "FILO.66",
+                "titulo": "La mente del simio",
+                "autor": "David Premack y Ann Premack"
+            },
+            {
+                "referencia": "FILO.67",
+                "titulo": "Meditaciones sobre la literatura y el arte",
+                "autor": "José Ortega y Gasset"
+            },
+            {
+                "referencia": "FILO.68",
+                "titulo": "La rebelión de las masas",
+                "autor": "José Ortega y Gasset"
+            },
+            {
+                "referencia": "FILO.69",
+                "titulo": "Del sentimiento trágico de la vida / La agonía del cristianismo",
+                "autor": "Miguel de Unamuno"
+            },
+            {
+                "referencia": "FILO.70",
+                "titulo": "El ser y el tiempo",
+                "autor": "Martin Heidegger"
+            },
+            {
+                "referencia": "FILO.71",
+                "titulo": "Lo bello y lo siniestro",
+                "autor": "Eugenio Trías"
+            },
+            {
+                "referencia": "FILO.72",
+                "titulo": "El canto de las sirenas",
+                "autor": "Eugenio Trías"
+            },
+            {
+                "referencia": "FILO.73",
+                "titulo": "La mente humana",
+                "autor": "José Luis Pinillos"
+            },
+            {
+                "referencia": "FILO.74",
+                "titulo": "El pensamiento utópico contemporáneo",
+                "autor": "Antonio Monclús"
+            },
+            {
+                "referencia": "FILO.75",
+                "titulo": "Cómo dominar el tiempo",
+                "autor": "Jean-Louis Servan-Schreiber"
+            },
+            {
+                "referencia": "FILO.76",
+                "titulo": "El vendedor de tiempo",
+                "autor": "Fernando Trías de Bes"
+            },
+            {
+                "referencia": "FILO.77",
+                "titulo": "El mundo de Sofía",
+                "autor": "Jostein Gaarder"
+            },
+            {
+                "referencia": "FILO.78",
+                "titulo": "Historia general de la Filosofía",
+                "autor": "Alberto Schwegler"
+            },
+            {
+                "referencia": "FILO.79",
+                "titulo": "La Historia de la Filosofía en la Enciclopedia. Volumen I",
+                "autor": "Diderot"
+            },
+            {
+                "referencia": "FILO.80",
+                "titulo": "La Historia de la Filosofía en la Enciclopedia. Volumen II",
+                "autor": "Diderot"
+            },
+            {
+                "referencia": "FILO.81",
+                "titulo": "Historia de la Filosofía",
+                "autor": "Julián Marías"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "GEOG": {
+        "nombre": "Geografía",
+        "subsecciones": {
+            "Viajes": [
+                {
+                    "referencia": "GEOG.VIAJ.1",
+                    "titulo": "Guía, Madeira y Porto Santo",
+                    "autor": "Sergio Fonseca y Susana Fonseca"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.2",
+                    "titulo": "Mérida, guía de viaje 2024",
+                    "autor": "Bella Snow"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.3",
+                    "titulo": "Guía, Noruega",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.4",
+                    "titulo": "Guía, Los pueblos de La Val d'Aran",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.5",
+                    "titulo": "Guía, A pie por Roma",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.6",
+                    "titulo": "Guía, La sagrada Meteora",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.7",
+                    "titulo": "Guía, Chipre",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.8",
+                    "titulo": "Guía Viajes Roma - National Geographic",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.9",
+                    "titulo": "Postales Japón",
+                    "autor": "No aplicable"
+                }
+            ],
+            "Mapas": [
+                {
+                    "referencia": "GEOG.MAPA.1",
+                    "titulo": "Gran atlas Salvat universal - Europa y planisferios",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.2",
+                    "titulo": "Gran atlas Salvat universal - Asia y África",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.3",
+                    "titulo": "Gran atlas Salvat universal - América del Norte y América del Sur",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.4",
+                    "titulo": "Gran atlas Salvat universal - América del Sur, Oceanía e Índice",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.5",
+                    "titulo": "Atlas de España",
+                    "autor": "El Pais - Aguilar"
+                },
+                {
+                    "referencia": "GEOG.MAPA.6",
+                    "titulo": "Atlas de España II",
+                    "autor": "El Pais - Aguilar"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Viajes": 9,
+            "Mapas": 6
+        }
+    },
+    "HIST": {
+        "nombre": "Historia",
+        "subsecciones": {
+            "Contemporánea": [],
+            "Moderna": [],
+            "Edad Media": [],
+            "Antigua": []
+        },
+        "libros": [],
+        "subcontadores": {}
+    },
+    "INFA": {
+        "nombre": "Infantil, Juvenil y Fábulas",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    },
+    "MITO": {
+        "nombre": "Mitología",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "MITO.1",
+                "titulo": "Gilgamesh",
+                "autor": "Poema Babilonio"
+            },
+            {
+                "referencia": "MITO.2",
+                "titulo": "Ilíada",
+                "autor": "Homero"
+            },
+            {
+                "referencia": "MITO.3",
+                "titulo": "Odisea",
+                "autor": "Homero"
+            },
+            {
+                "referencia": "MITO.4",
+                "titulo": "Tragedias completas",
+                "autor": "Esquilo"
+            },
+            {
+                "referencia": "MITO.5",
+                "titulo": "Tragedias completas",
+                "autor": "Sófocles"
+            },
+            {
+                "referencia": "MITO.6",
+                "titulo": "Tragedias",
+                "autor": "Eurípides"
+            },
+            {
+                "referencia": "MITO.7",
+                "titulo": "Las troyanas",
+                "autor": "Eurípides"
+            },
+            {
+                "referencia": "MITO.8",
+                "titulo": "Las nubes, Lisístrata, Dinero",
+                "autor": "Aristófanes"
+            },
+            {
+                "referencia": "MITO.9",
+                "titulo": "Zeus conquista el Olimpo",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "MITO.10",
+                "titulo": "Mitología clásica",
+                "autor": "M.J. Almagro Gorbea"
+            },
+            {
+                "referencia": "MITO.11",
+                "titulo": "Hécate, La diosa sombría",
+                "autor": "Mario Agudo Villanueva"
+            },
+            {
+                "referencia": "MITO.12",
+                "titulo": "Eneida",
+                "autor": "Virgilio"
+            },
+            {
+                "referencia": "MITO.13",
+                "titulo": "Metamorfosis",
+                "autor": "Ovidio"
+            },
+            {
+                "referencia": "MITO.14",
+                "titulo": "El viaje de los argonautas",
+                "autor": "Apolonio de Rodas"
+            },
+            {
+                "referencia": "MITO.15",
+                "titulo": "Divina Comedia, Editorial Alianza",
+                "autor": "Dante Alighieri"
+            },
+            {
+                "referencia": "MITO.16",
+                "titulo": "Divina Comedia, Editorial Cátedra",
+                "autor": "Dante Alighieri"
+            },
+            {
+                "referencia": "MITO.17",
+                "titulo": "Divina Comedia, Las 135 ilustraciones de Gustavo Doré",
+                "autor": "Gustavo Doré"
+            },
+            {
+                "referencia": "MITO.18",
+                "titulo": "El paraíso perdido",
+                "autor": "John Milton"
+            },
+            {
+                "referencia": "MITO.19",
+                "titulo": "Borges esencial",
+                "autor": "Jorge Luis Borges"
+            },
+            {
+                "referencia": "MITO.20",
+                "titulo": "Las bodas de Cadmo y Harmonía",
+                "autor": "Roberto Calasso"
+            },
+            {
+                "referencia": "MITO.21",
+                "titulo": "Érase una vez... El universo, los dioses, los hombres",
+                "autor": "Jean Pierre Vernant"
+            },
+            {
+                "referencia": "MITO.22",
+                "titulo": "El arte de amar",
+                "autor": "Ovidio"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "NOVE": {
+        "nombre": "Novela",
+        "subsecciones": {
+            "Histórica": [
+                {
+                    "referencia": "NOVE.HIST.1",
+                    "titulo": "El asesinato de Sócrates",
+                    "autor": "Marcos Chicot"
+                },
+                {
+                    "referencia": "NOVE.HIST.2",
+                    "titulo": "La sombre del inquisidor",
+                    "autor": "Roberto Ciai y Marco Lazzeri"
+                }
+            ],
+            "Suspense": [
+                {
+                    "referencia": "NOVE.SUSP.1",
+                    "titulo": "El nombre de la rosa",
+                    "autor": "Umberto Eco"
+                },
+                {
+                    "referencia": "NOVE.SUSP.2",
+                    "titulo": "La coartada perfecta",
+                    "autor": "Patricia Highsmith"
+                },
+                {
+                    "referencia": "NOVE.SUSP.3",
+                    "titulo": "Los amigos del crimen perfecto",
+                    "autor": "Andrés Trapiello"
+                }
+            ],
+            "Romántica": [],
+            "Aventura": [],
+            "Ficción política": [
+                {
+                    "referencia": "NOVE.FIPO.1",
+                    "titulo": "Ensayo sobre la lucidez",
+                    "autor": "José Saramago"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Suspense": 3,
+            "Histórica": 2,
+            "Ficción política": 1
+        }
+    },
+    "OPOS": {
+        "nombre": "Oposiciones",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    },
+    "REFE": {
+        "nombre": "Referencias",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    },
+    "RELI": {
+        "nombre": "Religión",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "RELI.1",
+                "titulo": "El inconsciente, ¿morada de Dios?",
+                "autor": "Josep Otón Catalán"
+            },
+            {
+                "referencia": "RELI.2",
+                "titulo": "Más allá de la muerte",
+                "autor": "Hélène Renard"
+            },
+            {
+                "referencia": "RELI.3",
+                "titulo": "Consagración al Sagrado Corazón de Jesús",
+                "autor": "Iglesia de Mataelpino"
+            },
+            {
+                "referencia": "RELI.4",
+                "titulo": "Sinopsis de los cuatro evangelios",
+                "autor": "Juan Leal"
+            },
+            {
+                "referencia": "RELI.5",
+                "titulo": "Ramakrishna y la vitalidad del hinduismo",
+                "autor": "Solange Lemaitre"
+            },
+            {
+                "referencia": "RELI.6",
+                "titulo": "Culturas y religiones en diálogo",
+                "autor": "Juan José Tamayo y María José Fariñas"
+            },
+            {
+                "referencia": "RELI.7",
+                "titulo": "El gran secreto de Jesús",
+                "autor": "Juan Arias"
+            },
+            {
+                "referencia": "RELI.8",
+                "titulo": "Una lectura social del Nuevo Testamento",
+                "autor": "Fidel Aizpurúa Donazar"
+            },
+            {
+                "referencia": "RELI.9",
+                "titulo": "Asia menor en tiempos de Pablo, Lucas y Juan",
+                "autor": "Eduardo Arens"
+            },
+            {
+                "referencia": "RELI.10",
+                "titulo": "La sabiduría de los antepasados",
+                "autor": "T. Lobsang Rampa"
+            },
+            {
+                "referencia": "RELI.11",
+                "titulo": "La religión en la cultura primitiva",
+                "autor": "Edward Burnett Tylor"
+            },
+            {
+                "referencia": "RELI.12",
+                "titulo": "El poder de la magia sagrada",
+                "autor": "Anónimo"
+            },
+            {
+                "referencia": "RELI.13",
+                "titulo": "El conflicto de los siglos",
+                "autor": "Elena G. White"
+            },
+            {
+                "referencia": "RELI.14",
+                "titulo": "El poder desconocido del ayuno",
+                "autor": "Sor Emmanuel Maillard"
+            },
+            {
+                "referencia": "RELI.15",
+                "titulo": "Breviarium romanum ex decreto Sacrosancti Concilij Tridentini restitutum",
+                "autor": "Pío V y Clemente VIII"
+            },
+            {
+                "referencia": "RELI.16",
+                "titulo": "El Corán",
+                "autor": "Mahoma"
+            },
+            {
+                "referencia": "RELI.17",
+                "titulo": "Biblia Sacra Vulgata",
+                "autor": "Editorial Weber – Gryson"
+            },
+            {
+                "referencia": "RELI.18",
+                "titulo": "La Santa Biblia",
+                "autor": "San Pablo"
+            },
+            {
+                "referencia": "RELI.19",
+                "titulo": "Mi fe en la verdad",
+                "autor": "Mohan Das Gandhi"
+            },
+            {
+                "referencia": "RELI.20",
+                "titulo": "Los sabios de la túnica color ciruela",
+                "autor": "Fun-Chang"
+            },
+            {
+                "referencia": "RELI.21",
+                "titulo": "Evangelio según Tomás",
+                "autor": "Ediciones Obelisco"
+            },
+            {
+                "referencia": "RELI.22",
+                "titulo": "Tao Te King",
+                "autor": "Lao Tse"
+            },
+            {
+                "referencia": "RELI.23",
+                "titulo": "Selección de cantos religiosos populares",
+                "autor": "P. Pliama Editorial"
+            },
+            {
+                "referencia": "RELI.24",
+                "titulo": "Los libros de Enoc",
+                "autor": "Oliver Ibáñez"
+            },
+            {
+                "referencia": "RELI.25",
+                "titulo": "Bibiani",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "RELI.26",
+                "titulo": "Sagrada Biblia",
+                "autor": "Ediciones S.A."
+            },
+            {
+                "referencia": "RELI.27",
+                "titulo": "La Madonna e il bambino Gesú",
+                "autor": "Revista Gente"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "ZZZZ": {
+        "nombre": "Apuntes, notas y varios",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    }
+}
