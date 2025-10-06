@@ -65,68 +65,83 @@
             },
             {
                 "referencia": "AJED.13",
+                "titulo": "Táctica moderna en el Ajedrez (repetido)",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.14",
+                "titulo": "Aperturas Semiabiertas II",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.15",
                 "titulo": "Garry Kasparov",
                 "autor": "M. Yudovich"
             },
             {
-                "referencia": "AJED.14",
+                "referencia": "AJED.16",
                 "titulo": "El Ajedrez",
                 "autor": "Ricardo Aguilera"
             },
             {
-                "referencia": "AJED.15",
+                "referencia": "AJED.17",
                 "titulo": "Corona Mundial de Ajedrez Kasparov-Karpov",
                 "autor": "Inaplicable"
             },
             {
-                "referencia": "AJED.16",
+                "referencia": "AJED.18",
                 "titulo": "Los principios del Ajedrez",
                 "autor": "Ray Arvid"
             },
             {
-                "referencia": "AJED.17",
+                "referencia": "AJED.19",
                 "titulo": "La partida de Ajedrez",
                 "autor": "Rubinstein"
             },
             {
-                "referencia": "AJED.18",
+                "referencia": "AJED.20",
                 "titulo": "Defensa Siciliana",
                 "autor": "G. Kasparov y N. Nikitin (Club del Ajedrez)"
             },
             {
-                "referencia": "AJED.19",
+                "referencia": "AJED.21",
                 "titulo": "El estilo posicional",
                 "autor": "V. Smyslov"
             },
             {
-                "referencia": "AJED.20",
+                "referencia": "AJED.22",
                 "titulo": "El error en la apertura",
                 "autor": "Club del Ajedrez"
             },
             {
-                "referencia": "AJED.21",
+                "referencia": "AJED.23",
                 "titulo": "Decisiones fundamentales del Ajedrez Capablanca",
                 "autor": "Club del Ajedrez"
             },
             {
-                "referencia": "AJED.22",
+                "referencia": "AJED.24",
                 "titulo": "Fundamentos del Ajedrez Capablanca",
                 "autor": "Club del Ajedrez"
             },
             {
-                "referencia": "AJED.23",
+                "referencia": "AJED.25",
                 "titulo": "Aperturas Cerradas",
                 "autor": "Ludek Pachmann"
             },
             {
-                "referencia": "AJED.24",
+                "referencia": "AJED.26",
                 "titulo": "Cuarto libro de Ajedrez",
                 "autor": "Fred Reinfeld"
             },
             {
-                "referencia": "AJED.25",
+                "referencia": "AJED.27",
                 "titulo": "Apertura Italiana, 250 partidas",
                 "autor": "Colección Enroque"
+            },
+            {
+                "referencia": "AJED.28",
+                "titulo": "Mitología del ajedrez",
+                "autor": "Francesc Lluis Cardona"
             }
         ],
         "subcontadores": {}
@@ -491,7 +506,118 @@
                     "autor": "No Aplicable"
                 }
             ],
-            "Poesía": [],
+            "Poesía": [
+                {
+                    "referencia": "ARTE.POES.1",
+                    "titulo": "Obras Completas",
+                    "autor": "Gustavo Adolfo Bécquer"
+                },
+                {
+                    "referencia": "ARTE.POES.2",
+                    "titulo": "Biblioteca de Poesía",
+                    "autor": "Rafael Alberti"
+                },
+                {
+                    "referencia": "ARTE.POES.3",
+                    "titulo": "Poesía completa (1960-1997)",
+                    "autor": "Francisco Brines"
+                },
+                {
+                    "referencia": "ARTE.POES.4",
+                    "titulo": "Libro de Poemas (1921)",
+                    "autor": "Federico García Lorca"
+                },
+                {
+                    "referencia": "ARTE.POES.5",
+                    "titulo": "Poesía Completa Volumen I",
+                    "autor": "Luis Cernuda"
+                },
+                {
+                    "referencia": "ARTE.POES.6",
+                    "titulo": "Antología de poesía austriaca actual",
+                    "autor": "Función Lenguaje"
+                },
+                {
+                    "referencia": "ARTE.POES.7",
+                    "titulo": "Antología de poesía suiza actual",
+                    "autor": "Fuerza Language"
+                },
+                {
+                    "referencia": "ARTE.POES.8",
+                    "titulo": "Eugenio Oneguin",
+                    "autor": "Alexander S. Pushkin"
+                },
+                {
+                    "referencia": "ARTE.POES.9",
+                    "titulo": "Poesías completas",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.10",
+                    "titulo": "Antología Poética",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.11",
+                    "titulo": "Poesía",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.12",
+                    "titulo": "Poemas 1913-16",
+                    "autor": "Maya Kowsky"
+                },
+                {
+                    "referencia": "ARTE.POES.13",
+                    "titulo": "Nueva Antología Poética",
+                    "autor": "Rainer Maria Rilke"
+                },
+                {
+                    "referencia": "ARTE.POES.14",
+                    "titulo": "Bodas de sangre",
+                    "autor": "Federico García Lorca"
+                },
+                {
+                    "referencia": "ARTE.POES.15",
+                    "titulo": "Hijos de la Ira",
+                    "autor": "Dámaso Alonso"
+                },
+                {
+                    "referencia": "ARTE.POES.16",
+                    "titulo": "Antología",
+                    "autor": "Gustavo Adolfo Bécquer"
+                },
+                {
+                    "referencia": "ARTE.POES.17",
+                    "titulo": "Poesía, palabra en el tiempo",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.18",
+                    "titulo": "El hombre y su poesía",
+                    "autor": "Miguel Hernández"
+                },
+                {
+                    "referencia": "ARTE.POES.19",
+                    "titulo": "Veinte poemas de amor y una canción desesperada",
+                    "autor": "Pablo Neruda"
+                },
+                {
+                    "referencia": "ARTE.POES.20",
+                    "titulo": "Antología poética",
+                    "autor": "Juan Ramón Jiménez"
+                },
+                {
+                    "referencia": "ARTE.POES.21",
+                    "titulo": "De todo corazón 111 poemas de amor",
+                    "autor": "Editorial S.L."
+                },
+                {
+                    "referencia": "ARTE.POES.22",
+                    "titulo": "Postales de escritores y poetas rusos",
+                    "autor": "Postales"
+                }
+            ],
             "Teatro": [
                 {
                     "referencia": "ARTE.TEAT.1",
@@ -630,17 +756,325 @@
             "Música": 33,
             "Museos": 17,
             "Pintura": 20,
+            "Poesía": 22,
             "Teatro": 26
         }
     },
     "BIEN": {
         "nombre": "Bienestar",
-        "subsecciones": {
-            "Cocina": [],
-            "Decoración": [],
-            "Yoga": []
-        },
-        "libros": [],
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "BIEN.1",
+                "titulo": "Grandes misterios de las sociedades secretas",
+                "autor": "Ramiro A. Calle"
+            },
+            {
+                "referencia": "BIEN.2",
+                "titulo": "En busca del Faquir",
+                "autor": "Ramiro A. Calle"
+            },
+            {
+                "referencia": "BIEN.3",
+                "titulo": "Ser feliz en Alaska",
+                "autor": "Rafael Santandreu"
+            },
+            {
+                "referencia": "BIEN.4",
+                "titulo": "Alegría, la felicidad que surge del interior",
+                "autor": "Editorial Grijalbo"
+            },
+            {
+                "referencia": "BIEN.5",
+                "titulo": "1080 Recetas de Cocina",
+                "autor": "Simone Ortega"
+            },
+            {
+                "referencia": "BIEN.6",
+                "titulo": "Pilates",
+                "autor": "Mais Wesson y Mark Lauren"
+            },
+            {
+                "referencia": "BIEN.7",
+                "titulo": "Estirándose, el libro de fitness más famoso de todos los tiempos",
+                "autor": "Bob Anderson"
+            },
+            {
+                "referencia": "BIEN.8",
+                "titulo": "El mito de la diosa fortuna",
+                "autor": "Jorge Bucay"
+            },
+            {
+                "referencia": "BIEN.9",
+                "titulo": "Seso quebrado",
+                "autor": "Ramiro A. Calle"
+            },
+            {
+                "referencia": "BIEN.10",
+                "titulo": "Constelaciones",
+                "autor": "Guía ilustrada de astrología"
+            },
+            {
+                "referencia": "BIEN.11",
+                "titulo": "Construye tu destino",
+                "autor": "Wayne W. Dyer"
+            },
+            {
+                "referencia": "BIEN.12",
+                "titulo": "La voz de tu alma",
+                "autor": "Lain"
+            },
+            {
+                "referencia": "BIEN.13",
+                "titulo": "Diccionario práctico de plantas y jardines",
+                "autor": "Ediciones Nobel"
+            },
+            {
+                "referencia": "BIEN.14",
+                "titulo": "El Mundo Amarillo",
+                "autor": "Albert Espinosa"
+            },
+            {
+                "referencia": "BIEN.15",
+                "titulo": "El Don de la felicidad",
+                "autor": "Elaine N. Aron"
+            },
+            {
+                "referencia": "BIEN.16",
+                "titulo": "Tus zonas erróneas",
+                "autor": "Dr. Wayne W. Dyer"
+            },
+            {
+                "referencia": "BIEN.17",
+                "titulo": "Inteligencia Emocional",
+                "autor": "Daniel Goleman"
+            },
+            {
+                "referencia": "BIEN.18",
+                "titulo": "El Tercer ojo",
+                "autor": "T. Lobsang Rampa"
+            },
+            {
+                "referencia": "BIEN.19",
+                "titulo": "El buen amor",
+                "autor": "Sergio Sinay"
+            },
+            {
+                "referencia": "BIEN.20",
+                "titulo": "El arte de vivir en pareja",
+                "autor": "Sergio Sinay"
+            },
+            {
+                "referencia": "BIEN.21",
+                "titulo": "Yoga teoría y práctica",
+                "autor": "Francesca Chiappone"
+            },
+            {
+                "referencia": "BIEN.22",
+                "titulo": "Mística oriental para occidentales",
+                "autor": "Panico A. Calle"
+            },
+            {
+                "referencia": "BIEN.23",
+                "titulo": "Aprendices de las emociones",
+                "autor": "Norberto Levy"
+            },
+            {
+                "referencia": "BIEN.24",
+                "titulo": "El amor que nos cura",
+                "autor": "Boris Cyrulnik"
+            },
+            {
+                "referencia": "BIEN.25",
+                "titulo": "Manual práctico de chacras",
+                "autor": "Mika Widmaaka"
+            },
+            {
+                "referencia": "BIEN.26",
+                "titulo": "El sinsentido común",
+                "autor": "Borja Vilaseca"
+            },
+            {
+                "referencia": "BIEN.27",
+                "titulo": "La cocina saludable",
+                "autor": "Moritz Anton"
+            },
+            {
+                "referencia": "BIEN.28",
+                "titulo": "Aromaterapia",
+                "autor": "D. Rose Fiszbein"
+            },
+            {
+                "referencia": "BIEN.29",
+                "titulo": "Mindfulness",
+                "autor": "Mark Williams"
+            },
+            {
+                "referencia": "BIEN.30",
+                "titulo": "El huerto y la botica en casa",
+                "autor": "Carmel Conche"
+            },
+            {
+                "referencia": "BIEN.31",
+                "titulo": "Medicina natural para niños",
+                "autor": "Julian Scotti"
+            },
+            {
+                "referencia": "BIEN.32",
+                "titulo": "Cómo practicar la meditación",
+                "autor": "Centro Sivamanda"
+            },
+            {
+                "referencia": "BIEN.33",
+                "titulo": "La alimentación de tu hijo",
+                "autor": "Patricia Castillo"
+            },
+            {
+                "referencia": "BIEN.34",
+                "titulo": "El libro del Yogurt",
+                "autor": "Susaeta"
+            },
+            {
+                "referencia": "BIEN.35",
+                "titulo": "Manual de plantas de interior",
+                "autor": "Everest"
+            },
+            {
+                "referencia": "BIEN.36",
+                "titulo": "Gran libro del masaje",
+                "autor": "Servilibro"
+            },
+            {
+                "referencia": "BIEN.37",
+                "titulo": "El Tao",
+                "autor": "Javid Ru"
+            },
+            {
+                "referencia": "BIEN.38",
+                "titulo": "El Mundo en tus manos",
+                "autor": "Elsa Punset"
+            },
+            {
+                "referencia": "BIEN.39",
+                "titulo": "Felicidades",
+                "autor": "Elsa Punset"
+            },
+            {
+                "referencia": "BIEN.40",
+                "titulo": "El viaje a la Felicidad",
+                "autor": "Eduardo Punset"
+            },
+            {
+                "referencia": "BIEN.41",
+                "titulo": "Juego para ejercitar la mente",
+                "autor": "Kit integral"
+            },
+            {
+                "referencia": "BIEN.42",
+                "titulo": "La dieta ayurvédica",
+                "autor": "Editorial Hispano Europea"
+            },
+            {
+                "referencia": "BIEN.43",
+                "titulo": "Guía de la meditación",
+                "autor": "E. Ko Editable"
+            },
+            {
+                "referencia": "BIEN.44",
+                "titulo": "Recetas vegetarianas del mundo",
+                "autor": "Sanch Brown"
+            },
+            {
+                "referencia": "BIEN.45",
+                "titulo": "Manual de los vinos de España",
+                "autor": "Pedro Plasencia"
+            },
+            {
+                "referencia": "BIEN.46",
+                "titulo": "Cocinar con verduras",
+                "autor": "Cocina actual del siglo XXI"
+            },
+            {
+                "referencia": "BIEN.47",
+                "titulo": "La Cocina vegetariana clásica",
+                "autor": "Roue Eliot"
+            },
+            {
+                "referencia": "BIEN.48",
+                "titulo": "Cocina para los más pequeños",
+                "autor": "España Calpe"
+            },
+            {
+                "referencia": "BIEN.49",
+                "titulo": "La digestión es la cuestión",
+                "autor": "Giulia Enders"
+            },
+            {
+                "referencia": "BIEN.50",
+                "titulo": "El alma está en el cerebro",
+                "autor": "Eduardo Punset"
+            },
+            {
+                "referencia": "BIEN.51",
+                "titulo": "Si tú me dices ven lo dejo todo... pero dime ven",
+                "autor": "Albert Espinosa"
+            },
+            {
+                "referencia": "BIEN.52",
+                "titulo": "El arte de no amargarse la vida",
+                "autor": "Rafael Santandreu"
+            },
+            {
+                "referencia": "BIEN.53",
+                "titulo": "100 años de nutrición",
+                "autor": "Claudio Mariscal"
+            },
+            {
+                "referencia": "BIEN.54",
+                "titulo": "El vino no tiene misterio",
+                "autor": "Ophelie Neiman"
+            },
+            {
+                "referencia": "BIEN.55",
+                "titulo": "La Miel",
+                "autor": "Janet Bond"
+            },
+            {
+                "referencia": "BIEN.56",
+                "titulo": "La manzanilla",
+                "autor": "Valter Curzi"
+            },
+            {
+                "referencia": "BIEN.57",
+                "titulo": "Manual para el cuidado del perro",
+                "autor": "Susaeta"
+            },
+            {
+                "referencia": "BIEN.58",
+                "titulo": "Un jardín muy divertido",
+                "autor": "Grijalbo"
+            },
+            {
+                "referencia": "BIEN.59",
+                "titulo": "El arte de cuidarse en las 5 estaciones",
+                "autor": "Blanca Galofré"
+            },
+            {
+                "referencia": "BIEN.60",
+                "titulo": "Ejercicios de yoga",
+                "autor": "S. MVZVSDAR"
+            },
+            {
+                "referencia": "BIEN.61",
+                "titulo": "Tantra, energía y éxtasis",
+                "autor": "OSMO"
+            },
+            {
+                "referencia": "BIEN.62",
+                "titulo": "El gran libro de la madre",
+                "autor": "No aplicable"
+            }
+        ],
         "subcontadores": {}
     },
     "CIEN": {
@@ -1891,6 +2325,131 @@
                 "referencia": "HIST.37",
                 "titulo": "Alejandro Magno",
                 "autor": "Nicholas Nicastro"
+            },
+            {
+                "referencia": "HIST.38",
+                "titulo": "Hacia la casa común europea",
+                "autor": "Mijail Gorbachev"
+            },
+            {
+                "referencia": "HIST.39",
+                "titulo": "Enigmas de la historia",
+                "autor": "Editorial Progreso"
+            },
+            {
+                "referencia": "HIST.40",
+                "titulo": "V. I. Lenin, esbozo biográfico",
+                "autor": "Editorial Progreso"
+            },
+            {
+                "referencia": "HIST.41",
+                "titulo": "Historia de América Latina",
+                "autor": "Carlos M.Rama"
+            },
+            {
+                "referencia": "HIST.42",
+                "titulo": "Usos y costumbres sexuales de los Reyes de España",
+                "autor": "Emilio Calderón"
+            },
+            {
+                "referencia": "HIST.43",
+                "titulo": "Beethoven",
+                "autor": "Hector Berlioz"
+            },
+            {
+                "referencia": "HIST.44",
+                "titulo": "La vida heroica del Marie Curie",
+                "autor": "Eva Curie"
+            },
+            {
+                "referencia": "HIST.45",
+                "titulo": "Historia del Arte del Próximo Oriente",
+                "autor": "Fernando de Olaguer-Feliu"
+            },
+            {
+                "referencia": "HIST.46",
+                "titulo": "Historia del Arte de la Baja Edad Media",
+                "autor": "Mª Ángeles B. Piquero"
+            },
+            {
+                "referencia": "HIST.47",
+                "titulo": "La vida cotidiana en la España Musulmana",
+                "autor": "Fernando Pati-Playá"
+            },
+            {
+                "referencia": "HIST.48",
+                "titulo": "De Gaulle",
+                "autor": "François Mauriac"
+            },
+            {
+                "referencia": "HIST.49",
+                "titulo": "Cuaderno de notas",
+                "autor": "Leonardo Da Vinci"
+            },
+            {
+                "referencia": "HIST.50",
+                "titulo": "El mundo de las antigüedades: cerámica del siglo XVIII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.51",
+                "titulo": "El mundo de las antigüedades: cerámica del siglo XIX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.52",
+                "titulo": "El mundo de las antigüedades: el mueble del siglo XX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.53",
+                "titulo": "El mundo de las antigüedades: tapices de los siglos XV, XVI, XVII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.54",
+                "titulo": "El mundo de las antigüedades: tapices del siglo XVIII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.55",
+                "titulo": "El mundo de las antigüedades: plata del siglo XVIII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.56",
+                "titulo": "El mundo de las antigüedades: plata del siglos XIX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.57",
+                "titulo": "El mundo de las antigüedades: vidrio de los siglos XV, XVI, XVII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.58",
+                "titulo": "El mundo de las antigüedades: vidrio de los siglos XVIII y XIX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.59",
+                "titulo": "Colecciones de arqueología y etnología de América",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.60",
+                "titulo": "El mundo de las antigüedades: alfombras orientales",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.61",
+                "titulo": "Porcelanas",
+                "autor": "Susana Morgani"
+            },
+            {
+                "referencia": "HIST.62",
+                "titulo": "Los nueve libros de la historia",
+                "autor": "Heródoto"
             }
         ],
         "subcontadores": {}
