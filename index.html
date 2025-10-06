@@ -77,16 +77,14 @@
         transition: background-color 0.5s;
         width: auto;
     }
-        /* Ajuste para móviles */
     @media (max-width: 600px) {
         #leyendaBtn {
-            top: auto;       /* quitar top fijo */
-            bottom: 20px;    /* lo ponemos abajo */
+            top: auto;
+            bottom: 20px;
             right: 20px;     
-            width: 120px;    /* ancho más cómodo en móvil */
+            width: 120px;
         }
     }
-
 
     #leyendaBtn:hover { background-color: #0056b3; }
 
@@ -258,21 +256,35 @@ const lista = document.getElementById("listaLeyenda");
 
 btn.onclick = () => {
     lista.innerHTML = "";
+
     for (let cod in biblioteca) {
         const sec = biblioteca[cod];
+        let totalLibros = sec.libros.length;
+
+        // Contar libros en subsecciones
+        for (let sub in sec.subsecciones) {
+            totalLibros += sec.subsecciones[sub].length;
+        }
+
+        // Crear elemento principal con el conteo total
         const li = document.createElement("li");
-        li.innerHTML = `<strong>${cod} - ${sec.nombre}</strong>`;
+        li.innerHTML = `<strong>${cod} - ${sec.nombre}</strong> <span style="color:#007BFF;">(${totalLibros} libros)</span>`;
+
+        // Agregar subsecciones con su conteo
         if (Object.keys(sec.subsecciones).length > 0) {
             const ulSub = document.createElement("ul");
             for (let sub in sec.subsecciones) {
+                const numLibrosSub = sec.subsecciones[sub].length;
                 const subLi = document.createElement("li");
-                subLi.textContent = sub;
+                subLi.innerHTML = `${sub} <span style="color:#555;">(${numLibrosSub} libros)</span>`;
                 ulSub.appendChild(subLi);
             }
             li.appendChild(ulSub);
         }
+
         lista.appendChild(li);
     }
+
     modal.style.display = "block";
 };
 
