@@ -149,7 +149,148 @@
     "ARTE": {
         "nombre": "Arte",
         "subsecciones": {
-            "Cine": [],
+            "Cine": [
+                {
+                    "referencia": "ARTE.CINE.1",
+                    "titulo": "Historia del cine",
+                    "autor": "Roman Gubern"
+                },
+                {
+                    "referencia": "ARTE.CINE.2",
+                    "titulo": "Días de una cámara",
+                    "autor": "Néstor Almendros"
+                },
+                {
+                    "referencia": "ARTE.CINE.3",
+                    "titulo": "Plano a plano, de la idea a la pantalla",
+                    "autor": "S. D. Katz"
+                },
+                {
+                    "referencia": "ARTE.CINE.4",
+                    "titulo": "Técnica del montaje cinematográfico",
+                    "autor": "Karl Reitz"
+                },
+                {
+                    "referencia": "ARTE.CINE.5",
+                    "titulo": "Cinema como arma de clase",
+                    "autor": "Carlos y David Peez Merinero"
+                },
+                {
+                    "referencia": "ARTE.CINE.6",
+                    "titulo": "El arte de actuar",
+                    "autor": "UTAHAGEN"
+                },
+                {
+                    "referencia": "ARTE.CINE.7",
+                    "titulo": "Relatos que me asustaron",
+                    "autor": "Alfred Hitchcock"
+                },
+                {
+                    "referencia": "ARTE.CINE.8",
+                    "titulo": "Conversaciones íntimas",
+                    "autor": "Ingmar Bergman"
+                },
+                {
+                    "referencia": "ARTE.CINE.9",
+                    "titulo": "Boda en el delta",
+                    "autor": "Eudora Welty Proulx"
+                },
+                {
+                    "referencia": "ARTE.CINE.10",
+                    "titulo": "De aquí a la eternidad",
+                    "autor": "James Jones"
+                },
+                {
+                    "referencia": "ARTE.CINE.11",
+                    "titulo": "Marilyn Monroe",
+                    "autor": "Selmay ediciones"
+                },
+                {
+                    "referencia": "ARTE.CINE.12",
+                    "titulo": "El libro de Orson Welles",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "ARTE.CINE.13",
+                    "titulo": "Vinidiana",
+                    "autor": "Luis Buñuel"
+                },
+                {
+                    "referencia": "ARTE.CINE.14",
+                    "titulo": "Los colosos del cine, Paul Newman",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.15",
+                    "titulo": "Los colosos del cine, Alfred Hitchcock",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.16",
+                    "titulo": "Los colosos del cine, Gary Grant Newman",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.17",
+                    "titulo": "Los colosos del cine, J.L. Mankiewrcz",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.18",
+                    "titulo": "Los colosos del cine, Roman Polansky",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.19",
+                    "titulo": "Los colosos del cine, Marlon Brando",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.20",
+                    "titulo": "Brando por Brando",
+                    "autor": "Fotogramas"
+                },
+                {
+                    "referencia": "ARTE.CINE.21",
+                    "titulo": "Sin plumas",
+                    "autor": "Woody Allen"
+                },
+                {
+                    "referencia": "ARTE.CINE.22",
+                    "titulo": "Casablanca",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "ARTE.CINE.23",
+                    "titulo": "Alfred Hitchcock. Psicosis",
+                    "autor": "Edición de oro"
+                },
+                {
+                    "referencia": "ARTE.CINE.24",
+                    "titulo": "Como acabar de una vez por todas con la cultura",
+                    "autor": "Woody Allen"
+                },
+                {
+                    "referencia": "ARTE.CINE.25",
+                    "titulo": "The end",
+                    "autor": "Jean Claude Carrière"
+                },
+                {
+                    "referencia": "ARTE.CINE.26",
+                    "titulo": "Montgomery Clif",
+                    "autor": "Patricia Bosworth"
+                },
+                {
+                    "referencia": "ARTE.CINE.27",
+                    "titulo": "Cine y literatura",
+                    "autor": "Agenda cultural 1999"
+                },
+                {
+                    "referencia": "ARTE.CINE.28",
+                    "titulo": "Folleto escuela de Artes Visuales",
+                    "autor": "No aplicable"
+                }
+            ],
             "Museos": [
                 {
                     "referencia": "ARTE.MUSE.1",
@@ -753,6 +894,7 @@
         },
         "libros": [],
         "subcontadores": {
+            "Cine": 28,
             "Música": 33,
             "Museos": 17,
             "Pintura": 20,
