@@ -2,7 +2,133 @@
     "AJED": {
         "nombre": "Ajedrez",
         "subsecciones": {},
-        "libros": [],
+        "libros": [
+            {
+                "referencia": "AJED.1",
+                "titulo": "El arte del estudio de Ajedrez",
+                "autor": "Zoilo R. Caputto"
+            },
+            {
+                "referencia": "AJED.2",
+                "titulo": "El gran libro de ajedrez",
+                "autor": "Natale Ramini"
+            },
+            {
+                "referencia": "AJED.3",
+                "titulo": "Larousse del Ajedrez",
+                "autor": "Larousse"
+            },
+            {
+                "referencia": "AJED.4",
+                "titulo": "Ajedrez Español",
+                "autor": "Editorial SEAS"
+            },
+            {
+                "referencia": "AJED.5",
+                "titulo": "Las batallas de las ideas en el Ajedrez",
+                "autor": "Anthony Saidy"
+            },
+            {
+                "referencia": "AJED.6",
+                "titulo": "Ajedrez, maestro contra Amateur",
+                "autor": "M. Euwe y W. Meiden"
+            },
+            {
+                "referencia": "AJED.7",
+                "titulo": "El arte del Sacrificio en el ajedrez",
+                "autor": "Editorial de Vecchi"
+            },
+            {
+                "referencia": "AJED.8",
+                "titulo": "The Ultimate Pirc",
+                "autor": "John Nunn"
+            },
+            {
+                "referencia": "AJED.9",
+                "titulo": "Premios de belleza en el Ajedrez",
+                "autor": "François Le Lionnais"
+            },
+            {
+                "referencia": "AJED.10",
+                "titulo": "Táctica moderna en el Ajedrez",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.11",
+                "titulo": "Aperturas Semiabiertas I",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.12",
+                "titulo": "Aperturas Abiertas",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.13",
+                "titulo": "Garry Kasparov",
+                "autor": "M. Yudovich"
+            },
+            {
+                "referencia": "AJED.14",
+                "titulo": "El Ajedrez",
+                "autor": "Ricardo Aguilera"
+            },
+            {
+                "referencia": "AJED.15",
+                "titulo": "Corona Mundial de Ajedrez Kasparov-Karpov",
+                "autor": "Inaplicable"
+            },
+            {
+                "referencia": "AJED.16",
+                "titulo": "Los principios del Ajedrez",
+                "autor": "Ray Arvid"
+            },
+            {
+                "referencia": "AJED.17",
+                "titulo": "La partida de Ajedrez",
+                "autor": "Rubinstein"
+            },
+            {
+                "referencia": "AJED.18",
+                "titulo": "Defensa Siciliana",
+                "autor": "G. Kasparov y N. Nikitin (Club del Ajedrez)"
+            },
+            {
+                "referencia": "AJED.19",
+                "titulo": "El estilo posicional",
+                "autor": "V. Smyslov"
+            },
+            {
+                "referencia": "AJED.20",
+                "titulo": "El error en la apertura",
+                "autor": "Club del Ajedrez"
+            },
+            {
+                "referencia": "AJED.21",
+                "titulo": "Decisiones fundamentales del Ajedrez Capablanca",
+                "autor": "Club del Ajedrez"
+            },
+            {
+                "referencia": "AJED.22",
+                "titulo": "Fundamentos del Ajedrez Capablanca",
+                "autor": "Club del Ajedrez"
+            },
+            {
+                "referencia": "AJED.23",
+                "titulo": "Aperturas Cerradas",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.24",
+                "titulo": "Cuarto libro de Ajedrez",
+                "autor": "Fred Reinfeld"
+            },
+            {
+                "referencia": "AJED.25",
+                "titulo": "Apertura Italiana, 250 partidas",
+                "autor": "Colección Enroque"
+            }
+        ],
         "subcontadores": {}
     },
     "ARTE": {
@@ -49,9 +175,220 @@
                     "referencia": "ARTE.MUSE.8",
                     "titulo": "Guía Los vikingos",
                     "autor": "Museo de Oslo"
+                },
+                {
+                    "referencia": "ARTE.MUSE.9",
+                    "titulo": "Museo de arte ruso. Pinturas",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.10",
+                    "titulo": "Museo Sorolla",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.11",
+                    "titulo": "Cuadernos del M.A.N. Grecia",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.12",
+                    "titulo": "La Acrópolis. El museo de la Acrópolis",
+                    "autor": "Ekdotike Athenon"
+                },
+                {
+                    "referencia": "ARTE.MUSE.13",
+                    "titulo": "Entender mejor la pintura en la museo de Orsay",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.14",
+                    "titulo": "En el mar de Sorolla con Manuel Vicent",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.15",
+                    "titulo": "Guía, Catedral de Siena",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.16",
+                    "titulo": "Guía, Ciudad de Vaticano",
+                    "autor": "Edizione Musei Vaticani"
+                },
+                {
+                    "referencia": "ARTE.MUSE.17",
+                    "titulo": "Guía, La civilización Minoica",
+                    "autor": "Sosso Logiabov Platonos"
                 }
             ],
-            "Música": [],
+            "Música": [
+                {
+                    "referencia": "ARTE.MÚSI.1",
+                    "titulo": "Arias de concierto, Mozart (CD)",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.2",
+                    "titulo": "Colección genios de la música: Bach (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.3",
+                    "titulo": "Colección genios de la música: Beethoven (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.4",
+                    "titulo": "Colección genios de la música: Tchaikovsky (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.5",
+                    "titulo": "Colección genios de la música: Wagner (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.6",
+                    "titulo": "Colección genios de la música: Verdi (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.7",
+                    "titulo": "Colección genios de la música: Haendel (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.8",
+                    "titulo": "Colección genios de la música: Haydn (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.9",
+                    "titulo": "Colección genios de la música: Mozart (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.10",
+                    "titulo": "Colección genios de la música: Strauss (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.11",
+                    "titulo": "Las cuatro estaciones, Vivaldi (CD)",
+                    "autor": "Ed. Deutsche Grammophon"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.12",
+                    "titulo": "Gran Mozart, los años dorados",
+                    "autor": "H.C. Robbins Landon"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.13",
+                    "titulo": "Cancionero musical y poético: tonos castellanos",
+                    "autor": "Gerardo Arriaga"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.14",
+                    "titulo": "Modos vetus",
+                    "autor": "Ed. Edelvives"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.15",
+                    "titulo": "Choralgesänge",
+                    "autor": "J.S. Bach"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.16",
+                    "titulo": "Lézioni di Paleografía",
+                    "autor": "Claudio Battelli"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.17",
+                    "titulo": "Antón García Abril: Sonidos de libertad",
+                    "autor": "J. Cabezón Marín"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.18",
+                    "titulo": "Pizzicato y Tango",
+                    "autor": "Ricardo de Vega"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.19",
+                    "titulo": "Pequeña antología coral",
+                    "autor": "Mencos Vega"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.20",
+                    "titulo": "Apreciar la música",
+                    "autor": "Manuel Machado de Castro"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.21",
+                    "titulo": "El caso Vivaldi",
+                    "autor": "Federico María Sardelli"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.22",
+                    "titulo": "Graduale Triplex",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.23",
+                    "titulo": "Historia de la música española",
+                    "autor": "Ed. Alianza Música"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.24",
+                    "titulo": "El ruido eterno",
+                    "autor": "Alex Ross"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.25",
+                    "titulo": "Música clásica",
+                    "autor": "Ruthston"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.26",
+                    "titulo": "Relatos célebres sobre la música",
+                    "autor": "Varios autores"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.27",
+                    "titulo": "La música andalusí",
+                    "autor": "Amin Chaachoo"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.28",
+                    "titulo": "Diccionario enciclopédico de la música, 1.A",
+                    "autor": "Editorial Rambos"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.29",
+                    "titulo": "Historia de la música",
+                    "autor": "Sponia"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.30",
+                    "titulo": "La ópera y Sevilla",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.31",
+                    "titulo": "Western Pianchant",
+                    "autor": "Hiley"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.32",
+                    "titulo": "Historia de la música occidental",
+                    "autor": "Grout, Palisca"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.33",
+                    "titulo": "El canto mozárabe y su entorno",
+                    "autor": "Varios autores"
+                }
+            ],
             "Pintura": [
                 {
                     "referencia": "ARTE.PINT.1",
@@ -155,12 +492,145 @@
                 }
             ],
             "Poesía": [],
-            "Teatro": []
+            "Teatro": [
+                {
+                    "referencia": "ARTE.TEAT.1",
+                    "titulo": "La Celestina",
+                    "autor": "Fernando de Rojas"
+                },
+                {
+                    "referencia": "ARTE.TEAT.2",
+                    "titulo": "La vida es sueño",
+                    "autor": "Pedro Calderón de la Barca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.3",
+                    "titulo": "La venganza del Don Mendo",
+                    "autor": "Muñoz Seca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.4",
+                    "titulo": "El perro del hortelano",
+                    "autor": "Lope de Vega"
+                },
+                {
+                    "referencia": "ARTE.TEAT.5",
+                    "titulo": "Fausto",
+                    "autor": "Goethe"
+                },
+                {
+                    "referencia": "ARTE.TEAT.6",
+                    "titulo": "El caballero de Olmedo",
+                    "autor": "Lope de Vega"
+                },
+                {
+                    "referencia": "ARTE.TEAT.7",
+                    "titulo": "El Barbero de Sevilla",
+                    "autor": "Beaumarchais"
+                },
+                {
+                    "referencia": "ARTE.TEAT.8",
+                    "titulo": "Historia de una escalera",
+                    "autor": "Antonio Buero Vallejo"
+                },
+                {
+                    "referencia": "ARTE.TEAT.9",
+                    "titulo": "El alcalde de Zalamea",
+                    "autor": "Calderón de la Barca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.10",
+                    "titulo": "Casa de muñecas",
+                    "autor": "Henrik Ibsen"
+                },
+                {
+                    "referencia": "ARTE.TEAT.11",
+                    "titulo": "El Avaro / El enfermo imaginario",
+                    "autor": "Molière"
+                },
+                {
+                    "referencia": "ARTE.TEAT.12",
+                    "titulo": "Romeo y Julieta",
+                    "autor": "William Shakespeare"
+                },
+                {
+                    "referencia": "ARTE.TEAT.13",
+                    "titulo": "El enfermo imaginario / El médico a palos",
+                    "autor": "Molière"
+                },
+                {
+                    "referencia": "ARTE.TEAT.14",
+                    "titulo": "Los intereses creados",
+                    "autor": "Jacinto Benavente"
+                },
+                {
+                    "referencia": "ARTE.TEAT.15",
+                    "titulo": "Fuenteovejuna / El perro sin vergüenza",
+                    "autor": "Lope de Vega"
+                },
+                {
+                    "referencia": "ARTE.TEAT.16",
+                    "titulo": "Teatro universal escogido",
+                    "autor": "Editorial El Corte Inglés"
+                },
+                {
+                    "referencia": "ARTE.TEAT.17",
+                    "titulo": "Don Juan Tenorio",
+                    "autor": "Zorrilla"
+                },
+                {
+                    "referencia": "ARTE.TEAT.18",
+                    "titulo": "Las bodas de Fígaro",
+                    "autor": "Beaumarchais"
+                },
+                {
+                    "referencia": "ARTE.TEAT.19",
+                    "titulo": "Alfabetización básica del arte escénico",
+                    "autor": "César Oliva"
+                },
+                {
+                    "referencia": "ARTE.TEAT.20",
+                    "titulo": "La zapatera prodigiosa",
+                    "autor": "Federico García Lorca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.21",
+                    "titulo": "Hamlet",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "ARTE.TEAT.22",
+                    "titulo": "Caricero y Romancero español",
+                    "autor": "Francisco Alonso"
+                },
+                {
+                    "referencia": "ARTE.TEAT.23",
+                    "titulo": "Entremeses",
+                    "autor": "Miguel de Cervantes"
+                },
+                {
+                    "referencia": "ARTE.TEAT.24",
+                    "titulo": "Hamlet / Macbeth",
+                    "autor": "Shakespeare"
+                },
+                {
+                    "referencia": "ARTE.TEAT.25",
+                    "titulo": "Hamlet",
+                    "autor": "Shakespeare (Ed. Cátedra Letras Universales)"
+                },
+                {
+                    "referencia": "ARTE.TEAT.26",
+                    "titulo": "Casandra",
+                    "autor": "Benito Pérez Galdós"
+                }
+            ]
         },
         "libros": [],
         "subcontadores": {
-            "Museos": 8,
-            "Pintura": 20
+            "Música": 33,
+            "Museos": 17,
+            "Pintura": 20,
+            "Teatro": 26
         }
     },
     "BIEN": {
@@ -176,8 +646,305 @@
     "CIEN": {
         "nombre": "Ciencia",
         "subsecciones": {
-            "Física": [],
-            "Matemáticas": [],
+            "Académico": [
+                {
+                    "referencia": "CIEN.ACAD.1",
+                    "titulo": "Física 2º Bachillerato",
+                    "autor": "McGraw Hill"
+                },
+                {
+                    "referencia": "CIEN.ACAD.2",
+                    "titulo": "Física Tipler-Mosca Volumen 1A Mecánica",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.3",
+                    "titulo": "Física Tipler-Mosca Volumen 1B Oscilaciones y ondas",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.4",
+                    "titulo": "Física Tipler-Mosca Volumen 1C Termodinámica",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.5",
+                    "titulo": "Física Tipler-Mosca Volumen 2A Electromagnetismo",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.6",
+                    "titulo": "Física Tipler-Mosca Volumen 2B Luz",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.7",
+                    "titulo": "Física Tipler-Mosca Física moderna",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.8",
+                    "titulo": "Física Universitaria Volumen 1",
+                    "autor": "Zemansky"
+                },
+                {
+                    "referencia": "CIEN.ACAD.9",
+                    "titulo": "Física Universitaria Volumen 2",
+                    "autor": "Zemansky"
+                },
+                {
+                    "referencia": "CIEN.ACAD.10",
+                    "titulo": "Matemáticas Básicas",
+                    "autor": "UNED"
+                },
+                {
+                    "referencia": "CIEN.ACAD.11",
+                    "titulo": "Cálculo Vectorial",
+                    "autor": "Marsden - Tromba"
+                },
+                {
+                    "referencia": "CIEN.ACAD.12",
+                    "titulo": "Álgebra Lineal",
+                    "autor": "Juan de Burgos"
+                },
+                {
+                    "referencia": "CIEN.ACAD.13",
+                    "titulo": "Manual de Matemáticas para las Ciencias Médicas",
+                    "autor": "Psipkin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.14",
+                    "titulo": "Geometría Moderna. Método de la Teoría de Homologías",
+                    "autor": "Dubrovín"
+                },
+                {
+                    "referencia": "CIEN.ACAD.15",
+                    "titulo": "Álgebra Práctica",
+                    "autor": "Carlos Matías Aracil"
+                },
+                {
+                    "referencia": "CIEN.ACAD.16",
+                    "titulo": "Electrotecnia para Técnicos",
+                    "autor": "J. A. Martín Terneiro"
+                },
+                {
+                    "referencia": "CIEN.ACAD.17",
+                    "titulo": "Principia Mathematica",
+                    "autor": "Isaac Newton"
+                },
+                {
+                    "referencia": "CIEN.ACAD.18",
+                    "titulo": "Física General",
+                    "autor": "Lozano"
+                },
+                {
+                    "referencia": "CIEN.ACAD.19",
+                    "titulo": "Tratado Elemental de Física",
+                    "autor": "Ganot"
+                },
+                {
+                    "referencia": "CIEN.ACAD.20",
+                    "titulo": "Introducción a la Física de Átomos y Moléculas",
+                    "autor": "Francisco Blanco Ramos"
+                },
+                {
+                    "referencia": "CIEN.ACAD.21",
+                    "titulo": "Curso de Astronomía General",
+                    "autor": "Bakulin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.22",
+                    "titulo": "Manual de Física General",
+                    "autor": "B. I. Yavorski"
+                },
+                {
+                    "referencia": "CIEN.ACAD.23",
+                    "titulo": "Curso de Física General",
+                    "autor": "S. Faish"
+                },
+                {
+                    "referencia": "CIEN.ACAD.24",
+                    "titulo": "Álgebra Lineal y algunas de sus aplicaciones",
+                    "autor": "N. I. Golovina"
+                },
+                {
+                    "referencia": "CIEN.ACAD.25",
+                    "titulo": "Ciencia Moderna y Filosofía",
+                    "autor": "José María Riaga"
+                },
+                {
+                    "referencia": "CIEN.ACAD.26",
+                    "titulo": "Problemas de Física",
+                    "autor": "Aguilar"
+                },
+                {
+                    "referencia": "CIEN.ACAD.27",
+                    "titulo": "Problemas de Física 1",
+                    "autor": "Gullón"
+                },
+                {
+                    "referencia": "CIEN.ACAD.28",
+                    "titulo": "Problemas de Física 3",
+                    "autor": "Gullón"
+                },
+                {
+                    "referencia": "CIEN.ACAD.29",
+                    "titulo": "Problemas de Física",
+                    "autor": "Precioso"
+                },
+                {
+                    "referencia": "CIEN.ACAD.30",
+                    "titulo": "Problemas seleccionados de Física Elemental",
+                    "autor": "B. B. Biyatkeev"
+                },
+                {
+                    "referencia": "CIEN.ACAD.31",
+                    "titulo": "Compendio de Física y Química",
+                    "autor": "Aleicha"
+                },
+                {
+                    "referencia": "CIEN.ACAD.32",
+                    "titulo": "Química General",
+                    "autor": "B. V. Ketkánov"
+                },
+                {
+                    "referencia": "CIEN.ACAD.33",
+                    "titulo": "Temas básicos de Química",
+                    "autor": "S. Donzillo"
+                },
+                {
+                    "referencia": "CIEN.ACAD.34",
+                    "titulo": "Química Orgánica para Enseñanza Media",
+                    "autor": "L. A. Tsvetkov"
+                },
+                {
+                    "referencia": "CIEN.ACAD.35",
+                    "titulo": "Bioquímica",
+                    "autor": "Lehninger"
+                },
+                {
+                    "referencia": "CIEN.ACAD.36",
+                    "titulo": "Prácticas de Química General Inorgánica",
+                    "autor": "V. Semosthin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.37",
+                    "titulo": "Curso de Mineralogía",
+                    "autor": "A. Betekhtin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.38",
+                    "titulo": "Tratado de Terapéutica y Materia Médica 1872",
+                    "autor": "A. Trousseau, H. Pidoux"
+                },
+                {
+                    "referencia": "CIEN.ACAD.39",
+                    "titulo": "Cálculo diferencial",
+                    "autor": "Víctor Sánchez"
+                },
+                {
+                    "referencia": "CIEN.ACAD.40",
+                    "titulo": "Tratado de geometría, tercer grado",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "CIEN.ACAD.41",
+                    "titulo": "Nociones de álgebra",
+                    "autor": "Bruño"
+                },
+                {
+                    "referencia": "CIEN.ACAD.42",
+                    "titulo": "Elemnetos de matemáticas",
+                    "autor": "Borges"
+                }
+            ],
+            "Divulgación": [
+                {
+                    "referencia": "CIEN.DIVU.1",
+                    "titulo": "Destino año 2000",
+                    "autor": "Pierre Pailhé"
+                },
+                {
+                    "referencia": "CIEN.DIVU.2",
+                    "titulo": "Cómo fueron descubiertos los elementos químicos",
+                    "autor": "D.N. Trífonov"
+                },
+                {
+                    "referencia": "CIEN.DIVU.3",
+                    "titulo": "Yo, Simpson y las matemáticas",
+                    "autor": "Simon Singh"
+                },
+                {
+                    "referencia": "CIEN.DIVU.4",
+                    "titulo": "Matemática para divertirse",
+                    "autor": "Martin Gardner"
+                },
+                {
+                    "referencia": "CIEN.DIVU.5",
+                    "titulo": "Un eterno y grácil bucle: Gödel, Escher, Bach",
+                    "autor": "Douglas Hofstadter"
+                },
+                {
+                    "referencia": "CIEN.DIVU.6",
+                    "titulo": "Colección revistas: Tribunal de Astronomía (31 ejemplares)",
+                    "autor": "Tribunal de Astronomía"
+                },
+                {
+                    "referencia": "CIEN.DIVU.7",
+                    "titulo": "Colección revistas: Investigación y Ciencia (36 ejemplares)",
+                    "autor": "Investigación y Ciencia"
+                },
+                {
+                    "referencia": "CIEN.DIVU.8",
+                    "titulo": "Colección revistas: Revista española de física (10 ejemplares)",
+                    "autor": "Revista española de física"
+                },
+                {
+                    "referencia": "CIEN.DIVU.9",
+                    "titulo": "Colección revistas: The Messenger (4 ejemplares)",
+                    "autor": "The Messenger"
+                },
+                {
+                    "referencia": "CIEN.DIVU.10",
+                    "titulo": "Colección revistas: National Geographic (5 ejemplares)",
+                    "autor": "National Geographic"
+                },
+                {
+                    "referencia": "CIEN.DIVU.11",
+                    "titulo": "La enciclopedia del estudiante. Ciencia, la Tierra y el Universo",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "CIEN.DIVU.12",
+                    "titulo": "Libro de la ciencia",
+                    "autor": "Eduardo Vilas"
+                },
+                {
+                    "referencia": "CIEN.DIVU.13",
+                    "titulo": "Lecciones populares de matemáticas: Construcciones geométricas mediante un compás",
+                    "autor": "A.N. Kostovski"
+                },
+                {
+                    "referencia": "CIEN.DIVU.14",
+                    "titulo": "Lecciones populares de matemáticas: Acerca de la demostración en geometría",
+                    "autor": "A.I. Fetísov"
+                },
+                {
+                    "referencia": "CIEN.DIVU.15",
+                    "titulo": "Lecciones populares de matemáticas: ¿Qué es el cálculo diferencial?",
+                    "autor": "V.G. Boltianski"
+                },
+                {
+                    "referencia": "CIEN.DIVU.16",
+                    "titulo": "Lecciones populares de matemáticas: Análisis matemático en el campo de funciones racionales",
+                    "autor": "G.E. Shílov"
+                },
+                {
+                    "referencia": "CIEN.DIVU.17",
+                    "titulo": "Lecciones populares de matemáticas: Inducción en la geometría",
+                    "autor": "L.I. Goloviná"
+                }
+            ],
             "Fauna": [
                 {
                     "referencia": "CIEN.FAUN.1",
@@ -233,7 +1000,9 @@
         },
         "libros": [],
         "subcontadores": {
-            "Fauna": 10
+            "Fauna": 10,
+            "Académico": 42,
+            "Divulgación": 17
         }
     },
     "FILO": {
@@ -327,7 +1096,7 @@
             },
             {
                 "referencia": "FILO.18",
-                "titulo": "Séneca o el beneficio de la suerte",
+                "titulo": "Séneca o el beneficio de la duda",
                 "autor": "Antonio Gala"
             },
             {
@@ -582,7 +1351,7 @@
             },
             {
                 "referencia": "FILO.69",
-                "titulo": "El ser y el tiempo",
+                "titulo": "Ser y tiempo",
                 "autor": "Martin Heidegger"
             },
             {
@@ -642,6 +1411,203 @@
             }
         ],
         "subcontadores": {}
+    },
+    "FISI": {
+        "nombre": "Física",
+        "subsecciones": {
+            "Astronomía": [
+                {
+                    "referencia": "FISI.ASTR.1",
+                    "titulo": "Hacia las estrellas",
+                    "autor": "Alex Riveiro"
+                },
+                {
+                    "referencia": "FISI.ASTR.2",
+                    "titulo": "Astrofísica para gente con prisas",
+                    "autor": "Neil deGrasse Tyson"
+                },
+                {
+                    "referencia": "FISI.ASTR.3",
+                    "titulo": "Nueva astronomía recreativa",
+                    "autor": "V.P. Komarov"
+                },
+                {
+                    "referencia": "FISI.ASTR.4",
+                    "titulo": "Enciclopedia visual de las preguntas: El universo",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "FISI.ASTR.5",
+                    "titulo": "Abecedario cósmico",
+                    "autor": "V. Gorkov"
+                },
+                {
+                    "referencia": "FISI.ASTR.6",
+                    "titulo": "Cosmos",
+                    "autor": "Carl Sagan"
+                },
+                {
+                    "referencia": "FISI.ASTR.7",
+                    "titulo": "Un punto azul pálido",
+                    "autor": "Carl Sagan"
+                },
+                {
+                    "referencia": "FISI.ASTR.8",
+                    "titulo": "Galaxia",
+                    "autor": "National Geographic"
+                },
+                {
+                    "referencia": "FISI.ASTR.9",
+                    "titulo": "Atlas arqueoastronomía",
+                    "autor": "Belmonte; Hoskin"
+                },
+                {
+                    "referencia": "FISI.ASTR.10",
+                    "titulo": "La astronomía en el antiguo testamento",
+                    "autor": "Juan V. Schiaparelli"
+                },
+                {
+                    "referencia": "FISI.ASTR.11",
+                    "titulo": "Grandes astrónomos anteriores a Newton",
+                    "autor": "Francisco Ango"
+                },
+                {
+                    "referencia": "FISI.ASTR.12",
+                    "titulo": "Guía del cielo",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "FISI.ASTR.13",
+                    "titulo": "Libro de las estrellas en tres dimensiones",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "FISI.ASTR.14",
+                    "titulo": "Atlas de astronomía",
+                    "autor": "Alliance Atlas"
+                },
+                {
+                    "referencia": "FISI.ASTR.15",
+                    "titulo": "Anuario del observatorio astronómico año 2000",
+                    "autor": "Ministerio de Fomento IGM"
+                },
+                {
+                    "referencia": "FISI.ASTR.16",
+                    "titulo": "Estrellas, ilustraciones y gráficas",
+                    "autor": "Guías de naturaleza Blume"
+                }
+            ],
+            "General": [
+                {
+                    "referencia": "FISI.GENE.1",
+                    "titulo": "Física al alcance de todos: La temperatura",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.2",
+                    "titulo": "Física al alcance de todos: Paradojas y sofismas físicos",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.3",
+                    "titulo": "Física al alcance de todos: Ondas a nuestro alrededor",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.4",
+                    "titulo": "Física al alcance de todos: Física y geodinámica de la atmósfera",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.5",
+                    "titulo": "Física al alcance de todos: Conceptos físicos universales",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.6",
+                    "titulo": "Física al alcance de todos: El mundo relativista",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.7",
+                    "titulo": "Física al alcance de todos: Nuestro planeta la Tierra",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.8",
+                    "titulo": "Física al alcance de todos: La naturaleza del magnetismo",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.9",
+                    "titulo": "Física al alcance de todos: La caza del cero absoluto",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.10",
+                    "titulo": "El divertido juego de la física",
+                    "autor": "Y. Perlmann"
+                },
+                {
+                    "referencia": "FISI.GENE.11",
+                    "titulo": "Problemas experimentales ingeniosos de Física",
+                    "autor": "Editorial Mir Moscú"
+                }
+            ],
+            "Teórica": [
+                {
+                    "referencia": "FISI.TEÓR.1",
+                    "titulo": "El tejido del cosmos",
+                    "autor": "Brian Greene"
+                },
+                {
+                    "referencia": "FISI.TEÓR.2",
+                    "titulo": "Las ondas del espacio-tiempo: la revolución de las ondas gravitatorias",
+                    "autor": "Matteo Barsuglia"
+                },
+                {
+                    "referencia": "FISI.TEÓR.3",
+                    "titulo": "Un paseo por el cosmos: La materia oscura",
+                    "autor": "Un paseo por el cosmos"
+                },
+                {
+                    "referencia": "FISI.TEÓR.4",
+                    "titulo": "Un paseo por el cosmos: Espacio-tiempo cuántico",
+                    "autor": "Un paseo por el cosmos"
+                },
+                {
+                    "referencia": "FISI.TEÓR.5",
+                    "titulo": "Historia del tiempo",
+                    "autor": "Stephen W. Hawking"
+                },
+                {
+                    "referencia": "FISI.TEÓR.6",
+                    "titulo": "¿Qué sabemos del universo?",
+                    "autor": "Juan Pérez Mercader"
+                },
+                {
+                    "referencia": "FISI.TEÓR.7",
+                    "titulo": "El bosón de Higgs",
+                    "autor": "Alberto Casas y Teresa Rodrigo CSIC"
+                },
+                {
+                    "referencia": "FISI.TEÓR.8",
+                    "titulo": "El LHC y la frontera de la física",
+                    "autor": "Alberto Casas"
+                },
+                {
+                    "referencia": "FISI.TEÓR.9",
+                    "titulo": "¿Y si el tiempo no existiera?",
+                    "autor": "Carlo Rovelli"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Astronomía": 16,
+            "General": 11,
+            "Teórica": 9
+        }
     },
     "GEOG": {
         "nombre": "Geografía",
@@ -740,13 +1706,426 @@
             "Edad Media": [],
             "Antigua": []
         },
-        "libros": [],
+        "libros": [
+            {
+                "referencia": "HIST.1",
+                "titulo": "Historia de Grecia",
+                "autor": "Pastora Barahona"
+            },
+            {
+                "referencia": "HIST.2",
+                "titulo": "Gran Historia Universal, el Mundo Griego",
+                "autor": "Club Internacional del Libro de Madrid"
+            },
+            {
+                "referencia": "HIST.3",
+                "titulo": "Historia de Madrid",
+                "autor": "Antonio Fernández García"
+            },
+            {
+                "referencia": "HIST.4",
+                "titulo": "Atlas Histórico de la España Romana",
+                "autor": "Susseto"
+            },
+            {
+                "referencia": "HIST.5",
+                "titulo": "La España Visigoda",
+                "autor": "Susseto"
+            },
+            {
+                "referencia": "HIST.6",
+                "titulo": "Desde Don Pelayo hasta Don Juan Carlos I",
+                "autor": "Pedro de Felipe del Rey"
+            },
+            {
+                "referencia": "HIST.7",
+                "titulo": "Cartas de la Conquista de México",
+                "autor": "Hernán Cortés"
+            },
+            {
+                "referencia": "HIST.8",
+                "titulo": "Historia de la Guerra del Peloponeso",
+                "autor": "Tucídides"
+            },
+            {
+                "referencia": "HIST.9",
+                "titulo": "SPQR, una historia de la Antigua Roma",
+                "autor": "Mary Beard"
+            },
+            {
+                "referencia": "HIST.10",
+                "titulo": "La muerte del Che Guevara",
+                "autor": "Jay Cantor"
+            },
+            {
+                "referencia": "HIST.11",
+                "titulo": "Los masones",
+                "autor": "César Vidal"
+            },
+            {
+                "referencia": "HIST.12",
+                "titulo": "La España de Fernando VII",
+                "autor": "Miguel Artola"
+            },
+            {
+                "referencia": "HIST.13",
+                "titulo": "Anarquía e Imperio, el Reinado de Carlos V",
+                "autor": "John Lynch"
+            },
+            {
+                "referencia": "HIST.14",
+                "titulo": "Sapiens, de animales a dioses",
+                "autor": "Yuval Noah Harari"
+            },
+            {
+                "referencia": "HIST.15",
+                "titulo": "Crisol, España en su Faustino Cordon",
+                "autor": "Antonio Muñoz"
+            },
+            {
+                "referencia": "HIST.16",
+                "titulo": "Breve historia del arte",
+                "autor": "Gina Pischel"
+            },
+            {
+                "referencia": "HIST.17",
+                "titulo": "1808, el dos de mayo",
+                "autor": "Pedro Corral y Julio Carabaña"
+            },
+            {
+                "referencia": "HIST.18",
+                "titulo": "Egipto",
+                "autor": "A. Erman"
+            },
+            {
+                "referencia": "HIST.19",
+                "titulo": "Mi vida",
+                "autor": "León Trotsky"
+            },
+            {
+                "referencia": "HIST.20",
+                "titulo": "El mundo de ayer, memorias de un europeo",
+                "autor": "Stefan Zweig"
+            },
+            {
+                "referencia": "HIST.21",
+                "titulo": "España en la vida italiana durante el Renacimiento",
+                "autor": "Benedetto Croce"
+            },
+            {
+                "referencia": "HIST.22",
+                "titulo": "La España elegida",
+                "autor": "Juan Luis Arsuaga"
+            },
+            {
+                "referencia": "HIST.23",
+                "titulo": "Los crímenes dorados",
+                "autor": "Antonio Piñero"
+            },
+            {
+                "referencia": "HIST.24",
+                "titulo": "La sociedad japonesa",
+                "autor": "Andrés Bellersart"
+            },
+            {
+                "referencia": "HIST.25",
+                "titulo": "Suelo y medio de fósforos",
+                "autor": "Fosforera Española"
+            },
+            {
+                "referencia": "HIST.26",
+                "titulo": "La formación de la humanidad",
+                "autor": "Richard Leakey"
+            },
+            {
+                "referencia": "HIST.27",
+                "titulo": "Tres Peticiones a la Revolución Francesa",
+                "autor": "Albert Z. Manfred"
+            },
+            {
+                "referencia": "HIST.28",
+                "titulo": "Cuentos de Belkin",
+                "autor": "Alexander Pushkin"
+            },
+            {
+                "referencia": "HIST.29",
+                "titulo": "Los protocolos de los sabios de Sion",
+                "autor": "Editorial Época"
+            },
+            {
+                "referencia": "HIST.30",
+                "titulo": "La vida de los Césares",
+                "autor": "Suetonio"
+            },
+            {
+                "referencia": "HIST.31",
+                "titulo": "Magallanes",
+                "autor": "Stefan Zweig"
+            },
+            {
+                "referencia": "HIST.32",
+                "titulo": "Acerca del anarquismo y el anarcorsindicalismo",
+                "autor": "Marx, Engels, Lenin"
+            },
+            {
+                "referencia": "HIST.33",
+                "titulo": "Lenin",
+                "autor": "Herman Weber"
+            },
+            {
+                "referencia": "HIST.34",
+                "titulo": "Mao Zedong",
+                "autor": "Freeman Gamm"
+            },
+            {
+                "referencia": "HIST.35",
+                "titulo": "Bolívar",
+                "autor": "Jorge Campos"
+            },
+            {
+                "referencia": "HIST.36",
+                "titulo": "La caída de los dioses",
+                "autor": "Daniel Solars"
+            },
+            {
+                "referencia": "HIST.37",
+                "titulo": "Alejandro Magno",
+                "autor": "Nicholas Nicastro"
+            }
+        ],
         "subcontadores": {}
     },
     "INFA": {
         "nombre": "Infantil, Juvenil y Fábulas",
         "subsecciones": {},
         "libros": [],
+        "subcontadores": {}
+    },
+    "IDIO": {
+        "nombre": "Idiomas",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "IDIO.1",
+                "titulo": "English File A1 Student's book",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.2",
+                "titulo": "English File A1 Workbook",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.3",
+                "titulo": "Move On Student's book",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.4",
+                "titulo": "Move On Workbook",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.5",
+                "titulo": "View Points for Bachillerato",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.6",
+                "titulo": "That's English Module 5",
+                "autor": "Burlington Books"
+            },
+            {
+                "referencia": "IDIO.7",
+                "titulo": "That's English Module 6",
+                "autor": "Burlington Books"
+            },
+            {
+                "referencia": "IDIO.8",
+                "titulo": "Compact Advanced Student's book",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.9",
+                "titulo": "KEK Net pocket Student",
+                "autor": "National Geographic"
+            },
+            {
+                "referencia": "IDIO.10",
+                "titulo": "Proficiency testbuilder",
+                "autor": "Mcmillan"
+            },
+            {
+                "referencia": "IDIO.11",
+                "titulo": "Diccionario Cambridge Compact English-Spanish",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.12",
+                "titulo": "Diccionario para principiantes Inglés",
+                "autor": "Susaeta"
+            },
+            {
+                "referencia": "IDIO.13",
+                "titulo": "Diccionario Inglés-Español",
+                "autor": "Geddes & Grosset"
+            },
+            {
+                "referencia": "IDIO.14",
+                "titulo": "Diccionario visual Inglés-Español",
+                "autor": "Saldaña"
+            },
+            {
+                "referencia": "IDIO.15",
+                "titulo": "Diccionario Inglés",
+                "autor": "VOX"
+            },
+            {
+                "referencia": "IDIO.16",
+                "titulo": "Diccionario Inglés-Español",
+                "autor": "Langenscheidt"
+            },
+            {
+                "referencia": "IDIO.17",
+                "titulo": "Advances Grammar in Use",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.18",
+                "titulo": "English Vocabulary in Use",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.19",
+                "titulo": "Inglés Curso Intensivo",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "IDIO.20",
+                "titulo": "The Adventures of Tom Sawyer",
+                "autor": "Mark Twain"
+            },
+            {
+                "referencia": "IDIO.21",
+                "titulo": "Grammaire Progressive du Français B2-C2",
+                "autor": "CLE International"
+            },
+            {
+                "referencia": "IDIO.22",
+                "titulo": "Alter Ego, C1-B2",
+                "autor": "Hachette"
+            },
+            {
+                "referencia": "IDIO.23",
+                "titulo": "Grammaire Progressive du Français",
+                "autor": "CLE International"
+            },
+            {
+                "referencia": "IDIO.24",
+                "titulo": "Vocabulaire Progressif du Français",
+                "autor": "CLE International"
+            },
+            {
+                "referencia": "IDIO.25",
+                "titulo": "Diccionario Español-Francés",
+                "autor": "Collins"
+            },
+            {
+                "referencia": "IDIO.26",
+                "titulo": "L'ocean est mon frère",
+                "autor": "Collins"
+            },
+            {
+                "referencia": "IDIO.27",
+                "titulo": "La beauté naturelle",
+                "autor": "Carole Dichampt"
+            },
+            {
+                "referencia": "IDIO.28",
+                "titulo": "Remi et Juliette",
+                "autor": "Léo Lamarche"
+            },
+            {
+                "referencia": "IDIO.29",
+                "titulo": "Le fils de Nasreddine",
+                "autor": "Brigitte Arnaudiès"
+            },
+            {
+                "referencia": "IDIO.30",
+                "titulo": "Le partage des oies",
+                "autor": "Brigitte Arnaudiès"
+            },
+            {
+                "referencia": "IDIO.31",
+                "titulo": "Pierrot",
+                "autor": "Annette Maxime"
+            },
+            {
+                "referencia": "IDIO.32",
+                "titulo": "Enfermés",
+                "autor": "Annette Maxime"
+            },
+            {
+                "referencia": "IDIO.33",
+                "titulo": "¿Quiere usted saber alemán en 10 días?",
+                "autor": "Métodos Robertson"
+            },
+            {
+                "referencia": "IDIO.34",
+                "titulo": "Diccionario Alemán-Español",
+                "autor": "VOX"
+            },
+            {
+                "referencia": "IDIO.35",
+                "titulo": "Diccionario visual Alemán-Español",
+                "autor": "Saldaña"
+            },
+            {
+                "referencia": "IDIO.36",
+                "titulo": "Curso completo de lengua rusa, nivel básico",
+                "autor": "Ediciones hispano eslavas"
+            },
+            {
+                "referencia": "IDIO.37",
+                "titulo": "Curso completo de lengua rusa, nivel intermedio y avanzado",
+                "autor": "Ediciones hispano eslavas"
+            },
+            {
+                "referencia": "IDIO.38",
+                "titulo": "Diccionario Ruso-Español",
+                "autor": "Marzishevskaya"
+            },
+            {
+                "referencia": "IDIO.39",
+                "titulo": "Complete norweigian",
+                "autor": "Teach yourself"
+            },
+            {
+                "referencia": "IDIO.40",
+                "titulo": "Lengua latina, pars I",
+                "autor": "Hans H.Orberg"
+            },
+            {
+                "referencia": "IDIO.41",
+                "titulo": "Lengua latina, exercitia latina I",
+                "autor": "Hans H.Orberg"
+            },
+            {
+                "referencia": "IDIO.42",
+                "titulo": "Diccionario Latín-Español",
+                "autor": "VOX"
+            },
+            {
+                "referencia": "IDIO.43",
+                "titulo": "Antología latina",
+                "autor": "Editorial Gredos"
+            },
+            {
+                "referencia": "IDIO.44",
+                "titulo": "Diccionario Esencial Latín-Español",
+                "autor": "VOX"
+            }
+        ],
         "subcontadores": {}
     },
     "MITO": {
@@ -862,6 +2241,11 @@
                 "referencia": "MITO.22",
                 "titulo": "El arte de amar",
                 "autor": "Ovidio"
+            },
+            {
+                "referencia": "MITO.23",
+                "titulo": "El gran libro de la mitología griega",
+                "autor": "Robin Hart"
             }
         ],
         "subcontadores": {}
@@ -877,7 +2261,7 @@
                 },
                 {
                     "referencia": "NOVE.HIST.2",
-                    "titulo": "La sombre del inquisidor",
+                    "titulo": "La sombra del inquisidor",
                     "autor": "Roberto Ciai y Marco Lazzeri"
                 }
             ],
@@ -1065,6 +2449,16 @@
                 "referencia": "RELI.27",
                 "titulo": "La Madonna e il bambino Gesú",
                 "autor": "Revista Gente"
+            },
+            {
+                "referencia": "RELI.28",
+                "titulo": "El libro verde",
+                "autor": "Mammar El Ghadafi"
+            },
+            {
+                "referencia": "RELI.29",
+                "titulo": "El libro de los muertos",
+                "autor": "Anónimo"
             }
         ],
         "subcontadores": {}
