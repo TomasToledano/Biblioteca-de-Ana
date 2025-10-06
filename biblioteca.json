@@ -310,18 +310,18 @@
                 },
                 {
                     "referencia": "ARTE.MÚSI.18",
-                    "titulo": "Pizzicato y Tango",
-                    "autor": "Ricardo de Vega"
+                    "titulo": "Zarzuelas y teatro",
+                    "autor": "Ricardo de la Vega"
                 },
                 {
                     "referencia": "ARTE.MÚSI.19",
                     "titulo": "Pequeña antología coral",
-                    "autor": "Mencos Vega"
+                    "autor": "Marcos Vega"
                 },
                 {
                     "referencia": "ARTE.MÚSI.20",
-                    "titulo": "Apreciar la música",
-                    "autor": "Manuel Machado de Castro"
+                    "titulo": "Apreciación musical",
+                    "autor": "Pedro Machado de Castro"
                 },
                 {
                     "referencia": "ARTE.MÚSI.21",
@@ -366,7 +366,7 @@
                 {
                     "referencia": "ARTE.MÚSI.29",
                     "titulo": "Historia de la música",
-                    "autor": "Sponia"
+                    "autor": "Sopeña"
                 },
                 {
                     "referencia": "ARTE.MÚSI.30",
@@ -540,7 +540,7 @@
                 },
                 {
                     "referencia": "ARTE.TEAT.10",
-                    "titulo": "Casa de muñecas",
+                    "titulo": "Casa de muñecas / El pato salvaje",
                     "autor": "Henrik Ibsen"
                 },
                 {
@@ -550,7 +550,7 @@
                 },
                 {
                     "referencia": "ARTE.TEAT.12",
-                    "titulo": "Romeo y Julieta",
+                    "titulo": "Romeo y Julieta / Júlio César",
                     "autor": "William Shakespeare"
                 },
                 {
@@ -585,7 +585,7 @@
                 },
                 {
                     "referencia": "ARTE.TEAT.19",
-                    "titulo": "Alfabetización básica del arte escénico",
+                    "titulo": "Historia básica del arte escénico",
                     "autor": "César Oliva"
                 },
                 {
@@ -596,11 +596,11 @@
                 {
                     "referencia": "ARTE.TEAT.21",
                     "titulo": "Hamlet",
-                    "autor": "Ed. Salvat"
+                    "autor": "William Shakespeare - Ed. Salvat"
                 },
                 {
                     "referencia": "ARTE.TEAT.22",
-                    "titulo": "Caricero y Romancero español",
+                    "titulo": "Cancionero y Romancero español",
                     "autor": "Francisco Alonso"
                 },
                 {
@@ -1724,13 +1724,13 @@
             },
             {
                 "referencia": "HIST.4",
-                "titulo": "Atlas Histórico de la España Romana",
-                "autor": "Susseto"
+                "titulo": "Atlas ilustrado de la España Romana",
+                "autor": "Susaeta"
             },
             {
                 "referencia": "HIST.5",
                 "titulo": "La España Visigoda",
-                "autor": "Susseto"
+                "autor": "Susaeta"
             },
             {
                 "referencia": "HIST.6",
@@ -1769,7 +1769,7 @@
             },
             {
                 "referencia": "HIST.13",
-                "titulo": "Anarquía e Imperio, el Reinado de Carlos V",
+                "titulo": "Monarquía e Imperio, el Reinado de Carlos V",
                 "autor": "John Lynch"
             },
             {
@@ -1779,23 +1779,23 @@
             },
             {
                 "referencia": "HIST.15",
-                "titulo": "Crisol, España en su Faustino Cordon",
-                "autor": "Antonio Muñoz"
+                "titulo": "Conversaciones con Faustino Cordon",
+                "autor": "Antonio Núñez"
             },
             {
                 "referencia": "HIST.16",
-                "titulo": "Breve historia del arte",
+                "titulo": "Breve historia del arte china",
                 "autor": "Gina Pischel"
             },
             {
                 "referencia": "HIST.17",
-                "titulo": "1808, el dos de mayo",
-                "autor": "Pedro Corral y Julio Carabaña"
+                "titulo": "1808, el dos de mayo, tres miradas",
+                "autor": "Alejo Carpentier"
             },
             {
                 "referencia": "HIST.18",
-                "titulo": "Egipto",
-                "autor": "A. Erman"
+                "titulo": "El Egipto del imperio antiguo",
+                "autor": "Josep Padró Parcersa"
             },
             {
                 "referencia": "HIST.19",
@@ -1819,7 +1819,7 @@
             },
             {
                 "referencia": "HIST.23",
-                "titulo": "Los crímenes dorados",
+                "titulo": "Los cristianos derrotados",
                 "autor": "Antonio Piñero"
             },
             {
@@ -1829,7 +1829,7 @@
             },
             {
                 "referencia": "HIST.25",
-                "titulo": "Suelo y medio de fósforos",
+                "titulo": "Siglo y medio de fósforos",
                 "autor": "Fosforera Española"
             },
             {
@@ -1839,13 +1839,13 @@
             },
             {
                 "referencia": "HIST.27",
-                "titulo": "Tres Peticiones a la Revolución Francesa",
+                "titulo": "Tres retratos de la Revolución Francesa",
                 "autor": "Albert Z. Manfred"
             },
             {
                 "referencia": "HIST.28",
-                "titulo": "Cuentos de Belkin",
-                "autor": "Alexander Pushkin"
+                "titulo": "Se consagra a Alexander Pushkin",
+                "autor": "L.S."
             },
             {
                 "referencia": "HIST.29",
@@ -1854,7 +1854,7 @@
             },
             {
                 "referencia": "HIST.30",
-                "titulo": "La vida de los Césares",
+                "titulo": "Los doce Césares",
                 "autor": "Suetonio"
             },
             {
@@ -1893,12 +1893,6 @@
                 "autor": "Nicholas Nicastro"
             }
         ],
-        "subcontadores": {}
-    },
-    "INFA": {
-        "nombre": "Infantil, Juvenil y Fábulas",
-        "subsecciones": {},
-        "libros": [],
         "subcontadores": {}
     },
     "IDIO": {
@@ -2126,6 +2120,21 @@
                 "autor": "VOX"
             }
         ],
+        "subcontadores": {}
+    },
+    "INFA": {
+        "nombre": "Infantil",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    },
+    "JUVE": {
+        "nombre": "Juvenil",
+        "subsecciones": {
+            "Conocimiento": [],
+            "novelas": []
+        },
+        "libros": [],
         "subcontadores": {}
     },
     "MITO": {
