@@ -895,8 +895,8 @@
         "libros": [],
         "subcontadores": {
             "Cine": 28,
-            "Música": 33,
             "Museos": 17,
+            "Música": 33,
             "Pintura": 20,
             "Poesía": 22,
             "Teatro": 26
@@ -1576,9 +1576,9 @@
         },
         "libros": [],
         "subcontadores": {
-            "Fauna": 10,
             "Académico": 42,
-            "Divulgación": 17
+            "Divulgación": 17,
+            "Fauna": 10
         }
     },
     "FILO": {
@@ -2270,8 +2270,8 @@
         },
         "libros": [],
         "subcontadores": {
-            "Viajes": 9,
-            "Mapas": 6
+            "Mapas": 6,
+            "Viajes": 9
         }
     },
     "HIST": {
@@ -2471,7 +2471,7 @@
             {
                 "referencia": "HIST.38",
                 "titulo": "Hacia la casa común europea",
-                "autor": "Mijail Gorbachev"
+                "autor": "Mijail Gorbachov"
             },
             {
                 "referencia": "HIST.39",
@@ -3108,7 +3108,7 @@
             {
                 "referencia": "RELI.17",
                 "titulo": "Biblia Sacra Vulgata",
-                "autor": "Editorial Weber – Gryson"
+                "autor": "Editorial Weber - Gryson"
             },
             {
                 "referencia": "RELI.18",
