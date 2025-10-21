@@ -2376,12 +2376,7 @@
     },
     "HIST": {
         "nombre": "Historia",
-        "subsecciones": {
-            "Contemporánea": [],
-            "Moderna": [],
-            "Edad Media": [],
-            "Antigua": []
-        },
+        "subsecciones": {},
         "libros": [
             {
                 "referencia": "HIST.1",
@@ -2967,6 +2962,48 @@
     "JUVE": {
         "nombre": "Juvenil",
         "subsecciones": {
+            "Cómics": [
+                {
+                    "referencia": "JUVE.CÓMI.1",
+                    "titulo": "Super Humor Mortadelo y Filemón",
+                    "autor": "Ed. Ediciones B"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.2",
+                    "titulo": "Super Humor Mortadelo y Filemón nº 42",
+                    "autor": "Ed. Ediciones B"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.3",
+                    "titulo": "El aniversario de Astérix y Obélix, el libro de oro",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.4",
+                    "titulo": "Astérix en la India",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.5",
+                    "titulo": "Mortadelo y Filemón Mundial 2010",
+                    "autor": "Ed. Ediciones B"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.6",
+                    "titulo": "Mortadelo y Filemón, álbum de coleccionista",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.7",
+                    "titulo": "Mortadelo y Filemón, euro basket 2001",
+                    "autor": "Ed. Olé"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.8",
+                    "titulo": "Mortadelo Top Cómic nº29",
+                    "autor": "Ed. Ediciones B"
+                }
+            ],
             "Conocimiento": [
                 {
                     "referencia": "JUVE.CONO.1",
@@ -3132,46 +3169,6 @@
             "novelas": []
         },
         "libros": [
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "Super Humor Mortadelo y Filemón",
-                "autor": "Ed. Ediciones B"
-            },
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "Super Humor Mortadelo y Filemón nº 42",
-                "autor": "Ed. Ediciones B"
-            },
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "El aniversario de Astérix y Obélix, el libro de oro",
-                "autor": "Ed. Salvat"
-            },
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "Astérix en la India",
-                "autor": "Ed. Salvat"
-            },
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "Mortadelo y Filemón Mundial 2010",
-                "autor": "Ed. Ediciones B"
-            },
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "Mortadelo y Filemón, álbum de coleccionista",
-                "autor": "Ed. Salvat"
-            },
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "Mortadelo y Filemón, euro basket 2001",
-                "autor": "Ed. Olé"
-            },
-            {
-                "referencia": "JUVE.CÓMI.1",
-                "titulo": "Mortadelo Top Cómic nº29",
-                "autor": "Ed. Ediciones B"
-            },
             {
                 "referencia": "JUVE.NOVE.1",
                 "titulo": "Antoñita la fantástica y su tía Carol",
@@ -3374,7 +3371,7 @@
             }
         ],
         "subcontadores": {
-            "Cómics": 1,
+            "Cómics": 8,
             "Conocimiento": 32,
             "Novela": 1
         }
@@ -3535,15 +3532,19 @@
             ],
             "Romántica": [],
             "Aventura": [],
-            "Ficción política": [
-                {
-                    "referencia": "NOVE.FIPO.1",
-                    "titulo": "Ensayo sobre la lucidez",
-                    "autor": "José Saramago"
-                }
-            ]
+            "Bélica": [],
+            "Ciencia Ficción": [],
+            "Ficción social": [],
+            "Realismo social": [],
+            "Fantástica": []
         },
-        "libros": [],
+        "libros": [
+            {
+                "referencia": "NOVE.FIPO.1",
+                "titulo": "Ensayo sobre la lucidez",
+                "autor": "José Saramago"
+            }
+        ],
         "subcontadores": {
             "Suspense": 3,
             "Histórica": 2,
