@@ -3166,214 +3166,214 @@
                     "autor": "Ed. Todolibro"
                 }
             ],
-            "novelas": []
+            "Novela": [
+                {
+                    "referencia": "JUVE.NOVE.1",
+                    "titulo": "Antoñita la fantástica y su tía Carol",
+                    "autor": "Borita Casas"
+                },
+                {
+                    "referencia": "JUVE.NOVE.2",
+                    "titulo": "Antoñita la fantástica de vacaciones",
+                    "autor": "Borita Casas"
+                },
+                {
+                    "referencia": "JUVE.NOVE.3",
+                    "titulo": "Pinner curso en torres de Malory",
+                    "autor": "Enid Blyton"
+                },
+                {
+                    "referencia": "JUVE.NOVE.4",
+                    "titulo": "La fábrica de nubes",
+                    "autor": "Jordi Sierra i Fabra"
+                },
+                {
+                    "referencia": "JUVE.NOVE.5",
+                    "titulo": "Breves y eternos cuentos de luchas y poesía",
+                    "autor": "Ed. escritores"
+                },
+                {
+                    "referencia": "JUVE.NOVE.6",
+                    "titulo": "El misterio de los estudios Kellerman",
+                    "autor": "Ken Follett"
+                },
+                {
+                    "referencia": "JUVE.NOVE.7",
+                    "titulo": "No pidas sardina fuera de temporada",
+                    "autor": "Andreu Martin"
+                },
+                {
+                    "referencia": "JUVE.NOVE.8",
+                    "titulo": "Viaje en el tiempo",
+                    "autor": "Geronimo Stilton"
+                },
+                {
+                    "referencia": "JUVE.NOVE.9",
+                    "titulo": "El fantasma de Canterville",
+                    "autor": "Wilde"
+                },
+                {
+                    "referencia": "JUVE.NOVE.10",
+                    "titulo": "El principito, con ilustraciones del autor",
+                    "autor": "Antoine de Saint-Exupéry"
+                },
+                {
+                    "referencia": "JUVE.NOVE.11",
+                    "titulo": "Árboles y rimas para niños",
+                    "autor": "Ed. Parragon"
+                },
+                {
+                    "referencia": "JUVE.NOVE.12",
+                    "titulo": "El caballero del torre",
+                    "autor": "Anónimo"
+                },
+                {
+                    "referencia": "JUVE.NOVE.13",
+                    "titulo": "Las lágrimas de Shiva",
+                    "autor": "César Mallorquí"
+                },
+                {
+                    "referencia": "JUVE.NOVE.14",
+                    "titulo": "El valle de los trolls",
+                    "autor": "Ed. Rolf Lidberg"
+                },
+                {
+                    "referencia": "JUVE.NOVE.15",
+                    "titulo": "Lily Quench y las montañas negras",
+                    "autor": "Natalie Jane Prior"
+                },
+                {
+                    "referencia": "JUVE.NOVE.16",
+                    "titulo": "Las aventuras del Doctor Dolittle",
+                    "autor": "Hugh Lofting"
+                },
+                {
+                    "referencia": "JUVE.NOVE.17",
+                    "titulo": "Cuentos chinos",
+                    "autor": "J.H. Sweet"
+                },
+                {
+                    "referencia": "JUVE.NOVE.18",
+                    "titulo": "Las crónicas de Spiderwick",
+                    "autor": "Diterlizzi & Black"
+                },
+                {
+                    "referencia": "JUVE.NOVE.19",
+                    "titulo": "La leyenda de Sleepy Hollow y otros cuentos fantásticos",
+                    "autor": "Ed. Oxford"
+                },
+                {
+                    "referencia": "JUVE.NOVE.20",
+                    "titulo": "Los tres naranjas del amor y otros cuentos en español",
+                    "autor": "Carmen Bravo Villasante"
+                },
+                {
+                    "referencia": "JUVE.NOVE.21",
+                    "titulo": "Lily y la pantera misiñosa",
+                    "autor": "Kristin Larsen"
+                },
+                {
+                    "referencia": "JUVE.NOVE.22",
+                    "titulo": "Dos preguntas y respuestas de Gloria",
+                    "autor": "Gloria Fuertes"
+                },
+                {
+                    "referencia": "JUVE.NOVE.23",
+                    "titulo": "Matilda",
+                    "autor": "Roald Dahl"
+                },
+                {
+                    "referencia": "JUVE.NOVE.24",
+                    "titulo": "El patito feo, un cuento de Valdemar Daae",
+                    "autor": "C. Andersen"
+                },
+                {
+                    "referencia": "JUVE.NOVE.25",
+                    "titulo": "Historia de un segundo",
+                    "autor": "Jordi Sierra i Fabra"
+                },
+                {
+                    "referencia": "JUVE.NOVE.26",
+                    "titulo": "Alice in Wonderland",
+                    "autor": "Lewis Carroll"
+                },
+                {
+                    "referencia": "JUVE.NOVE.27",
+                    "titulo": "Abbadat, el profesor, la marioneta y el profeta",
+                    "autor": "Editorial Planeta Junior"
+                },
+                {
+                    "referencia": "JUVE.NOVE.28",
+                    "titulo": "Fábulas Chinas",
+                    "autor": "Ediciones Literatura Universal"
+                },
+                {
+                    "referencia": "JUVE.NOVE.29",
+                    "titulo": "Antoñita la fantástica cumple diez años",
+                    "autor": "Borita Casas"
+                },
+                {
+                    "referencia": "JUVE.NOVE.30",
+                    "titulo": "El principito",
+                    "autor": "Ed. Enrique Sancho Editor"
+                },
+                {
+                    "referencia": "JUVE.NOVE.31",
+                    "titulo": "Cuentos del profesor ruso",
+                    "autor": "Editorial Progreso"
+                },
+                {
+                    "referencia": "JUVE.NOVE.32",
+                    "titulo": "El misterio de la isla de Tökland",
+                    "autor": "Joan Manuel Gisbert"
+                },
+                {
+                    "referencia": "JUVE.NOVE.33",
+                    "titulo": "La casa de los espejos",
+                    "autor": "Ulysses Moore"
+                },
+                {
+                    "referencia": "JUVE.NOVE.34",
+                    "titulo": "Bussi la hermana",
+                    "autor": "Ed. Raduga"
+                },
+                {
+                    "referencia": "JUVE.NOVE.35",
+                    "titulo": "Lily Quench y el dragón de Ashby",
+                    "autor": "Natalie Jane Prior"
+                },
+                {
+                    "referencia": "JUVE.NOVE.36",
+                    "titulo": "Jonathan Livingston. Seguel Gaviota",
+                    "autor": "Richard Bach"
+                },
+                {
+                    "referencia": "JUVE.NOVE.37",
+                    "titulo": "Jonas el hijo de los damnificados",
+                    "autor": "Joachim Friedrich"
+                },
+                {
+                    "referencia": "JUVE.NOVE.38",
+                    "titulo": "Fábulas hindúes",
+                    "autor": "Ed. Astra"
+                },
+                {
+                    "referencia": "JUVE.NOVE.39",
+                    "titulo": "El lago de los cisnes",
+                    "autor": "Juana Spyras"
+                },
+                {
+                    "referencia": "JUVE.NOVE.40",
+                    "titulo": "The eye of childhood",
+                    "autor": "Ed. Oxford"
+                }
+            ]
         },
-        "libros": [
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Antoñita la fantástica y su tía Carol",
-                "autor": "Borita Casas"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Antoñita la fantástica de vacaciones",
-                "autor": "Borita Casas"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Pinner curso en torres de Malory",
-                "autor": "Enid Blyton"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "La fábrica de nubes",
-                "autor": "Jordi Sierra i Fabra"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Breves y eternos cuentos de luchas y poesía",
-                "autor": "Ed. escritores"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El misterio de los estudios Kellerman",
-                "autor": "Ken Follett"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "No pidas sardina fuera de temporada",
-                "autor": "Andreu Martin"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Viaje en el tiempo",
-                "autor": "Geronimo Stilton"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El fantasma de Canterville",
-                "autor": "Wilde"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El principito, con ilustraciones del autor",
-                "autor": "Antoine de Saint-Exupéry"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Árboles y rimas para niños",
-                "autor": "Ed. Parragon"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El caballero del torre",
-                "autor": "Anónimo"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Las lágrimas de Shiva",
-                "autor": "César Mallorquí"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El valle de los trolls",
-                "autor": "Ed. Rolf Lidberg"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Lily Quench y las montañas negras",
-                "autor": "Natalie Jane Prior"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Las aventuras del Doctor Dolittle",
-                "autor": "Hugh Lofting"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Cuentos chinos",
-                "autor": "J.H. Sweet"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Las crónicas de Spiderwick",
-                "autor": "Diterlizzi & Black"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "La leyenda de Sleepy Hollow y otros cuentos fantásticos",
-                "autor": "Ed. Oxford"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Los tres naranjas del amor y otros cuentos en español",
-                "autor": "Carmen Bravo Villasante"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Lily y la pantera misiñosa",
-                "autor": "Kristin Larsen"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Dos preguntas y respuestas de Gloria",
-                "autor": "Gloria Fuertes"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Matilda",
-                "autor": "Roald Dahl"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El patito feo, un cuento de Valdemar Daae",
-                "autor": "C. Andersen"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Historia de un segundo",
-                "autor": "Jordi Sierra i Fabra"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Alice in Wonderland",
-                "autor": "Lewis Carroll"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Abbadat, el profesor, la marioneta y el profeta",
-                "autor": "Editorial Planeta Junior"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Fábulas Chinas",
-                "autor": "Ediciones Literatura Universal"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Antoñita la fantástica cumple diez años",
-                "autor": "Borita Casas"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El principito",
-                "autor": "Ed. Enrique Sancho Editor"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Cuentos del profesor ruso",
-                "autor": "Editorial Progreso"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El misterio de la isla de Tökland",
-                "autor": "Joan Manuel Gisbert"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "La casa de los espejos",
-                "autor": "Ulysses Moore"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Bussi la hermana",
-                "autor": "Ed. Raduga"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Lily Quench y el dragón de Ashby",
-                "autor": "Natalie Jane Prior"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Jonathan Livingston. Seguel Gaviota",
-                "autor": "Richard Bach"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Jonas el hijo de los damnificados",
-                "autor": "Joachim Friedrich"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "Fábulas hindúes",
-                "autor": "Ed. Astra"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "El lago de los cisnes",
-                "autor": "Juana Spyras"
-            },
-            {
-                "referencia": "JUVE.NOVE.1",
-                "titulo": "The eye of childhood",
-                "autor": "Ed. Oxford"
-            }
-        ],
+        "libros": [],
         "subcontadores": {
             "Cómics": 8,
             "Conocimiento": 32,
-            "Novela": 1
+            "Novela": 40
         }
     },
     "MITO": {
