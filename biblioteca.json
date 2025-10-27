@@ -4596,75 +4596,75 @@
                     "autor": "Javier Moro"
                 }
             ],
-            "Fantástica": []
+            "Fantasía": [
+                {
+                    "referencia": "NOVE.FANT.1",
+                    "titulo": "Cien años de soledad",
+                    "autor": "Gabriel García Márquez"
+                },
+                {
+                    "referencia": "NOVE.FANT.2",
+                    "titulo": "Narraciones extraordinarias",
+                    "autor": "Edgar Allan Poe"
+                },
+                {
+                    "referencia": "NOVE.FANT.3",
+                    "titulo": "Cuentos y prosas",
+                    "autor": "Rubén Darío"
+                },
+                {
+                    "referencia": "NOVE.FANT.4",
+                    "titulo": "De que hablan los animales",
+                    "autor": "L. L. Stishkovskaya"
+                },
+                {
+                    "referencia": "NOVE.FANT.5",
+                    "titulo": "Memorias de Idhún I: La resistencia",
+                    "autor": "Laura Gallego García"
+                },
+                {
+                    "referencia": "NOVE.FANT.6",
+                    "titulo": "Canguro",
+                    "autor": "D. H. Lawrence"
+                },
+                {
+                    "referencia": "NOVE.FANT.7",
+                    "titulo": "Cuento de Navidad - El grillo del hogar",
+                    "autor": "Charles Dickens"
+                },
+                {
+                    "referencia": "NOVE.FANT.8",
+                    "titulo": "Cuentos",
+                    "autor": "E. T. A. Hoffmann"
+                },
+                {
+                    "referencia": "NOVE.FANT.9",
+                    "titulo": "Las mil y una noches",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "NOVE.FANT.10",
+                    "titulo": "El demonio de Arbenois",
+                    "autor": "Bernard T."
+                },
+                {
+                    "referencia": "NOVE.FANT.11",
+                    "titulo": "La sombra de Dreindar",
+                    "autor": "Bernard T."
+                },
+                {
+                    "referencia": "NOVE.FANT.12",
+                    "titulo": "La montaña mágica",
+                    "autor": "Thomas Mann"
+                }
+            ]
         },
-        "libros": [
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Cien años de soledad",
-                "autor": "Gabriel García Márquez"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Narraciones extraordinarias",
-                "autor": "Edgar Allan Poe"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Cuentos y prosas",
-                "autor": "Rubén Darío"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "De que hablan los animales",
-                "autor": "L. L. Stishkovskaya"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Memorias de Idhún I: La resistencia",
-                "autor": "Laura Gallego García"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Canguro",
-                "autor": "D. H. Lawrence"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Cuento de Navidad - El grillo del hogar",
-                "autor": "Charles Dickens"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Cuentos",
-                "autor": "E. T. A. Hoffmann"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "Las mil y una noches",
-                "autor": "Ed. Salvat"
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "El demonio de Arbenois",
-                "autor": "Bernard T."
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "La sombra de Dreindar",
-                "autor": "Bernard T."
-            },
-            {
-                "referencia": "NOVE.FANT.1",
-                "titulo": "La montaña mágica",
-                "autor": "Thomas Mann"
-            }
-        ],
+        "libros": [],
         "subcontadores": {
             "Aventura": 18,
             "Bélica": 7,
             "Ciencia Ficción": 5,
-            "Fantasía": 1,
+            "Fantasía": 12,
             "Ficción Social": 40,
             "Histórica": 44,
             "Realismo Social": 47,
