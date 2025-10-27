@@ -1,0 +1,4850 @@
+{
+    "AJED": {
+        "nombre": "Ajedrez",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "AJED.1",
+                "titulo": "El arte del estudio de Ajedrez",
+                "autor": "Zoilo R. Caputto"
+            },
+            {
+                "referencia": "AJED.2",
+                "titulo": "El gran libro de ajedrez",
+                "autor": "Natale Ramini"
+            },
+            {
+                "referencia": "AJED.3",
+                "titulo": "Larousse del Ajedrez",
+                "autor": "Larousse"
+            },
+            {
+                "referencia": "AJED.4",
+                "titulo": "Ajedrez Español",
+                "autor": "Editorial SEAS"
+            },
+            {
+                "referencia": "AJED.5",
+                "titulo": "Las batallas de las ideas en el Ajedrez",
+                "autor": "Anthony Saidy"
+            },
+            {
+                "referencia": "AJED.6",
+                "titulo": "Ajedrez, maestro contra Amateur",
+                "autor": "M. Euwe y W. Meiden"
+            },
+            {
+                "referencia": "AJED.7",
+                "titulo": "El arte del Sacrificio en el ajedrez",
+                "autor": "Editorial de Vecchi"
+            },
+            {
+                "referencia": "AJED.8",
+                "titulo": "The Ultimate Pirc",
+                "autor": "John Nunn"
+            },
+            {
+                "referencia": "AJED.9",
+                "titulo": "Premios de belleza en el Ajedrez",
+                "autor": "François Le Lionnais"
+            },
+            {
+                "referencia": "AJED.10",
+                "titulo": "Táctica moderna en el Ajedrez",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.11",
+                "titulo": "Aperturas Semiabiertas I",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.12",
+                "titulo": "Aperturas Abiertas",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.13",
+                "titulo": "Táctica moderna en el Ajedrez (repetido)",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.14",
+                "titulo": "Aperturas Semiabiertas II",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.15",
+                "titulo": "Garry Kasparov",
+                "autor": "M. Yudovich"
+            },
+            {
+                "referencia": "AJED.16",
+                "titulo": "El Ajedrez",
+                "autor": "Ricardo Aguilera"
+            },
+            {
+                "referencia": "AJED.17",
+                "titulo": "Corona Mundial de Ajedrez Kasparov-Karpov",
+                "autor": "Inaplicable"
+            },
+            {
+                "referencia": "AJED.18",
+                "titulo": "Los principios del Ajedrez",
+                "autor": "Ray Arvid"
+            },
+            {
+                "referencia": "AJED.19",
+                "titulo": "La partida de Ajedrez",
+                "autor": "Rubinstein"
+            },
+            {
+                "referencia": "AJED.20",
+                "titulo": "Defensa Siciliana",
+                "autor": "G. Kasparov y N. Nikitin (Club del Ajedrez)"
+            },
+            {
+                "referencia": "AJED.21",
+                "titulo": "El estilo posicional",
+                "autor": "V. Smyslov"
+            },
+            {
+                "referencia": "AJED.22",
+                "titulo": "El error en la apertura",
+                "autor": "Club del Ajedrez"
+            },
+            {
+                "referencia": "AJED.23",
+                "titulo": "Decisiones fundamentales del Ajedrez Capablanca",
+                "autor": "Club del Ajedrez"
+            },
+            {
+                "referencia": "AJED.24",
+                "titulo": "Fundamentos del Ajedrez Capablanca",
+                "autor": "Club del Ajedrez"
+            },
+            {
+                "referencia": "AJED.25",
+                "titulo": "Aperturas Cerradas",
+                "autor": "Ludek Pachmann"
+            },
+            {
+                "referencia": "AJED.26",
+                "titulo": "Cuarto libro de Ajedrez",
+                "autor": "Fred Reinfeld"
+            },
+            {
+                "referencia": "AJED.27",
+                "titulo": "Apertura Italiana, 250 partidas",
+                "autor": "Colección Enroque"
+            },
+            {
+                "referencia": "AJED.28",
+                "titulo": "Mitología del ajedrez",
+                "autor": "Francesc Lluis Cardona"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "ARTE": {
+        "nombre": "Arte",
+        "subsecciones": {
+            "Cine": [
+                {
+                    "referencia": "ARTE.CINE.1",
+                    "titulo": "Historia del cine",
+                    "autor": "Roman Gubern"
+                },
+                {
+                    "referencia": "ARTE.CINE.2",
+                    "titulo": "Días de una cámara",
+                    "autor": "Néstor Almendros"
+                },
+                {
+                    "referencia": "ARTE.CINE.3",
+                    "titulo": "Plano a plano, de la idea a la pantalla",
+                    "autor": "S. D. Katz"
+                },
+                {
+                    "referencia": "ARTE.CINE.4",
+                    "titulo": "Técnica del montaje cinematográfico",
+                    "autor": "Karl Reitz"
+                },
+                {
+                    "referencia": "ARTE.CINE.5",
+                    "titulo": "Cinema como arma de clase",
+                    "autor": "Carlos y David Peez Merinero"
+                },
+                {
+                    "referencia": "ARTE.CINE.6",
+                    "titulo": "El arte de actuar",
+                    "autor": "UTAHAGEN"
+                },
+                {
+                    "referencia": "ARTE.CINE.7",
+                    "titulo": "Relatos que me asustaron",
+                    "autor": "Alfred Hitchcock"
+                },
+                {
+                    "referencia": "ARTE.CINE.8",
+                    "titulo": "Conversaciones íntimas",
+                    "autor": "Ingmar Bergman"
+                },
+                {
+                    "referencia": "ARTE.CINE.9",
+                    "titulo": "Boda en el delta",
+                    "autor": "Eudora Welty Proulx"
+                },
+                {
+                    "referencia": "ARTE.CINE.10",
+                    "titulo": "De aquí a la eternidad",
+                    "autor": "James Jones"
+                },
+                {
+                    "referencia": "ARTE.CINE.11",
+                    "titulo": "Marilyn Monroe",
+                    "autor": "Selmay ediciones"
+                },
+                {
+                    "referencia": "ARTE.CINE.12",
+                    "titulo": "El libro de Orson Welles",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "ARTE.CINE.13",
+                    "titulo": "Vinidiana",
+                    "autor": "Luis Buñuel"
+                },
+                {
+                    "referencia": "ARTE.CINE.14",
+                    "titulo": "Los colosos del cine, Paul Newman",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.15",
+                    "titulo": "Los colosos del cine, Alfred Hitchcock",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.16",
+                    "titulo": "Los colosos del cine, Gary Grant",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.17",
+                    "titulo": "Los colosos del cine, J.L. Mankiewrcz",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.18",
+                    "titulo": "Los colosos del cine, Roman Polansky",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.19",
+                    "titulo": "Los colosos del cine, Marlon Brando",
+                    "autor": "Cinema club colection"
+                },
+                {
+                    "referencia": "ARTE.CINE.20",
+                    "titulo": "Brando por Brando",
+                    "autor": "Fotogramas"
+                },
+                {
+                    "referencia": "ARTE.CINE.21",
+                    "titulo": "Sin plumas",
+                    "autor": "Woody Allen"
+                },
+                {
+                    "referencia": "ARTE.CINE.22",
+                    "titulo": "Casablanca",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "ARTE.CINE.23",
+                    "titulo": "Alfred Hitchcock. Psicosis",
+                    "autor": "Edición de oro"
+                },
+                {
+                    "referencia": "ARTE.CINE.24",
+                    "titulo": "Como acabar de una vez por todas con la cultura",
+                    "autor": "Woody Allen"
+                },
+                {
+                    "referencia": "ARTE.CINE.25",
+                    "titulo": "The end",
+                    "autor": "Jean Claude Carrière"
+                },
+                {
+                    "referencia": "ARTE.CINE.26",
+                    "titulo": "Montgomery Clif",
+                    "autor": "Patricia Bosworth"
+                },
+                {
+                    "referencia": "ARTE.CINE.27",
+                    "titulo": "Cine y literatura",
+                    "autor": "Agenda cultural 1999"
+                },
+                {
+                    "referencia": "ARTE.CINE.28",
+                    "titulo": "Folleto escuela de Artes Visuales",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.CINE.29",
+                    "titulo": "Fiesta, Ernest Hemingwaye",
+                    "autor": "Best Sellers Planeta"
+                }
+            ],
+            "Museos": [
+                {
+                    "referencia": "ARTE.MUSE.1",
+                    "titulo": "La guía del Prado",
+                    "autor": "Museo Nacional del Prado"
+                },
+                {
+                    "referencia": "ARTE.MUSE.2",
+                    "titulo": "La luz del Nácar",
+                    "autor": "Museo Avenida de América"
+                },
+                {
+                    "referencia": "ARTE.MUSE.3",
+                    "titulo": "Guía British Museum",
+                    "autor": "Museo Británico de Londres"
+                },
+                {
+                    "referencia": "ARTE.MUSE.4",
+                    "titulo": "Real Monasterio de San Lorenzo del Escorial",
+                    "autor": "José Luis Sancho Gaspar"
+                },
+                {
+                    "referencia": "ARTE.MUSE.5",
+                    "titulo": "Museo del Romanticismo - La colección",
+                    "autor": "Museo del Romanticismo"
+                },
+                {
+                    "referencia": "ARTE.MUSE.6",
+                    "titulo": "La Alhambra - Arquitectura, historia, planos y leyenda",
+                    "autor": "Ana Sánchez y Ángel Sánchez"
+                },
+                {
+                    "referencia": "ARTE.MUSE.7",
+                    "titulo": "Guía The National Gallery",
+                    "autor": "Erika Langmuir"
+                },
+                {
+                    "referencia": "ARTE.MUSE.8",
+                    "titulo": "Guía Los vikingos",
+                    "autor": "Museo de Oslo"
+                },
+                {
+                    "referencia": "ARTE.MUSE.9",
+                    "titulo": "Museo de arte ruso. Pinturas",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.10",
+                    "titulo": "Museo Sorolla",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.11",
+                    "titulo": "Cuadernos del M.A.N. Grecia",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.12",
+                    "titulo": "La Acrópolis. El museo de la Acrópolis",
+                    "autor": "Ekdotike Athenon"
+                },
+                {
+                    "referencia": "ARTE.MUSE.13",
+                    "titulo": "Entender mejor la pintura en la museo de Orsay",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.14",
+                    "titulo": "En el mar de Sorolla con Manuel Vicent",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.15",
+                    "titulo": "Guía, Catedral de Siena",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MUSE.16",
+                    "titulo": "Guía, Ciudad de Vaticano",
+                    "autor": "Edizione Musei Vaticani"
+                },
+                {
+                    "referencia": "ARTE.MUSE.17",
+                    "titulo": "Guía, La civilización Minoica",
+                    "autor": "Sosso Logiabov Platonos"
+                }
+            ],
+            "Música": [
+                {
+                    "referencia": "ARTE.MÚSI.1",
+                    "titulo": "Arias de concierto, Mozart (CD)",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.2",
+                    "titulo": "Colección genios de la música: Bach (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.3",
+                    "titulo": "Colección genios de la música: Beethoven (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.4",
+                    "titulo": "Colección genios de la música: Tchaikovsky (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.5",
+                    "titulo": "Colección genios de la música: Wagner (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.6",
+                    "titulo": "Colección genios de la música: Verdi (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.7",
+                    "titulo": "Colección genios de la música: Haendel (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.8",
+                    "titulo": "Colección genios de la música: Haydn (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.9",
+                    "titulo": "Colección genios de la música: Mozart (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.10",
+                    "titulo": "Colección genios de la música: Strauss (CD)",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.11",
+                    "titulo": "Las cuatro estaciones, Vivaldi (CD)",
+                    "autor": "Ed. Deutsche Grammophon"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.12",
+                    "titulo": "Gran Mozart, los años dorados",
+                    "autor": "H.C. Robbins Landon"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.13",
+                    "titulo": "Cancionero musical y poético: tonos castellanos",
+                    "autor": "Gerardo Arriaga"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.14",
+                    "titulo": "Modos vetus",
+                    "autor": "Ed. Edelvives"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.15",
+                    "titulo": "Choralgesänge",
+                    "autor": "J.S. Bach"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.16",
+                    "titulo": "Lézioni di Paleografía",
+                    "autor": "Claudio Battelli"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.17",
+                    "titulo": "Antón García Abril: Sonidos de libertad",
+                    "autor": "J. Cabezón Marín"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.18",
+                    "titulo": "Zarzuelas y teatro",
+                    "autor": "Ricardo de la Vega"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.19",
+                    "titulo": "Pequeña antología coral",
+                    "autor": "Marcos Vega"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.20",
+                    "titulo": "Apreciación musical",
+                    "autor": "Pedro Machado de Castro"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.21",
+                    "titulo": "El caso Vivaldi",
+                    "autor": "Federico María Sardelli"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.22",
+                    "titulo": "Graduale Triplex",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.23",
+                    "titulo": "Historia de la música española",
+                    "autor": "Ed. Alianza Música"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.24",
+                    "titulo": "El ruido eterno",
+                    "autor": "Alex Ross"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.25",
+                    "titulo": "Música clásica",
+                    "autor": "Ruthston"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.26",
+                    "titulo": "Relatos célebres sobre la música",
+                    "autor": "Varios autores"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.27",
+                    "titulo": "La música andalusí",
+                    "autor": "Amin Chaachoo"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.28",
+                    "titulo": "Diccionario enciclopédico de la música, 1.A",
+                    "autor": "Editorial Rambos"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.29",
+                    "titulo": "Historia de la música",
+                    "autor": "Sopeña"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.30",
+                    "titulo": "La ópera y Sevilla",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.31",
+                    "titulo": "Western Pianchant",
+                    "autor": "Hiley"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.32",
+                    "titulo": "Historia de la música occidental",
+                    "autor": "Grout, Palisca"
+                },
+                {
+                    "referencia": "ARTE.MÚSI.33",
+                    "titulo": "El canto mozárabe y su entorno",
+                    "autor": "Varios autores"
+                }
+            ],
+            "Pintura": [
+                {
+                    "referencia": "ARTE.PINT.1",
+                    "titulo": "La pintura Italiana I",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.2",
+                    "titulo": "La pintura Italiana II",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.3",
+                    "titulo": "La pintura Italiana III",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.4",
+                    "titulo": "La pintura Española I",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.5",
+                    "titulo": "La pintura Española II",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.6",
+                    "titulo": "La pintura Española III",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.7",
+                    "titulo": "Grandes temas de la pintura: El retrato",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.8",
+                    "titulo": "Grandes temas de la pintura: El paisaje",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.9",
+                    "titulo": "Grandes temas de la pintura: El bodegón",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.10",
+                    "titulo": "Grandes temas de la pintura: La pintura de interiores",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.11",
+                    "titulo": "Grandes temas de la pintura: La pintura religiosa",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.12",
+                    "titulo": "Los genios universales de la pintura: Monet",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.13",
+                    "titulo": "Los genios universales de la pintura: Matisse",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.14",
+                    "titulo": "Los genios universales de la pintura: Caravaggio",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.15",
+                    "titulo": "Grandes maestros de la pintura: Picasso",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.16",
+                    "titulo": "El Impresionismo: Van Gogh",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.17",
+                    "titulo": "Goya",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.18",
+                    "titulo": "Maestros de la pintura mundial: Alfred Sisley",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.19",
+                    "titulo": "Maestros de la pintura mundial: Bartolomé Esteban Murillo",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.20",
+                    "titulo": "Cézanne",
+                    "autor": "No Aplicable"
+                },
+                {
+                    "referencia": "ARTE.PINT.21",
+                    "titulo": "Cien obras maestras de la pintura",
+                    "autor": "Marcial Olivar"
+                }
+            ],
+            "Poesía": [
+                {
+                    "referencia": "ARTE.POES.1",
+                    "titulo": "Obras Completas",
+                    "autor": "Gustavo Adolfo Bécquer"
+                },
+                {
+                    "referencia": "ARTE.POES.2",
+                    "titulo": "Biblioteca de Poesía",
+                    "autor": "Rafael Alberti"
+                },
+                {
+                    "referencia": "ARTE.POES.3",
+                    "titulo": "Poesía completa (1960-1997)",
+                    "autor": "Francisco Brines"
+                },
+                {
+                    "referencia": "ARTE.POES.4",
+                    "titulo": "Libro de Poemas (1921)",
+                    "autor": "Federico García Lorca"
+                },
+                {
+                    "referencia": "ARTE.POES.5",
+                    "titulo": "Poesía Completa Volumen I",
+                    "autor": "Luis Cernuda"
+                },
+                {
+                    "referencia": "ARTE.POES.6",
+                    "titulo": "Antología de poesía austriaca actual",
+                    "autor": "Función Lenguaje"
+                },
+                {
+                    "referencia": "ARTE.POES.7",
+                    "titulo": "Antología de poesía suiza actual",
+                    "autor": "Fuerza Language"
+                },
+                {
+                    "referencia": "ARTE.POES.8",
+                    "titulo": "Eugenio Oneguin",
+                    "autor": "Alexander S. Pushkin"
+                },
+                {
+                    "referencia": "ARTE.POES.9",
+                    "titulo": "Poesías completas",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.10",
+                    "titulo": "Antología Poética",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.11",
+                    "titulo": "Poesía",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.12",
+                    "titulo": "Poemas 1913-16",
+                    "autor": "Maya Kowsky"
+                },
+                {
+                    "referencia": "ARTE.POES.13",
+                    "titulo": "Nueva Antología Poética",
+                    "autor": "Rainer Maria Rilke"
+                },
+                {
+                    "referencia": "ARTE.POES.14",
+                    "titulo": "Bodas de sangre",
+                    "autor": "Federico García Lorca"
+                },
+                {
+                    "referencia": "ARTE.POES.15",
+                    "titulo": "Hijos de la Ira",
+                    "autor": "Dámaso Alonso"
+                },
+                {
+                    "referencia": "ARTE.POES.16",
+                    "titulo": "Antología",
+                    "autor": "Gustavo Adolfo Bécquer"
+                },
+                {
+                    "referencia": "ARTE.POES.17",
+                    "titulo": "Poesía, palabra en el tiempo",
+                    "autor": "Antonio Machado"
+                },
+                {
+                    "referencia": "ARTE.POES.18",
+                    "titulo": "El hombre y su poesía",
+                    "autor": "Miguel Hernández"
+                },
+                {
+                    "referencia": "ARTE.POES.19",
+                    "titulo": "Veinte poemas de amor y una canción desesperada",
+                    "autor": "Pablo Neruda"
+                },
+                {
+                    "referencia": "ARTE.POES.20",
+                    "titulo": "Antología poética",
+                    "autor": "Juan Ramón Jiménez"
+                },
+                {
+                    "referencia": "ARTE.POES.21",
+                    "titulo": "De todo corazón 111 poemas de amor",
+                    "autor": "Editorial S.L."
+                },
+                {
+                    "referencia": "ARTE.POES.22",
+                    "titulo": "Postales de escritores y poetas rusos",
+                    "autor": "Postales"
+                }
+            ],
+            "Teatro": [
+                {
+                    "referencia": "ARTE.TEAT.1",
+                    "titulo": "La Celestina",
+                    "autor": "Fernando de Rojas"
+                },
+                {
+                    "referencia": "ARTE.TEAT.2",
+                    "titulo": "La vida es sueño",
+                    "autor": "Pedro Calderón de la Barca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.3",
+                    "titulo": "La venganza del Don Mendo",
+                    "autor": "Muñoz Seca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.4",
+                    "titulo": "El perro del hortelano",
+                    "autor": "Lope de Vega"
+                },
+                {
+                    "referencia": "ARTE.TEAT.5",
+                    "titulo": "Fausto",
+                    "autor": "Goethe"
+                },
+                {
+                    "referencia": "ARTE.TEAT.6",
+                    "titulo": "El caballero de Olmedo",
+                    "autor": "Lope de Vega"
+                },
+                {
+                    "referencia": "ARTE.TEAT.7",
+                    "titulo": "El Barbero de Sevilla",
+                    "autor": "Beaumarchais"
+                },
+                {
+                    "referencia": "ARTE.TEAT.8",
+                    "titulo": "Historia de una escalera",
+                    "autor": "Antonio Buero Vallejo"
+                },
+                {
+                    "referencia": "ARTE.TEAT.9",
+                    "titulo": "El alcalde de Zalamea",
+                    "autor": "Calderón de la Barca - Editorial Ramón Sopena"
+                },
+                {
+                    "referencia": "ARTE.TEAT.10",
+                    "titulo": "Casa de muñecas / El pato salvaje",
+                    "autor": "Henrik Ibsen"
+                },
+                {
+                    "referencia": "ARTE.TEAT.11",
+                    "titulo": "El Avaro / El enfermo imaginario",
+                    "autor": "Molière"
+                },
+                {
+                    "referencia": "ARTE.TEAT.12",
+                    "titulo": "Romeo y Julieta / Júlio César",
+                    "autor": "William Shakespeare"
+                },
+                {
+                    "referencia": "ARTE.TEAT.13",
+                    "titulo": "El enfermo imaginario / El médico a palos",
+                    "autor": "Molière"
+                },
+                {
+                    "referencia": "ARTE.TEAT.14",
+                    "titulo": "Los intereses creados",
+                    "autor": "Jacinto Benavente"
+                },
+                {
+                    "referencia": "ARTE.TEAT.15",
+                    "titulo": "Fuenteovejuna / El perro sin vergüenza",
+                    "autor": "Lope de Vega"
+                },
+                {
+                    "referencia": "ARTE.TEAT.16",
+                    "titulo": "Teatro universal escogido",
+                    "autor": "Editorial El Corte Inglés"
+                },
+                {
+                    "referencia": "ARTE.TEAT.17",
+                    "titulo": "Don Juan Tenorio",
+                    "autor": "Zorrilla"
+                },
+                {
+                    "referencia": "ARTE.TEAT.18",
+                    "titulo": "Las bodas de Fígaro",
+                    "autor": "Beaumarchais"
+                },
+                {
+                    "referencia": "ARTE.TEAT.19",
+                    "titulo": "Historia básica del arte escénico",
+                    "autor": "César Oliva"
+                },
+                {
+                    "referencia": "ARTE.TEAT.20",
+                    "titulo": "La zapatera prodigiosa",
+                    "autor": "Federico García Lorca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.21",
+                    "titulo": "Hamlet",
+                    "autor": "William Shakespeare - Ed. Salvat"
+                },
+                {
+                    "referencia": "ARTE.TEAT.22",
+                    "titulo": "Cancionero y Romancero español",
+                    "autor": "Francisco Alonso"
+                },
+                {
+                    "referencia": "ARTE.TEAT.23",
+                    "titulo": "Entremeses",
+                    "autor": "Miguel de Cervantes"
+                },
+                {
+                    "referencia": "ARTE.TEAT.24",
+                    "titulo": "Hamlet / Macbeth",
+                    "autor": "Shakespeare"
+                },
+                {
+                    "referencia": "ARTE.TEAT.25",
+                    "titulo": "Hamlet",
+                    "autor": "Shakespeare (Ed. Cátedra Letras Universales)"
+                },
+                {
+                    "referencia": "ARTE.TEAT.26",
+                    "titulo": "Casandra",
+                    "autor": "Benito Pérez Galdós"
+                },
+                {
+                    "referencia": "ARTE.TEAT.27",
+                    "titulo": "Don Álvaro o la fuerza del sino",
+                    "autor": "Duque de Rivas"
+                },
+                {
+                    "referencia": "ARTE.TEAT.28",
+                    "titulo": "Tartufo, Don Juan",
+                    "autor": "Moliere"
+                },
+                {
+                    "referencia": "ARTE.TEAT.29",
+                    "titulo": "La dama del alba",
+                    "autor": "Alejandro Casona"
+                },
+                {
+                    "referencia": "ARTE.TEAT.30",
+                    "titulo": "Retorno al hogar",
+                    "autor": "Lajos Zilahy"
+                },
+                {
+                    "referencia": "ARTE.TEAT.31",
+                    "titulo": "El sueño de una noche de verano, Las alegres comadres de Windsor",
+                    "autor": "Shakespeare"
+                },
+                {
+                    "referencia": "ARTE.TEAT.32",
+                    "titulo": "María Pineda, Doña Rosita la soltera o el lenguaje de las flores",
+                    "autor": "Federico García Lorca"
+                },
+                {
+                    "referencia": "ARTE.TEAT.33",
+                    "titulo": "El alcalde de Zalamea",
+                    "autor": "Calderón de la Barca - Editorial Edimat libros"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Cine": 29,
+            "Museos": 17,
+            "Música": 33,
+            "Pintura": 21,
+            "Poesía": 22,
+            "Teatro": 33
+        }
+    },
+    "BIEN": {
+        "nombre": "Bienestar",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "BIEN.1",
+                "titulo": "Grandes misterios de las sociedades secretas",
+                "autor": "Ramiro A. Calle"
+            },
+            {
+                "referencia": "BIEN.2",
+                "titulo": "En busca del Faquir",
+                "autor": "Ramiro A. Calle"
+            },
+            {
+                "referencia": "BIEN.3",
+                "titulo": "Ser feliz en Alaska",
+                "autor": "Rafael Santandreu"
+            },
+            {
+                "referencia": "BIEN.4",
+                "titulo": "Alegría, la felicidad que surge del interior",
+                "autor": "Editorial Grijalbo"
+            },
+            {
+                "referencia": "BIEN.5",
+                "titulo": "1080 Recetas de Cocina",
+                "autor": "Simone Ortega"
+            },
+            {
+                "referencia": "BIEN.6",
+                "titulo": "Pilates",
+                "autor": "Mais Wesson y Mark Lauren"
+            },
+            {
+                "referencia": "BIEN.7",
+                "titulo": "Estirándose, el libro de fitness más famoso de todos los tiempos",
+                "autor": "Bob Anderson"
+            },
+            {
+                "referencia": "BIEN.8",
+                "titulo": "El mito de la diosa fortuna",
+                "autor": "Jorge Bucay"
+            },
+            {
+                "referencia": "BIEN.9",
+                "titulo": "Seso quebrado",
+                "autor": "Ramiro A. Calle"
+            },
+            {
+                "referencia": "BIEN.10",
+                "titulo": "Constelaciones",
+                "autor": "Guía ilustrada de astrología"
+            },
+            {
+                "referencia": "BIEN.11",
+                "titulo": "Construye tu destino",
+                "autor": "Wayne W. Dyer"
+            },
+            {
+                "referencia": "BIEN.12",
+                "titulo": "La voz de tu alma",
+                "autor": "Lain"
+            },
+            {
+                "referencia": "BIEN.13",
+                "titulo": "Diccionario práctico de plantas y jardines",
+                "autor": "Ediciones Nobel"
+            },
+            {
+                "referencia": "BIEN.14",
+                "titulo": "El Mundo Amarillo",
+                "autor": "Albert Espinosa"
+            },
+            {
+                "referencia": "BIEN.15",
+                "titulo": "El Don de la felicidad",
+                "autor": "Elaine N. Aron"
+            },
+            {
+                "referencia": "BIEN.16",
+                "titulo": "Tus zonas erróneas",
+                "autor": "Dr. Wayne W. Dyer"
+            },
+            {
+                "referencia": "BIEN.17",
+                "titulo": "Inteligencia Emocional",
+                "autor": "Daniel Goleman"
+            },
+            {
+                "referencia": "BIEN.18",
+                "titulo": "El Tercer ojo",
+                "autor": "T. Lobsang Rampa"
+            },
+            {
+                "referencia": "BIEN.19",
+                "titulo": "El buen amor",
+                "autor": "Sergio Sinay"
+            },
+            {
+                "referencia": "BIEN.20",
+                "titulo": "El arte de vivir en pareja",
+                "autor": "Sergio Sinay"
+            },
+            {
+                "referencia": "BIEN.21",
+                "titulo": "Yoga teoría y práctica",
+                "autor": "Francesca Chiappone"
+            },
+            {
+                "referencia": "BIEN.22",
+                "titulo": "Mística oriental para occidentales",
+                "autor": "Panico A. Calle"
+            },
+            {
+                "referencia": "BIEN.23",
+                "titulo": "Aprendices de las emociones",
+                "autor": "Norberto Levy"
+            },
+            {
+                "referencia": "BIEN.24",
+                "titulo": "El amor que nos cura",
+                "autor": "Boris Cyrulnik"
+            },
+            {
+                "referencia": "BIEN.25",
+                "titulo": "Manual práctico de chacras",
+                "autor": "Mika Widmaaka"
+            },
+            {
+                "referencia": "BIEN.26",
+                "titulo": "El sinsentido común",
+                "autor": "Borja Vilaseca"
+            },
+            {
+                "referencia": "BIEN.27",
+                "titulo": "La cocina saludable",
+                "autor": "Moritz Anton"
+            },
+            {
+                "referencia": "BIEN.28",
+                "titulo": "Aromaterapia",
+                "autor": "D. Rose Fiszbein"
+            },
+            {
+                "referencia": "BIEN.29",
+                "titulo": "Mindfulness",
+                "autor": "Mark Williams"
+            },
+            {
+                "referencia": "BIEN.30",
+                "titulo": "El huerto y la botica en casa",
+                "autor": "Carmel Conche"
+            },
+            {
+                "referencia": "BIEN.31",
+                "titulo": "Medicina natural para niños",
+                "autor": "Julian Scotti"
+            },
+            {
+                "referencia": "BIEN.32",
+                "titulo": "Cómo practicar la meditación",
+                "autor": "Centro Sivamanda"
+            },
+            {
+                "referencia": "BIEN.33",
+                "titulo": "La alimentación de tu hijo",
+                "autor": "Patricia Castillo"
+            },
+            {
+                "referencia": "BIEN.34",
+                "titulo": "El libro del Yogurt",
+                "autor": "Susaeta"
+            },
+            {
+                "referencia": "BIEN.35",
+                "titulo": "Manual de plantas de interior",
+                "autor": "Everest"
+            },
+            {
+                "referencia": "BIEN.36",
+                "titulo": "Gran libro del masaje",
+                "autor": "Servilibro"
+            },
+            {
+                "referencia": "BIEN.37",
+                "titulo": "El Tao",
+                "autor": "Javid Ru"
+            },
+            {
+                "referencia": "BIEN.38",
+                "titulo": "El Mundo en tus manos",
+                "autor": "Elsa Punset"
+            },
+            {
+                "referencia": "BIEN.39",
+                "titulo": "Felicidades",
+                "autor": "Elsa Punset"
+            },
+            {
+                "referencia": "BIEN.40",
+                "titulo": "El viaje a la Felicidad",
+                "autor": "Eduardo Punset"
+            },
+            {
+                "referencia": "BIEN.41",
+                "titulo": "Juego para ejercitar la mente",
+                "autor": "Kit integral"
+            },
+            {
+                "referencia": "BIEN.42",
+                "titulo": "La dieta ayurvédica",
+                "autor": "Editorial Hispano Europea"
+            },
+            {
+                "referencia": "BIEN.43",
+                "titulo": "Guía de la meditación",
+                "autor": "E. Ko Editable"
+            },
+            {
+                "referencia": "BIEN.44",
+                "titulo": "Recetas vegetarianas del mundo",
+                "autor": "Sanch Brown"
+            },
+            {
+                "referencia": "BIEN.45",
+                "titulo": "Manual de los vinos de España",
+                "autor": "Pedro Plasencia"
+            },
+            {
+                "referencia": "BIEN.46",
+                "titulo": "Cocinar con verduras",
+                "autor": "Cocina actual del siglo XXI"
+            },
+            {
+                "referencia": "BIEN.47",
+                "titulo": "La Cocina vegetariana clásica",
+                "autor": "Roue Eliot"
+            },
+            {
+                "referencia": "BIEN.48",
+                "titulo": "Cocina para los más pequeños",
+                "autor": "España Calpe"
+            },
+            {
+                "referencia": "BIEN.49",
+                "titulo": "La digestión es la cuestión",
+                "autor": "Giulia Enders"
+            },
+            {
+                "referencia": "BIEN.50",
+                "titulo": "El alma está en el cerebro",
+                "autor": "Eduardo Punset"
+            },
+            {
+                "referencia": "BIEN.51",
+                "titulo": "Si tú me dices ven lo dejo todo... pero dime ven",
+                "autor": "Albert Espinosa"
+            },
+            {
+                "referencia": "BIEN.52",
+                "titulo": "El arte de no amargarse la vida",
+                "autor": "Rafael Santandreu"
+            },
+            {
+                "referencia": "BIEN.53",
+                "titulo": "100 años de nutrición",
+                "autor": "Claudio Mariscal"
+            },
+            {
+                "referencia": "BIEN.54",
+                "titulo": "El vino no tiene misterio",
+                "autor": "Ophelie Neiman"
+            },
+            {
+                "referencia": "BIEN.55",
+                "titulo": "La Miel",
+                "autor": "Janet Bond"
+            },
+            {
+                "referencia": "BIEN.56",
+                "titulo": "La manzanilla",
+                "autor": "Valter Curzi"
+            },
+            {
+                "referencia": "BIEN.57",
+                "titulo": "Manual para el cuidado del perro",
+                "autor": "Nuseta"
+            },
+            {
+                "referencia": "BIEN.58",
+                "titulo": "Un jardín muy divertido",
+                "autor": "Erik Luguet"
+            },
+            {
+                "referencia": "BIEN.59",
+                "titulo": "El arte de cuidarte a las 5 estaciones",
+                "autor": "Blanca Gadea"
+            },
+            {
+                "referencia": "BIEN.60",
+                "titulo": "Ejercicios de yoga",
+                "autor": "S. Muzdabar"
+            },
+            {
+                "referencia": "BIEN.61",
+                "titulo": "Tantra, energía y éxtasis",
+                "autor": "Osho"
+            },
+            {
+                "referencia": "BIEN.62",
+                "titulo": "El gran libro de la madre",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "BIEN.63",
+                "titulo": "El llamado de los árboles",
+                "autor": "Antonio Gomez"
+            },
+            {
+                "referencia": "BIEN.64",
+                "titulo": "La alegría de vivir",
+                "autor": "Crisom Swett Manson"
+            },
+            {
+                "referencia": "BIEN.65",
+                "titulo": "Mi cerebro y yo",
+                "autor": "José M.R. Delgado"
+            },
+            {
+                "referencia": "BIEN.66",
+                "titulo": "La vida... ¿cómo se presta aquí?",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "BIEN.67",
+                "titulo": "El libro del amor",
+                "autor": "Editorial Planeta"
+            },
+            {
+                "referencia": "BIEN.68",
+                "titulo": "En busca del Kamasutra",
+                "autor": "Editorial Planeta"
+            },
+            {
+                "referencia": "BIEN.69",
+                "titulo": "La botica de la abuela",
+                "autor": "Editorial Planeta"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "CIEN": {
+        "nombre": "Ciencia",
+        "subsecciones": {
+            "Académico": [
+                {
+                    "referencia": "CIEN.ACAD.1",
+                    "titulo": "Física 2º Bachillerato",
+                    "autor": "McGraw Hill"
+                },
+                {
+                    "referencia": "CIEN.ACAD.2",
+                    "titulo": "Física Tipler-Mosca Volumen 1A Mecánica",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.3",
+                    "titulo": "Física Tipler-Mosca Volumen 1B Oscilaciones y ondas",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.4",
+                    "titulo": "Física Tipler-Mosca Volumen 1C Termodinámica",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.5",
+                    "titulo": "Física Tipler-Mosca Volumen 2A Electromagnetismo",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.6",
+                    "titulo": "Física Tipler-Mosca Volumen 2B Luz",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.7",
+                    "titulo": "Física Tipler-Mosca Física moderna",
+                    "autor": "Tipler - Mosca"
+                },
+                {
+                    "referencia": "CIEN.ACAD.8",
+                    "titulo": "Física Universitaria Volumen 1",
+                    "autor": "Zemansky"
+                },
+                {
+                    "referencia": "CIEN.ACAD.9",
+                    "titulo": "Física Universitaria Volumen 2",
+                    "autor": "Zemansky"
+                },
+                {
+                    "referencia": "CIEN.ACAD.10",
+                    "titulo": "Matemáticas Básicas",
+                    "autor": "UNED"
+                },
+                {
+                    "referencia": "CIEN.ACAD.11",
+                    "titulo": "Cálculo Vectorial",
+                    "autor": "Marsden - Tromba"
+                },
+                {
+                    "referencia": "CIEN.ACAD.12",
+                    "titulo": "Álgebra Lineal",
+                    "autor": "Juan de Burgos"
+                },
+                {
+                    "referencia": "CIEN.ACAD.13",
+                    "titulo": "Manual de Matemáticas para las Ciencias Médicas",
+                    "autor": "Psipkin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.14",
+                    "titulo": "Geometría Moderna. Método de la Teoría de Homologías",
+                    "autor": "Dubrovín"
+                },
+                {
+                    "referencia": "CIEN.ACAD.15",
+                    "titulo": "Álgebra Práctica",
+                    "autor": "Carlos Matías Aracil"
+                },
+                {
+                    "referencia": "CIEN.ACAD.16",
+                    "titulo": "Electrotecnia para Técnicos",
+                    "autor": "J. A. Martín Terneiro"
+                },
+                {
+                    "referencia": "CIEN.ACAD.17",
+                    "titulo": "Principia Mathematica",
+                    "autor": "Isaac Newton"
+                },
+                {
+                    "referencia": "CIEN.ACAD.18",
+                    "titulo": "Física General",
+                    "autor": "Lozano"
+                },
+                {
+                    "referencia": "CIEN.ACAD.19",
+                    "titulo": "Tratado Elemental de Física",
+                    "autor": "Ganot"
+                },
+                {
+                    "referencia": "CIEN.ACAD.20",
+                    "titulo": "Introducción a la Física de Átomos y Moléculas",
+                    "autor": "Francisco Blanco Ramos"
+                },
+                {
+                    "referencia": "CIEN.ACAD.21",
+                    "titulo": "Curso de Astronomía General",
+                    "autor": "Bakulin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.22",
+                    "titulo": "Manual de Física General",
+                    "autor": "B. I. Yavorski"
+                },
+                {
+                    "referencia": "CIEN.ACAD.23",
+                    "titulo": "Curso de Física General",
+                    "autor": "S. Faish"
+                },
+                {
+                    "referencia": "CIEN.ACAD.24",
+                    "titulo": "Álgebra Lineal y algunas de sus aplicaciones",
+                    "autor": "N. I. Golovina"
+                },
+                {
+                    "referencia": "CIEN.ACAD.25",
+                    "titulo": "Ciencia Moderna y Filosofía",
+                    "autor": "José María Riaga"
+                },
+                {
+                    "referencia": "CIEN.ACAD.26",
+                    "titulo": "Problemas de Física",
+                    "autor": "Aguilar"
+                },
+                {
+                    "referencia": "CIEN.ACAD.27",
+                    "titulo": "Problemas de Física 1",
+                    "autor": "Gullón"
+                },
+                {
+                    "referencia": "CIEN.ACAD.28",
+                    "titulo": "Problemas de Física 3",
+                    "autor": "Gullón"
+                },
+                {
+                    "referencia": "CIEN.ACAD.29",
+                    "titulo": "Problemas de Física",
+                    "autor": "Precioso"
+                },
+                {
+                    "referencia": "CIEN.ACAD.30",
+                    "titulo": "Problemas seleccionados de Física Elemental",
+                    "autor": "B. B. Biyatkeev"
+                },
+                {
+                    "referencia": "CIEN.ACAD.31",
+                    "titulo": "Compendio de Física y Química",
+                    "autor": "Aleicha"
+                },
+                {
+                    "referencia": "CIEN.ACAD.32",
+                    "titulo": "Química General",
+                    "autor": "B. V. Ketkánov"
+                },
+                {
+                    "referencia": "CIEN.ACAD.33",
+                    "titulo": "Temas básicos de Química",
+                    "autor": "S. Donzillo"
+                },
+                {
+                    "referencia": "CIEN.ACAD.34",
+                    "titulo": "Química Orgánica para Enseñanza Media",
+                    "autor": "L. A. Tsvetkov"
+                },
+                {
+                    "referencia": "CIEN.ACAD.35",
+                    "titulo": "Bioquímica",
+                    "autor": "Lehninger"
+                },
+                {
+                    "referencia": "CIEN.ACAD.36",
+                    "titulo": "Prácticas de Química General Inorgánica",
+                    "autor": "V. Semosthin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.37",
+                    "titulo": "Curso de Mineralogía",
+                    "autor": "A. Betekhtin"
+                },
+                {
+                    "referencia": "CIEN.ACAD.38",
+                    "titulo": "Tratado de Terapéutica y Materia Médica 1872",
+                    "autor": "A. Trousseau, H. Pidoux"
+                },
+                {
+                    "referencia": "CIEN.ACAD.39",
+                    "titulo": "Cálculo diferencial",
+                    "autor": "Víctor Sánchez"
+                },
+                {
+                    "referencia": "CIEN.ACAD.40",
+                    "titulo": "Tratado de geometría, tercer grado",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "CIEN.ACAD.41",
+                    "titulo": "Nociones de álgebra",
+                    "autor": "Bruño"
+                },
+                {
+                    "referencia": "CIEN.ACAD.42",
+                    "titulo": "Elemnetos de matemáticas",
+                    "autor": "Borges"
+                }
+            ],
+            "Divulgación": [
+                {
+                    "referencia": "CIEN.DIVU.1",
+                    "titulo": "Destino año 2000",
+                    "autor": "Pierre Pailhé"
+                },
+                {
+                    "referencia": "CIEN.DIVU.2",
+                    "titulo": "Cómo fueron descubiertos los elementos químicos",
+                    "autor": "D.N. Trífonov"
+                },
+                {
+                    "referencia": "CIEN.DIVU.3",
+                    "titulo": "Yo, Simpson y las matemáticas",
+                    "autor": "Simon Singh"
+                },
+                {
+                    "referencia": "CIEN.DIVU.4",
+                    "titulo": "Matemática para divertirse",
+                    "autor": "Martin Gardner"
+                },
+                {
+                    "referencia": "CIEN.DIVU.5",
+                    "titulo": "Un eterno y grácil bucle: Gödel, Escher, Bach",
+                    "autor": "Douglas Hofstadter"
+                },
+                {
+                    "referencia": "CIEN.DIVU.6",
+                    "titulo": "Colección revistas: Tribunal de Astronomía (31 ejemplares)",
+                    "autor": "Tribunal de Astronomía"
+                },
+                {
+                    "referencia": "CIEN.DIVU.7",
+                    "titulo": "Colección revistas: Investigación y Ciencia (36 ejemplares)",
+                    "autor": "Investigación y Ciencia"
+                },
+                {
+                    "referencia": "CIEN.DIVU.8",
+                    "titulo": "Colección revistas: Revista española de física (10 ejemplares)",
+                    "autor": "Revista española de física"
+                },
+                {
+                    "referencia": "CIEN.DIVU.9",
+                    "titulo": "Colección revistas: The Messenger (4 ejemplares)",
+                    "autor": "The Messenger"
+                },
+                {
+                    "referencia": "CIEN.DIVU.10",
+                    "titulo": "Colección revistas: National Geographic (5 ejemplares)",
+                    "autor": "National Geographic"
+                },
+                {
+                    "referencia": "CIEN.DIVU.11",
+                    "titulo": "La enciclopedia del estudiante. Ciencia, la Tierra y el Universo",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "CIEN.DIVU.12",
+                    "titulo": "Libro de la ciencia",
+                    "autor": "Eduardo Vilas"
+                },
+                {
+                    "referencia": "CIEN.DIVU.13",
+                    "titulo": "Lecciones populares de matemáticas: Construcciones geométricas mediante un compás",
+                    "autor": "A.N. Kostovski"
+                },
+                {
+                    "referencia": "CIEN.DIVU.14",
+                    "titulo": "Lecciones populares de matemáticas: Acerca de la demostración en geometría",
+                    "autor": "A.I. Fetísov"
+                },
+                {
+                    "referencia": "CIEN.DIVU.15",
+                    "titulo": "Lecciones populares de matemáticas: ¿Qué es el cálculo diferencial?",
+                    "autor": "V.G. Boltianski"
+                },
+                {
+                    "referencia": "CIEN.DIVU.16",
+                    "titulo": "Lecciones populares de matemáticas: Análisis matemático en el campo de funciones racionales",
+                    "autor": "G.E. Shílov"
+                },
+                {
+                    "referencia": "CIEN.DIVU.17",
+                    "titulo": "Lecciones populares de matemáticas: Inducción en la geometría",
+                    "autor": "L.I. Goloviná"
+                }
+            ],
+            "Fauna": [
+                {
+                    "referencia": "CIEN.FAUN.1",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra I",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.2",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra II",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.3",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra III",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.4",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra IV",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.5",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra V",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.6",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra VI",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.7",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra VII",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.8",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra VIII",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.9",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra IX",
+                    "autor": "Félix Rodríguez de la Fuente"
+                },
+                {
+                    "referencia": "CIEN.FAUN.10",
+                    "titulo": "Fauna Ibérica, El hombre y la Tierra X",
+                    "autor": "Félix Rodríguez de la Fuente"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Académico": 42,
+            "Divulgación": 17,
+            "Fauna": 10
+        }
+    },
+    "FILO": {
+        "nombre": "Filosofía",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "FILO.1",
+                "titulo": "Los filósofos presocráticos",
+                "autor": "G.S. Kirk y J.E. Raven"
+            },
+            {
+                "referencia": "FILO.2",
+                "titulo": "Sobre el ordenamiento de la naturaleza",
+                "autor": "Parménides"
+            },
+            {
+                "referencia": "FILO.3",
+                "titulo": "Epicuro",
+                "autor": "Antonio Roldán Marco"
+            },
+            {
+                "referencia": "FILO.4",
+                "titulo": "Pitágoras esencial",
+                "autor": "Abraham Miguel Ponz"
+            },
+            {
+                "referencia": "FILO.5",
+                "titulo": "Apología de Sócrates",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.6",
+                "titulo": "Política",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.7",
+                "titulo": "Categorías. De interpretatione / Isagoge",
+                "autor": "Aristóteles / Porfirio"
+            },
+            {
+                "referencia": "FILO.8",
+                "titulo": "Ética a Nicómaco",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.9",
+                "titulo": "La lógica del pensamiento. Aristóteles",
+                "autor": "Antonio Roldán Marco"
+            },
+            {
+                "referencia": "FILO.10",
+                "titulo": "Poética",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.11",
+                "titulo": "Retórica",
+                "autor": "Aristóteles"
+            },
+            {
+                "referencia": "FILO.12",
+                "titulo": "Parménides",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.13",
+                "titulo": "La República",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.14",
+                "titulo": "Epicteto. Un manual para la vida",
+                "autor": "Antonio Roldán Marco"
+            },
+            {
+                "referencia": "FILO.15",
+                "titulo": "Vidas de filósofos ilustres",
+                "autor": "Diógenes Laercio"
+            },
+            {
+                "referencia": "FILO.16",
+                "titulo": "Hipatia",
+                "autor": "Clelia Martigni Maza"
+            },
+            {
+                "referencia": "FILO.17",
+                "titulo": "Meditaciones",
+                "autor": "Marco Aurelio"
+            },
+            {
+                "referencia": "FILO.18",
+                "titulo": "Séneca o el beneficio de la duda",
+                "autor": "Antonio Gala"
+            },
+            {
+                "referencia": "FILO.19",
+                "titulo": "Meditaciones metafísicas",
+                "autor": "René Descartes"
+            },
+            {
+                "referencia": "FILO.20",
+                "titulo": "Discurso de metafísica",
+                "autor": "Leibniz"
+            },
+            {
+                "referencia": "FILO.21",
+                "titulo": "Novum Organum",
+                "autor": "Francis Bacon"
+            },
+            {
+                "referencia": "FILO.22",
+                "titulo": "El sueño del humanismo. De Petrarca a Erasmo",
+                "autor": "Francisco Rico"
+            },
+            {
+                "referencia": "FILO.23",
+                "titulo": "Pensar y no caer",
+                "autor": "Ramón Andrés"
+            },
+            {
+                "referencia": "FILO.24",
+                "titulo": "El sofista",
+                "autor": "Platón"
+            },
+            {
+                "referencia": "FILO.25",
+                "titulo": "Sobre la felicidad",
+                "autor": "Séneca"
+            },
+            {
+                "referencia": "FILO.26",
+                "titulo": "Kant, vida y doctrina",
+                "autor": "Ernst Cassirer"
+            },
+            {
+                "referencia": "FILO.27",
+                "titulo": "Fundamentación de la metafísica de las costumbres",
+                "autor": "Immanuel Kant"
+            },
+            {
+                "referencia": "FILO.28",
+                "titulo": "El contrato social",
+                "autor": "Jean-Jacques Rousseau"
+            },
+            {
+                "referencia": "FILO.29",
+                "titulo": "Investigación sobre el conocimiento humano",
+                "autor": "David Hume"
+            },
+            {
+                "referencia": "FILO.30",
+                "titulo": "Introducción a Newton",
+                "autor": "Mauricio Mamiani"
+            },
+            {
+                "referencia": "FILO.31",
+                "titulo": "Lecciones sobre la filosofía de la historia universal",
+                "autor": "G.W.F. Hegel"
+            },
+            {
+                "referencia": "FILO.32",
+                "titulo": "Fenomenología del espíritu",
+                "autor": "G.W.F. Hegel"
+            },
+            {
+                "referencia": "FILO.33",
+                "titulo": "Humano, demasiado humano",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.34",
+                "titulo": "Así habló Zaratustra",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.35",
+                "titulo": "El nacimiento de la tragedia",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.36",
+                "titulo": "La genealogía de la moral",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.37",
+                "titulo": "El ocaso de los ídolos",
+                "autor": "Friedrich Nietzsche"
+            },
+            {
+                "referencia": "FILO.38",
+                "titulo": "Schopenhauer, Nietzsche, Freud",
+                "autor": "Thomas Mann"
+            },
+            {
+                "referencia": "FILO.39",
+                "titulo": "El Capital. Libro I. Tomo I",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.40",
+                "titulo": "El Capital. Libro I. Tomo II",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.41",
+                "titulo": "El Capital. Libro I. Tomo III",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.42",
+                "titulo": "El Capital. Libro II. Tomo I",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.43",
+                "titulo": "El Capital. Libro II. Tomo II",
+                "autor": "Karl Marx"
+            },
+            {
+                "referencia": "FILO.44",
+                "titulo": "Karl Marx",
+                "autor": "Karl Korsch"
+            },
+            {
+                "referencia": "FILO.45",
+                "titulo": "Fundamentos de filosofía",
+                "autor": "A. Rakitov"
+            },
+            {
+                "referencia": "FILO.46",
+                "titulo": "Sobre Marx y Marxismo",
+                "autor": "Manuel Sacristán"
+            },
+            {
+                "referencia": "FILO.47",
+                "titulo": "¿Qué es la vida?",
+                "autor": "Erwin Schrödinger"
+            },
+            {
+                "referencia": "FILO.48",
+                "titulo": "El sistema de clasificación de Linneo",
+                "autor": "David Alvargonzález"
+            },
+            {
+                "referencia": "FILO.49",
+                "titulo": "Filosofía de la Cosmología",
+                "autor": "Carlos M. Massini-Correas"
+            },
+            {
+                "referencia": "FILO.50",
+                "titulo": "La relatividad ontológica",
+                "autor": "W.V. Quine"
+            },
+            {
+                "referencia": "FILO.51",
+                "titulo": "El gen egoísta",
+                "autor": "Richard Dawkins"
+            },
+            {
+                "referencia": "FILO.52",
+                "titulo": "Oriente y Occidente",
+                "autor": "Luis Racionero"
+            },
+            {
+                "referencia": "FILO.53",
+                "titulo": "Amor y pedagogía",
+                "autor": "Miguel de Unamuno"
+            },
+            {
+                "referencia": "FILO.54",
+                "titulo": "Niebla",
+                "autor": "Miguel de Unamuno"
+            },
+            {
+                "referencia": "FILO.55",
+                "titulo": "El positivismo lógico",
+                "autor": "A. J. Ayer"
+            },
+            {
+                "referencia": "FILO.56",
+                "titulo": "Tractatus Logico-Philosophicus",
+                "autor": "Ludwig Wittgenstein"
+            },
+            {
+                "referencia": "FILO.57",
+                "titulo": "El Ego Trascendental",
+                "autor": "Gustavo Bueno"
+            },
+            {
+                "referencia": "FILO.58",
+                "titulo": "¿Qué es la filosofía?",
+                "autor": "Gustavo Bueno"
+            },
+            {
+                "referencia": "FILO.59",
+                "titulo": "Einstein. Historia de un espíritu",
+                "autor": "Desiderio Papp"
+            },
+            {
+                "referencia": "FILO.60",
+                "titulo": "Principios actuales y fundamentales de la Filosofía",
+                "autor": "G. Politzer"
+            },
+            {
+                "referencia": "FILO.61",
+                "titulo": "Confucio, los cuatro libros clásicos",
+                "autor": "Montseant Martí i Bugués"
+            },
+            {
+                "referencia": "FILO.62",
+                "titulo": "Filósofos ante Cristo",
+                "autor": "Enrique Bonete Perales"
+            },
+            {
+                "referencia": "FILO.63",
+                "titulo": "La física de Dios",
+                "autor": "Joseph Selbie"
+            },
+            {
+                "referencia": "FILO.64",
+                "titulo": "Historia del mundo contada para escépticos",
+                "autor": "Juan Eslava Galán"
+            },
+            {
+                "referencia": "FILO.65",
+                "titulo": "La mente del simio",
+                "autor": "David Premack y Ann Premack"
+            },
+            {
+                "referencia": "FILO.66",
+                "titulo": "Meditaciones sobre la literatura y el arte",
+                "autor": "José Ortega y Gasset"
+            },
+            {
+                "referencia": "FILO.67",
+                "titulo": "La rebelión de las masas",
+                "autor": "José Ortega y Gasset"
+            },
+            {
+                "referencia": "FILO.68",
+                "titulo": "Del sentimiento trágico de la vida / La agonía del cristianismo",
+                "autor": "Miguel de Unamuno"
+            },
+            {
+                "referencia": "FILO.69",
+                "titulo": "Ser y tiempo",
+                "autor": "Martin Heidegger"
+            },
+            {
+                "referencia": "FILO.70",
+                "titulo": "Lo bello y lo siniestro",
+                "autor": "Eugenio Trías"
+            },
+            {
+                "referencia": "FILO.71",
+                "titulo": "El canto de las sirenas",
+                "autor": "Eugenio Trías"
+            },
+            {
+                "referencia": "FILO.72",
+                "titulo": "La mente humana",
+                "autor": "José Luis Pinillos"
+            },
+            {
+                "referencia": "FILO.73",
+                "titulo": "El pensamiento utópico contemporáneo",
+                "autor": "Antonio Monclús"
+            },
+            {
+                "referencia": "FILO.74",
+                "titulo": "Cómo dominar el tiempo",
+                "autor": "Jean-Louis Servan-Schreiber"
+            },
+            {
+                "referencia": "FILO.75",
+                "titulo": "El vendedor de tiempo",
+                "autor": "Fernando Trías de Bes"
+            },
+            {
+                "referencia": "FILO.76",
+                "titulo": "El mundo de Sofía",
+                "autor": "Jostein Gaarder"
+            },
+            {
+                "referencia": "FILO.77",
+                "titulo": "Historia general de la Filosofía",
+                "autor": "Alberto Schwegler"
+            },
+            {
+                "referencia": "FILO.78",
+                "titulo": "La Historia de la Filosofía en la Enciclopedia. Volumen I",
+                "autor": "Diderot"
+            },
+            {
+                "referencia": "FILO.79",
+                "titulo": "La Historia de la Filosofía en la Enciclopedia. Volumen II",
+                "autor": "Diderot"
+            },
+            {
+                "referencia": "FILO.80",
+                "titulo": "Historia de la Filosofía",
+                "autor": "Julián Marías"
+            },
+            {
+                "referencia": "FILO.81",
+                "titulo": "El miedo a la libertad",
+                "autor": "Erich Fromm"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "FISI": {
+        "nombre": "Física",
+        "subsecciones": {
+            "Astronomía": [
+                {
+                    "referencia": "FISI.ASTR.1",
+                    "titulo": "Hacia las estrellas",
+                    "autor": "Alex Riveiro"
+                },
+                {
+                    "referencia": "FISI.ASTR.2",
+                    "titulo": "Astrofísica para gente con prisas",
+                    "autor": "Neil deGrasse Tyson"
+                },
+                {
+                    "referencia": "FISI.ASTR.3",
+                    "titulo": "Nueva astronomía recreativa",
+                    "autor": "V.P. Komarov"
+                },
+                {
+                    "referencia": "FISI.ASTR.4",
+                    "titulo": "Enciclopedia visual de las preguntas: El universo",
+                    "autor": "El País"
+                },
+                {
+                    "referencia": "FISI.ASTR.5",
+                    "titulo": "Abecedario cósmico",
+                    "autor": "V. Gorkov"
+                },
+                {
+                    "referencia": "FISI.ASTR.6",
+                    "titulo": "Cosmos",
+                    "autor": "Carl Sagan"
+                },
+                {
+                    "referencia": "FISI.ASTR.7",
+                    "titulo": "Un punto azul pálido",
+                    "autor": "Carl Sagan"
+                },
+                {
+                    "referencia": "FISI.ASTR.8",
+                    "titulo": "Galaxia",
+                    "autor": "National Geographic"
+                },
+                {
+                    "referencia": "FISI.ASTR.9",
+                    "titulo": "Atlas arqueoastronomía",
+                    "autor": "Belmonte; Hoskin"
+                },
+                {
+                    "referencia": "FISI.ASTR.10",
+                    "titulo": "La astronomía en el antiguo testamento",
+                    "autor": "Juan V. Schiaparelli"
+                },
+                {
+                    "referencia": "FISI.ASTR.11",
+                    "titulo": "Grandes astrónomos anteriores a Newton",
+                    "autor": "Francisco Ango"
+                },
+                {
+                    "referencia": "FISI.ASTR.12",
+                    "titulo": "Guía del cielo",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "FISI.ASTR.13",
+                    "titulo": "Libro de las estrellas en tres dimensiones",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "FISI.ASTR.14",
+                    "titulo": "Atlas de astronomía",
+                    "autor": "Alliance Atlas"
+                },
+                {
+                    "referencia": "FISI.ASTR.15",
+                    "titulo": "Anuario del observatorio astronómico año 2000",
+                    "autor": "Ministerio de Fomento IGM"
+                },
+                {
+                    "referencia": "FISI.ASTR.16",
+                    "titulo": "Estrellas, ilustraciones y gráficas",
+                    "autor": "Guías de naturaleza Blume"
+                }
+            ],
+            "General": [
+                {
+                    "referencia": "FISI.GENE.1",
+                    "titulo": "Física al alcance de todos: La temperatura",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.2",
+                    "titulo": "Física al alcance de todos: Paradojas y sofismas físicos",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.3",
+                    "titulo": "Física al alcance de todos: Ondas a nuestro alrededor",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.4",
+                    "titulo": "Física al alcance de todos: Física y geodinámica de la atmósfera",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.5",
+                    "titulo": "Física al alcance de todos: Conceptos físicos universales",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.6",
+                    "titulo": "Física al alcance de todos: El mundo relativista",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.7",
+                    "titulo": "Física al alcance de todos: Nuestro planeta la Tierra",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.8",
+                    "titulo": "Física al alcance de todos: La naturaleza del magnetismo",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.9",
+                    "titulo": "Física al alcance de todos: La caza del cero absoluto",
+                    "autor": "Editorial Mir Moscú"
+                },
+                {
+                    "referencia": "FISI.GENE.10",
+                    "titulo": "El divertido juego de la física",
+                    "autor": "Y. Perlmann"
+                },
+                {
+                    "referencia": "FISI.GENE.11",
+                    "titulo": "Problemas experimentales ingeniosos de Física",
+                    "autor": "Editorial Mir Moscú"
+                }
+            ],
+            "Teórica": [
+                {
+                    "referencia": "FISI.TEÓR.1",
+                    "titulo": "El tejido del cosmos",
+                    "autor": "Brian Greene"
+                },
+                {
+                    "referencia": "FISI.TEÓR.2",
+                    "titulo": "Las ondas del espacio-tiempo: la revolución de las ondas gravitatorias",
+                    "autor": "Matteo Barsuglia"
+                },
+                {
+                    "referencia": "FISI.TEÓR.3",
+                    "titulo": "Un paseo por el cosmos: La materia oscura",
+                    "autor": "Un paseo por el cosmos"
+                },
+                {
+                    "referencia": "FISI.TEÓR.4",
+                    "titulo": "Un paseo por el cosmos: Espacio-tiempo cuántico",
+                    "autor": "Un paseo por el cosmos"
+                },
+                {
+                    "referencia": "FISI.TEÓR.5",
+                    "titulo": "Historia del tiempo",
+                    "autor": "Stephen W. Hawking"
+                },
+                {
+                    "referencia": "FISI.TEÓR.6",
+                    "titulo": "¿Qué sabemos del universo?",
+                    "autor": "Juan Pérez Mercader"
+                },
+                {
+                    "referencia": "FISI.TEÓR.7",
+                    "titulo": "El bosón de Higgs",
+                    "autor": "Alberto Casas y Teresa Rodrigo CSIC"
+                },
+                {
+                    "referencia": "FISI.TEÓR.8",
+                    "titulo": "El LHC y la frontera de la física",
+                    "autor": "Alberto Casas"
+                },
+                {
+                    "referencia": "FISI.TEÓR.9",
+                    "titulo": "¿Y si el tiempo no existiera?",
+                    "autor": "Carlo Rovelli"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Astronomía": 16,
+            "General": 11,
+            "Teórica": 9
+        }
+    },
+    "GEOG": {
+        "nombre": "Geografía",
+        "subsecciones": {
+            "Viajes": [
+                {
+                    "referencia": "GEOG.VIAJ.1",
+                    "titulo": "Guía, Madeira y Porto Santo",
+                    "autor": "Sergio Fonseca y Susana Fonseca"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.2",
+                    "titulo": "Mérida, guía de viaje 2024",
+                    "autor": "Bella Snow"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.3",
+                    "titulo": "Guía, Noruega",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.4",
+                    "titulo": "Guía, Los pueblos de La Val d'Aran",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.5",
+                    "titulo": "Guía, A pie por Roma",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.6",
+                    "titulo": "Guía, La sagrada Meteora",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.7",
+                    "titulo": "Guía, Chipre",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.8",
+                    "titulo": "Guía Viajes Roma - National Geographic",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.9",
+                    "titulo": "Postales Japón",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.10",
+                    "titulo": "Bergen",
+                    "autor": "No aplicable"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.11",
+                    "titulo": "Velkommen",
+                    "autor": "Noruega"
+                },
+                {
+                    "referencia": "GEOG.VIAJ.12",
+                    "titulo": "Castillos del Loira",
+                    "autor": "Valoire"
+                }
+            ],
+            "Mapas": [
+                {
+                    "referencia": "GEOG.MAPA.1",
+                    "titulo": "Gran atlas Salvat universal - Europa y planisferios",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.2",
+                    "titulo": "Gran atlas Salvat universal - Asia y África",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.3",
+                    "titulo": "Gran atlas Salvat universal - América del Norte y América del Sur",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.4",
+                    "titulo": "Gran atlas Salvat universal - América del Sur, Oceanía e Índice",
+                    "autor": "Salvat"
+                },
+                {
+                    "referencia": "GEOG.MAPA.5",
+                    "titulo": "Atlas de España",
+                    "autor": "El Pais - Aguilar"
+                },
+                {
+                    "referencia": "GEOG.MAPA.6",
+                    "titulo": "Atlas de España II",
+                    "autor": "El Pais - Aguilar"
+                },
+                {
+                    "referencia": "GEOG.MAPA.7",
+                    "titulo": "Mapas. Ciudades con encanto: París, LOndres, Nueva York, Roma, Praga, Viena",
+                    "autor": "No aplicable"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Mapas": 7,
+            "Viajes": 12
+        }
+    },
+    "HIST": {
+        "nombre": "Historia",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "HIST.1",
+                "titulo": "Historia de Grecia",
+                "autor": "Pastora Barahona"
+            },
+            {
+                "referencia": "HIST.2",
+                "titulo": "Gran Historia Universal, el Mundo Griego",
+                "autor": "Club Internacional del Libro de Madrid"
+            },
+            {
+                "referencia": "HIST.3",
+                "titulo": "Historia de Madrid",
+                "autor": "Antonio Fernández García"
+            },
+            {
+                "referencia": "HIST.4",
+                "titulo": "Atlas ilustrado de la España Romana",
+                "autor": "Susaeta"
+            },
+            {
+                "referencia": "HIST.5",
+                "titulo": "La España Visigoda",
+                "autor": "Susaeta"
+            },
+            {
+                "referencia": "HIST.6",
+                "titulo": "Desde Don Pelayo hasta Don Juan Carlos I",
+                "autor": "Pedro de Felipe del Rey"
+            },
+            {
+                "referencia": "HIST.7",
+                "titulo": "Cartas de la Conquista de México",
+                "autor": "Hernán Cortés"
+            },
+            {
+                "referencia": "HIST.8",
+                "titulo": "Historia de la Guerra del Peloponeso",
+                "autor": "Tucídides"
+            },
+            {
+                "referencia": "HIST.9",
+                "titulo": "SPQR, una historia de la Antigua Roma",
+                "autor": "Mary Beard"
+            },
+            {
+                "referencia": "HIST.10",
+                "titulo": "La muerte del Che Guevara",
+                "autor": "Jay Cantor"
+            },
+            {
+                "referencia": "HIST.11",
+                "titulo": "Los masones",
+                "autor": "César Vidal"
+            },
+            {
+                "referencia": "HIST.12",
+                "titulo": "La España de Fernando VII",
+                "autor": "Miguel Artola"
+            },
+            {
+                "referencia": "HIST.13",
+                "titulo": "Monarquía e Imperio, el Reinado de Carlos V",
+                "autor": "John Lynch"
+            },
+            {
+                "referencia": "HIST.14",
+                "titulo": "Sapiens, de animales a dioses",
+                "autor": "Yuval Noah Harari"
+            },
+            {
+                "referencia": "HIST.15",
+                "titulo": "Conversaciones con Faustino Cordon",
+                "autor": "Antonio Núñez"
+            },
+            {
+                "referencia": "HIST.16",
+                "titulo": "Breve historia del arte china",
+                "autor": "Gina Pischel"
+            },
+            {
+                "referencia": "HIST.17",
+                "titulo": "1808, el dos de mayo, tres miradas",
+                "autor": "Alejo Carpentier"
+            },
+            {
+                "referencia": "HIST.18",
+                "titulo": "El Egipto del imperio antiguo",
+                "autor": "Josep Padró Parcersa"
+            },
+            {
+                "referencia": "HIST.19",
+                "titulo": "Mi vida",
+                "autor": "León Trotsky"
+            },
+            {
+                "referencia": "HIST.20",
+                "titulo": "El mundo de ayer, memorias de un europeo",
+                "autor": "Stefan Zweig"
+            },
+            {
+                "referencia": "HIST.21",
+                "titulo": "España en la vida italiana durante el Renacimiento",
+                "autor": "Benedetto Croce"
+            },
+            {
+                "referencia": "HIST.22",
+                "titulo": "La España elegida",
+                "autor": "Juan Luis Arsuaga"
+            },
+            {
+                "referencia": "HIST.23",
+                "titulo": "Los cristianos derrotados",
+                "autor": "Antonio Piñero"
+            },
+            {
+                "referencia": "HIST.24",
+                "titulo": "La sociedad japonesa",
+                "autor": "Andrés Bellersart"
+            },
+            {
+                "referencia": "HIST.25",
+                "titulo": "Siglo y medio de fósforos",
+                "autor": "Fosforera Española"
+            },
+            {
+                "referencia": "HIST.26",
+                "titulo": "La formación de la humanidad",
+                "autor": "Richard Leakey"
+            },
+            {
+                "referencia": "HIST.27",
+                "titulo": "Tres retratos de la Revolución Francesa",
+                "autor": "Albert Z. Manfred"
+            },
+            {
+                "referencia": "HIST.28",
+                "titulo": "Se consagra a Alexander Pushkin",
+                "autor": "L.S."
+            },
+            {
+                "referencia": "HIST.29",
+                "titulo": "Los protocolos de los sabios de Sion",
+                "autor": "Editorial Época"
+            },
+            {
+                "referencia": "HIST.30",
+                "titulo": "Los doce Césares",
+                "autor": "Suetonio"
+            },
+            {
+                "referencia": "HIST.31",
+                "titulo": "Magallanes",
+                "autor": "Stefan Zweig"
+            },
+            {
+                "referencia": "HIST.32",
+                "titulo": "Acerca del anarquismo y el anarcorsindicalismo",
+                "autor": "Marx, Engels, Lenin"
+            },
+            {
+                "referencia": "HIST.33",
+                "titulo": "Lenin",
+                "autor": "Herman Weber"
+            },
+            {
+                "referencia": "HIST.34",
+                "titulo": "Mao Zedong",
+                "autor": "Freeman Gamm"
+            },
+            {
+                "referencia": "HIST.35",
+                "titulo": "Bolívar",
+                "autor": "Jorge Campos"
+            },
+            {
+                "referencia": "HIST.36",
+                "titulo": "La caída de los dioses",
+                "autor": "Daniel Solars"
+            },
+            {
+                "referencia": "HIST.37",
+                "titulo": "Alejandro Magno",
+                "autor": "Nicholas Nicastro"
+            },
+            {
+                "referencia": "HIST.38",
+                "titulo": "Hacia la casa común europea",
+                "autor": "Mijail Gorbachov"
+            },
+            {
+                "referencia": "HIST.39",
+                "titulo": "Enigmas de la historia",
+                "autor": "Editorial Progreso"
+            },
+            {
+                "referencia": "HIST.40",
+                "titulo": "V. I. Lenin, esbozo biográfico",
+                "autor": "Editorial Progreso"
+            },
+            {
+                "referencia": "HIST.41",
+                "titulo": "Historia de América Latina",
+                "autor": "Carlos M.Rama"
+            },
+            {
+                "referencia": "HIST.42",
+                "titulo": "Usos y costumbres sexuales de los Reyes de España",
+                "autor": "Emilio Calderón"
+            },
+            {
+                "referencia": "HIST.43",
+                "titulo": "Beethoven",
+                "autor": "Hector Berlioz"
+            },
+            {
+                "referencia": "HIST.44",
+                "titulo": "La vida heroica del Marie Curie",
+                "autor": "Eva Curie"
+            },
+            {
+                "referencia": "HIST.45",
+                "titulo": "Historia del Arte del Próximo Oriente",
+                "autor": "Fernando de Olaguer-Feliu"
+            },
+            {
+                "referencia": "HIST.46",
+                "titulo": "Historia del Arte de la Baja Edad Media",
+                "autor": "Mª Ángeles B. Piquero"
+            },
+            {
+                "referencia": "HIST.47",
+                "titulo": "La vida cotidiana en la España Musulmana",
+                "autor": "Fernando Pati-Playá"
+            },
+            {
+                "referencia": "HIST.48",
+                "titulo": "De Gaulle",
+                "autor": "François Mauriac"
+            },
+            {
+                "referencia": "HIST.49",
+                "titulo": "Cuaderno de notas",
+                "autor": "Leonardo Da Vinci"
+            },
+            {
+                "referencia": "HIST.50",
+                "titulo": "El mundo de las antigüedades: cerámica del siglo XVIII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.51",
+                "titulo": "El mundo de las antigüedades: cerámica del siglo XIX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.52",
+                "titulo": "El mundo de las antigüedades: el mueble del siglo XX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.53",
+                "titulo": "El mundo de las antigüedades: tapices de los siglos XV, XVI, XVII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.54",
+                "titulo": "El mundo de las antigüedades: tapices del siglo XVIII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.55",
+                "titulo": "El mundo de las antigüedades: plata del siglo XVIII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.56",
+                "titulo": "El mundo de las antigüedades: plata del siglos XIX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.57",
+                "titulo": "El mundo de las antigüedades: vidrio de los siglos XV, XVI, XVII",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.58",
+                "titulo": "El mundo de las antigüedades: vidrio de los siglos XVIII y XIX",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.59",
+                "titulo": "Colecciones de arqueología y etnología de América",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.60",
+                "titulo": "El mundo de las antigüedades: alfombras orientales",
+                "autor": "Planeta-Agostini"
+            },
+            {
+                "referencia": "HIST.61",
+                "titulo": "Porcelana",
+                "autor": "Susana Morgan"
+            },
+            {
+                "referencia": "HIST.62",
+                "titulo": "Los nueve libros de la historia",
+                "autor": "Heródoto"
+            },
+            {
+                "referencia": "HIST.63",
+                "titulo": "Obras",
+                "autor": "Don Gaspar Melchor Jovellanos"
+            },
+            {
+                "referencia": "HIST.64",
+                "titulo": "Beethoven",
+                "autor": "Erik Luguet"
+            },
+            {
+                "referencia": "HIST.65",
+                "titulo": "Mi infancia y juventud",
+                "autor": "Santiago Ramón y Cajal"
+            },
+            {
+                "referencia": "HIST.66",
+                "titulo": "La obra se Valle-Inclán",
+                "autor": "Fernando de Toro-Garland"
+            },
+            {
+                "referencia": "HIST.67",
+                "titulo": "Vivir para contarla",
+                "autor": "Gabriel García Márquez"
+            },
+            {
+                "referencia": "HIST.68",
+                "titulo": "Carta al padre",
+                "autor": "Franz Kafka"
+            },
+            {
+                "referencia": "HIST.69",
+                "titulo": "El pequeño mundo del hombre",
+                "autor": "Francisco Rico"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "IDIO": {
+        "nombre": "Idiomas",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "IDIO.1",
+                "titulo": "English File A1 Student's book",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.2",
+                "titulo": "English File A1 Workbook",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.3",
+                "titulo": "Move On Student's book",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.4",
+                "titulo": "Move On Workbook",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.5",
+                "titulo": "View Points for Bachillerato",
+                "autor": "OXFORD"
+            },
+            {
+                "referencia": "IDIO.6",
+                "titulo": "That's English Module 5",
+                "autor": "Burlington Books"
+            },
+            {
+                "referencia": "IDIO.7",
+                "titulo": "That's English Module 6",
+                "autor": "Burlington Books"
+            },
+            {
+                "referencia": "IDIO.8",
+                "titulo": "Compact Advanced Student's book",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.9",
+                "titulo": "KEK Net pocket Student",
+                "autor": "National Geographic"
+            },
+            {
+                "referencia": "IDIO.10",
+                "titulo": "Proficiency testbuilder",
+                "autor": "Mcmillan"
+            },
+            {
+                "referencia": "IDIO.11",
+                "titulo": "Diccionario Cambridge Compact English-Spanish",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.12",
+                "titulo": "Diccionario para principiantes Inglés",
+                "autor": "Susaeta"
+            },
+            {
+                "referencia": "IDIO.13",
+                "titulo": "Diccionario Inglés-Español",
+                "autor": "Geddes & Grosset"
+            },
+            {
+                "referencia": "IDIO.14",
+                "titulo": "Diccionario visual Inglés-Español",
+                "autor": "Saldaña"
+            },
+            {
+                "referencia": "IDIO.15",
+                "titulo": "Diccionario Inglés",
+                "autor": "VOX"
+            },
+            {
+                "referencia": "IDIO.16",
+                "titulo": "Diccionario Inglés-Español",
+                "autor": "Langenscheidt"
+            },
+            {
+                "referencia": "IDIO.17",
+                "titulo": "Advances Grammar in Use",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.18",
+                "titulo": "English Vocabulary in Use",
+                "autor": "Cambridge"
+            },
+            {
+                "referencia": "IDIO.19",
+                "titulo": "Inglés Curso Intensivo",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "IDIO.20",
+                "titulo": "The Adventures of Tom Sawyer",
+                "autor": "Mark Twain"
+            },
+            {
+                "referencia": "IDIO.21",
+                "titulo": "Grammaire Progressive du Français B2-C2",
+                "autor": "CLE International"
+            },
+            {
+                "referencia": "IDIO.22",
+                "titulo": "Alter Ego, C1-B2",
+                "autor": "Hachette"
+            },
+            {
+                "referencia": "IDIO.23",
+                "titulo": "Grammaire Progressive du Français",
+                "autor": "CLE International"
+            },
+            {
+                "referencia": "IDIO.24",
+                "titulo": "Vocabulaire Progressif du Français",
+                "autor": "CLE International"
+            },
+            {
+                "referencia": "IDIO.25",
+                "titulo": "Diccionario Español-Francés",
+                "autor": "Collins"
+            },
+            {
+                "referencia": "IDIO.26",
+                "titulo": "L'ocean est mon frère",
+                "autor": "Collins"
+            },
+            {
+                "referencia": "IDIO.27",
+                "titulo": "La beauté naturelle",
+                "autor": "Carole Dichampt"
+            },
+            {
+                "referencia": "IDIO.28",
+                "titulo": "Remi et Juliette",
+                "autor": "Léo Lamarche"
+            },
+            {
+                "referencia": "IDIO.29",
+                "titulo": "Le fils de Nasreddine",
+                "autor": "Brigitte Arnaudiès"
+            },
+            {
+                "referencia": "IDIO.30",
+                "titulo": "Le partage des oies",
+                "autor": "Brigitte Arnaudiès"
+            },
+            {
+                "referencia": "IDIO.31",
+                "titulo": "Pierrot",
+                "autor": "Annette Maxime"
+            },
+            {
+                "referencia": "IDIO.32",
+                "titulo": "Enfermés",
+                "autor": "Annette Maxime"
+            },
+            {
+                "referencia": "IDIO.33",
+                "titulo": "¿Quiere usted saber alemán en 10 días?",
+                "autor": "Métodos Robertson"
+            },
+            {
+                "referencia": "IDIO.34",
+                "titulo": "Diccionario Alemán-Español",
+                "autor": "VOX"
+            },
+            {
+                "referencia": "IDIO.35",
+                "titulo": "Diccionario visual Alemán-Español",
+                "autor": "Saldaña"
+            },
+            {
+                "referencia": "IDIO.36",
+                "titulo": "Curso completo de lengua rusa, nivel básico",
+                "autor": "Ediciones hispano eslavas"
+            },
+            {
+                "referencia": "IDIO.37",
+                "titulo": "Curso completo de lengua rusa, nivel intermedio y avanzado",
+                "autor": "Ediciones hispano eslavas"
+            },
+            {
+                "referencia": "IDIO.38",
+                "titulo": "Diccionario Ruso-Español",
+                "autor": "Marzishevskaya"
+            },
+            {
+                "referencia": "IDIO.39",
+                "titulo": "Complete norweigian",
+                "autor": "Teach yourself"
+            },
+            {
+                "referencia": "IDIO.40",
+                "titulo": "Lengua latina, pars I",
+                "autor": "Hans H.Orberg"
+            },
+            {
+                "referencia": "IDIO.41",
+                "titulo": "Lengua latina, exercitia latina I",
+                "autor": "Hans H.Orberg"
+            },
+            {
+                "referencia": "IDIO.42",
+                "titulo": "Diccionario Latín-Español",
+                "autor": "VOX"
+            },
+            {
+                "referencia": "IDIO.43",
+                "titulo": "Antología latina",
+                "autor": "Editorial Gredos"
+            },
+            {
+                "referencia": "IDIO.44",
+                "titulo": "Diccionario Esencial Latín-Español",
+                "autor": "VOX"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "JUVE": {
+        "nombre": "Juvenil",
+        "subsecciones": {
+            "Cómics": [
+                {
+                    "referencia": "JUVE.CÓMI.1",
+                    "titulo": "Super Humor Mortadelo y Filemón",
+                    "autor": "Ed. Ediciones B"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.2",
+                    "titulo": "Super Humor Mortadelo y Filemón nº 42",
+                    "autor": "Ed. Ediciones B"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.3",
+                    "titulo": "El aniversario de Astérix y Obélix, el libro de oro",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.4",
+                    "titulo": "Astérix en la India",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.5",
+                    "titulo": "Mortadelo y Filemón Mundial 2010",
+                    "autor": "Ed. Ediciones B"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.6",
+                    "titulo": "Mortadelo y Filemón, álbum de coleccionista",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.7",
+                    "titulo": "Mortadelo y Filemón, euro basket 2001",
+                    "autor": "Ed. Olé"
+                },
+                {
+                    "referencia": "JUVE.CÓMI.8",
+                    "titulo": "Mortadelo Top Cómic nº29",
+                    "autor": "Ed. Ediciones B"
+                }
+            ],
+            "Conocimiento": [
+                {
+                    "referencia": "JUVE.CONO.1",
+                    "titulo": "Aventuras de papel",
+                    "autor": "Ken Blackburn"
+                },
+                {
+                    "referencia": "JUVE.CONO.2",
+                    "titulo": "Las 323 adivinanzas más famosas",
+                    "autor": "Ed. Susaeta"
+                },
+                {
+                    "referencia": "JUVE.CONO.3",
+                    "titulo": "Ajedrez para niños, ¡A jugar ya! 1",
+                    "autor": "Carlos García Palermo"
+                },
+                {
+                    "referencia": "JUVE.CONO.4",
+                    "titulo": "Ajedrez para niños, ¡A jugar ya! 2",
+                    "autor": "Carlos García Palermo"
+                },
+                {
+                    "referencia": "JUVE.CONO.5",
+                    "titulo": "Parajopelícula",
+                    "autor": "P. Chicharro Valencia"
+                },
+                {
+                    "referencia": "JUVE.CONO.6",
+                    "titulo": "Libro de juegos",
+                    "autor": "K. Snewmay"
+                },
+                {
+                    "referencia": "JUVE.CONO.7",
+                    "titulo": "Adivinanzas, pictogramas para niños",
+                    "autor": "Ed. Divulga"
+                },
+                {
+                    "referencia": "JUVE.CONO.8",
+                    "titulo": "Poemas y cuentos, pictogramas para niños",
+                    "autor": "Ed. Divulga"
+                },
+                {
+                    "referencia": "JUVE.CONO.9",
+                    "titulo": "Los experimentos de Flipy",
+                    "autor": "Ed. Aguilar"
+                },
+                {
+                    "referencia": "JUVE.CONO.10",
+                    "titulo": "Hay historias, mañana sol",
+                    "autor": "Sabine Seyffert"
+                },
+                {
+                    "referencia": "JUVE.CONO.11",
+                    "titulo": "Los supermimosos",
+                    "autor": "Ed. Brab"
+                },
+                {
+                    "referencia": "JUVE.CONO.12",
+                    "titulo": "Las claves del amor",
+                    "autor": "Ed. Duval Fontana"
+                },
+                {
+                    "referencia": "JUVE.CONO.13",
+                    "titulo": "Atlas Mundial",
+                    "autor": "Ed. LTBASA"
+                },
+                {
+                    "referencia": "JUVE.CONO.14",
+                    "titulo": "Historia Mundial",
+                    "autor": "Ed. LTBASA"
+                },
+                {
+                    "referencia": "JUVE.CONO.15",
+                    "titulo": "El mundo natural",
+                    "autor": "Ed. LTBASA"
+                },
+                {
+                    "referencia": "JUVE.CONO.16",
+                    "titulo": "Mi primer gran enciclopedia",
+                    "autor": "Ed. Parragon"
+                },
+                {
+                    "referencia": "JUVE.CONO.17",
+                    "titulo": "El libro de la ciencia",
+                    "autor": "Ed. Parragon"
+                },
+                {
+                    "referencia": "JUVE.CONO.18",
+                    "titulo": "La enciclopedia de los conocimientos",
+                    "autor": "Ed. Océano"
+                },
+                {
+                    "referencia": "JUVE.CONO.19",
+                    "titulo": "Mi primer libro de grandes exploradores",
+                    "autor": "Ed. Parragon"
+                },
+                {
+                    "referencia": "JUVE.CONO.20",
+                    "titulo": "Cómo poner mil papel en el agua",
+                    "autor": "Ed. SM"
+                },
+                {
+                    "referencia": "JUVE.CONO.21",
+                    "titulo": "Mi mundo de día y de noche",
+                    "autor": "Ed. SM"
+                },
+                {
+                    "referencia": "JUVE.CONO.22",
+                    "titulo": "Máquinas asombrosas",
+                    "autor": "Ed. Parragon"
+                },
+                {
+                    "referencia": "JUVE.CONO.23",
+                    "titulo": "Atlas del mundo",
+                    "autor": "Ed. Parragon"
+                },
+                {
+                    "referencia": "JUVE.CONO.24",
+                    "titulo": "Rafael Alberti para niños",
+                    "autor": "Ed. Susaeta"
+                },
+                {
+                    "referencia": "JUVE.CONO.25",
+                    "titulo": "Aprende Ballet",
+                    "autor": "Usborne"
+                },
+                {
+                    "referencia": "JUVE.CONO.26",
+                    "titulo": "Aventuras, robots para niños",
+                    "autor": "Ed. Divulga"
+                },
+                {
+                    "referencia": "JUVE.CONO.27",
+                    "titulo": "Aventuras, planetas para niños",
+                    "autor": "Ed. Divulga"
+                },
+                {
+                    "referencia": "JUVE.CONO.28",
+                    "titulo": "Spiel rein Abenteuer",
+                    "autor": "Ed. Ravensburger"
+                },
+                {
+                    "referencia": "JUVE.CONO.29",
+                    "titulo": "Astronomía de niños",
+                    "autor": "Pedro Gañedos"
+                },
+                {
+                    "referencia": "JUVE.CONO.30",
+                    "titulo": "Los animales y su mundo",
+                    "autor": "Ed. Todolibro"
+                },
+                {
+                    "referencia": "JUVE.CONO.31",
+                    "titulo": "Los animales y su mundo, montañas y bosques",
+                    "autor": "Ed. Todolibro"
+                },
+                {
+                    "referencia": "JUVE.CONO.32",
+                    "titulo": "Los porqués de los animales",
+                    "autor": "Ed. Todolibro"
+                }
+            ],
+            "Novela": [
+                {
+                    "referencia": "JUVE.NOVE.1",
+                    "titulo": "Antoñita la fantástica y su tía Carol",
+                    "autor": "Borita Casas"
+                },
+                {
+                    "referencia": "JUVE.NOVE.2",
+                    "titulo": "Antoñita la fantástica de vacaciones",
+                    "autor": "Borita Casas"
+                },
+                {
+                    "referencia": "JUVE.NOVE.3",
+                    "titulo": "Pinner curso en torres de Malory",
+                    "autor": "Enid Blyton"
+                },
+                {
+                    "referencia": "JUVE.NOVE.4",
+                    "titulo": "La fábrica de nubes",
+                    "autor": "Jordi Sierra i Fabra"
+                },
+                {
+                    "referencia": "JUVE.NOVE.5",
+                    "titulo": "Breves y eternos cuentos de luchas y poesía",
+                    "autor": "Ed. escritores"
+                },
+                {
+                    "referencia": "JUVE.NOVE.6",
+                    "titulo": "El misterio de los estudios Kellerman",
+                    "autor": "Ken Follett"
+                },
+                {
+                    "referencia": "JUVE.NOVE.7",
+                    "titulo": "No pidas sardina fuera de temporada",
+                    "autor": "Andreu Martin"
+                },
+                {
+                    "referencia": "JUVE.NOVE.8",
+                    "titulo": "Viaje en el tiempo",
+                    "autor": "Geronimo Stilton"
+                },
+                {
+                    "referencia": "JUVE.NOVE.9",
+                    "titulo": "El fantasma de Canterville",
+                    "autor": "Wilde"
+                },
+                {
+                    "referencia": "JUVE.NOVE.10",
+                    "titulo": "El principito, con ilustraciones del autor",
+                    "autor": "Antoine de Saint-Exupéry"
+                },
+                {
+                    "referencia": "JUVE.NOVE.11",
+                    "titulo": "Árboles y rimas para niños",
+                    "autor": "Ed. Parragon"
+                },
+                {
+                    "referencia": "JUVE.NOVE.12",
+                    "titulo": "El caballero del torre",
+                    "autor": "Anónimo"
+                },
+                {
+                    "referencia": "JUVE.NOVE.13",
+                    "titulo": "Las lágrimas de Shiva",
+                    "autor": "César Mallorquí"
+                },
+                {
+                    "referencia": "JUVE.NOVE.14",
+                    "titulo": "El valle de los trolls",
+                    "autor": "Ed. Rolf Lidberg"
+                },
+                {
+                    "referencia": "JUVE.NOVE.15",
+                    "titulo": "Lily Quench y las montañas negras",
+                    "autor": "Natalie Jane Prior"
+                },
+                {
+                    "referencia": "JUVE.NOVE.16",
+                    "titulo": "Las aventuras del Doctor Dolittle",
+                    "autor": "Hugh Lofting"
+                },
+                {
+                    "referencia": "JUVE.NOVE.17",
+                    "titulo": "Cuentos chinos",
+                    "autor": "J.H. Sweet"
+                },
+                {
+                    "referencia": "JUVE.NOVE.18",
+                    "titulo": "Las crónicas de Spiderwick",
+                    "autor": "Diterlizzi & Black"
+                },
+                {
+                    "referencia": "JUVE.NOVE.19",
+                    "titulo": "La leyenda de Sleepy Hollow y otros cuentos fantásticos",
+                    "autor": "Ed. Oxford"
+                },
+                {
+                    "referencia": "JUVE.NOVE.20",
+                    "titulo": "Los tres naranjas del amor y otros cuentos en español",
+                    "autor": "Carmen Bravo Villasante"
+                },
+                {
+                    "referencia": "JUVE.NOVE.21",
+                    "titulo": "Lily y la pantera misiñosa",
+                    "autor": "Kristin Larsen"
+                },
+                {
+                    "referencia": "JUVE.NOVE.22",
+                    "titulo": "Dos preguntas y respuestas de Gloria",
+                    "autor": "Gloria Fuertes"
+                },
+                {
+                    "referencia": "JUVE.NOVE.23",
+                    "titulo": "Matilda",
+                    "autor": "Roald Dahl"
+                },
+                {
+                    "referencia": "JUVE.NOVE.24",
+                    "titulo": "El patito feo, un cuento de Valdemar Daae",
+                    "autor": "C. Andersen"
+                },
+                {
+                    "referencia": "JUVE.NOVE.25",
+                    "titulo": "Historia de un segundo",
+                    "autor": "Jordi Sierra i Fabra"
+                },
+                {
+                    "referencia": "JUVE.NOVE.26",
+                    "titulo": "Alice in Wonderland",
+                    "autor": "Lewis Carroll"
+                },
+                {
+                    "referencia": "JUVE.NOVE.27",
+                    "titulo": "Abbadat, el profesor, la marioneta y el profeta",
+                    "autor": "Editorial Planeta Junior"
+                },
+                {
+                    "referencia": "JUVE.NOVE.28",
+                    "titulo": "Fábulas Chinas",
+                    "autor": "Ediciones Literatura Universal"
+                },
+                {
+                    "referencia": "JUVE.NOVE.29",
+                    "titulo": "Antoñita la fantástica cumple diez años",
+                    "autor": "Borita Casas"
+                },
+                {
+                    "referencia": "JUVE.NOVE.30",
+                    "titulo": "El principito",
+                    "autor": "Ed. Enrique Sancho Editor"
+                },
+                {
+                    "referencia": "JUVE.NOVE.31",
+                    "titulo": "Cuentos del profesor ruso",
+                    "autor": "Editorial Progreso"
+                },
+                {
+                    "referencia": "JUVE.NOVE.32",
+                    "titulo": "El misterio de la isla de Tökland",
+                    "autor": "Joan Manuel Gisbert"
+                },
+                {
+                    "referencia": "JUVE.NOVE.33",
+                    "titulo": "La casa de los espejos",
+                    "autor": "Ulysses Moore"
+                },
+                {
+                    "referencia": "JUVE.NOVE.34",
+                    "titulo": "Bussi la hermana",
+                    "autor": "Ed. Raduga"
+                },
+                {
+                    "referencia": "JUVE.NOVE.35",
+                    "titulo": "Lily Quench y el dragón de Ashby",
+                    "autor": "Natalie Jane Prior"
+                },
+                {
+                    "referencia": "JUVE.NOVE.36",
+                    "titulo": "Jonathan Livingston. Seguel Gaviota",
+                    "autor": "Richard Bach"
+                },
+                {
+                    "referencia": "JUVE.NOVE.37",
+                    "titulo": "Jonas el hijo de los damnificados",
+                    "autor": "Joachim Friedrich"
+                },
+                {
+                    "referencia": "JUVE.NOVE.38",
+                    "titulo": "Fábulas hindúes",
+                    "autor": "Ed. Astra"
+                },
+                {
+                    "referencia": "JUVE.NOVE.39",
+                    "titulo": "El lago de los cisnes",
+                    "autor": "Juana Spyras"
+                },
+                {
+                    "referencia": "JUVE.NOVE.40",
+                    "titulo": "The eye of childhood",
+                    "autor": "Ed. Oxford"
+                }
+            ]
+        },
+        "libros": [],
+        "subcontadores": {
+            "Cómics": 8,
+            "Conocimiento": 32,
+            "Novela": 40
+        }
+    },
+    "MITO": {
+        "nombre": "Mitología",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "MITO.1",
+                "titulo": "Gilgamesh",
+                "autor": "Poema Babilonio"
+            },
+            {
+                "referencia": "MITO.2",
+                "titulo": "Ilíada",
+                "autor": "Homero"
+            },
+            {
+                "referencia": "MITO.3",
+                "titulo": "Odisea",
+                "autor": "Homero"
+            },
+            {
+                "referencia": "MITO.4",
+                "titulo": "Tragedias completas",
+                "autor": "Esquilo"
+            },
+            {
+                "referencia": "MITO.5",
+                "titulo": "Tragedias completas",
+                "autor": "Sófocles"
+            },
+            {
+                "referencia": "MITO.6",
+                "titulo": "Tragedias",
+                "autor": "Eurípides"
+            },
+            {
+                "referencia": "MITO.7",
+                "titulo": "Las troyanas",
+                "autor": "Eurípides"
+            },
+            {
+                "referencia": "MITO.8",
+                "titulo": "Las nubes, Lisístrata, Dinero",
+                "autor": "Aristófanes"
+            },
+            {
+                "referencia": "MITO.9",
+                "titulo": "Zeus conquista el Olimpo",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "MITO.10",
+                "titulo": "Mitología clásica",
+                "autor": "M.J. Almagro Gorbea"
+            },
+            {
+                "referencia": "MITO.11",
+                "titulo": "Hécate, La diosa sombría",
+                "autor": "Mario Agudo Villanueva"
+            },
+            {
+                "referencia": "MITO.12",
+                "titulo": "Eneida",
+                "autor": "Virgilio"
+            },
+            {
+                "referencia": "MITO.13",
+                "titulo": "Metamorfosis",
+                "autor": "Ovidio"
+            },
+            {
+                "referencia": "MITO.14",
+                "titulo": "El viaje de los argonautas",
+                "autor": "Apolonio de Rodas"
+            },
+            {
+                "referencia": "MITO.15",
+                "titulo": "Divina Comedia, Editorial Alianza",
+                "autor": "Dante Alighieri"
+            },
+            {
+                "referencia": "MITO.16",
+                "titulo": "Divina Comedia, Editorial Cátedra",
+                "autor": "Dante Alighieri"
+            },
+            {
+                "referencia": "MITO.17",
+                "titulo": "Divina Comedia, Las 135 ilustraciones de Gustavo Doré",
+                "autor": "Gustavo Doré"
+            },
+            {
+                "referencia": "MITO.18",
+                "titulo": "El paraíso perdido",
+                "autor": "John Milton"
+            },
+            {
+                "referencia": "MITO.19",
+                "titulo": "Borges esencial",
+                "autor": "Jorge Luis Borges"
+            },
+            {
+                "referencia": "MITO.20",
+                "titulo": "Las bodas de Cadmo y Harmonía",
+                "autor": "Roberto Calasso"
+            },
+            {
+                "referencia": "MITO.21",
+                "titulo": "Érase una vez... El universo, los dioses, los hombres",
+                "autor": "Jean Pierre Vernant"
+            },
+            {
+                "referencia": "MITO.22",
+                "titulo": "El arte de amar",
+                "autor": "Ovidio"
+            },
+            {
+                "referencia": "MITO.23",
+                "titulo": "El gran libro de la mitología griega",
+                "autor": "Robin Hart"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "NOVE": {
+        "nombre": "Novela",
+        "subsecciones": {
+            "Histórica": [
+                {
+                    "referencia": "NOVE.HIST.1",
+                    "titulo": "El asesinato de Sócrates",
+                    "autor": "Marcos Chicot"
+                },
+                {
+                    "referencia": "NOVE.HIST.2",
+                    "titulo": "Las legiones malditas",
+                    "autor": "Santiago Posteguillo"
+                },
+                {
+                    "referencia": "NOVE.HIST.3",
+                    "titulo": "El faro de Alejandría",
+                    "autor": "Gillian Bradshaw"
+                },
+                {
+                    "referencia": "NOVE.HIST.4",
+                    "titulo": "La caída de Roma",
+                    "autor": "Michael Curtis Ford"
+                },
+                {
+                    "referencia": "NOVE.HIST.5",
+                    "titulo": "La hermandad de la Sábana Santa",
+                    "autor": "Julia Navarro"
+                },
+                {
+                    "referencia": "NOVE.HIST.6",
+                    "titulo": "La sombra del inquisidor",
+                    "autor": "Roberto Calvo y Marcos Lazzaro"
+                },
+                {
+                    "referencia": "NOVE.HIST.7",
+                    "titulo": "El mercader de libros",
+                    "autor": "Luis Zueco"
+                },
+                {
+                    "referencia": "NOVE.HIST.8",
+                    "titulo": "El arpista ciego",
+                    "autor": "Terenci Moix"
+                },
+                {
+                    "referencia": "NOVE.HIST.9",
+                    "titulo": "Las minas del rey Salomón",
+                    "autor": "H. Rider Haggard"
+                },
+                {
+                    "referencia": "NOVE.HIST.10",
+                    "titulo": "La fiesta del chivo",
+                    "autor": "Mario Vargas Llosa"
+                },
+                {
+                    "referencia": "NOVE.HIST.11",
+                    "titulo": "Los pilares de la Tierra",
+                    "autor": "Ken Follett"
+                },
+                {
+                    "referencia": "NOVE.HIST.12",
+                    "titulo": "Un mundo sin fin",
+                    "autor": "Ken Follett"
+                },
+                {
+                    "referencia": "NOVE.HIST.13",
+                    "titulo": "Una columna de fuego",
+                    "autor": "Ken Follett"
+                },
+                {
+                    "referencia": "NOVE.HIST.14",
+                    "titulo": "El invierno del mundo",
+                    "autor": "Ken Follett"
+                },
+                {
+                    "referencia": "NOVE.HIST.15",
+                    "titulo": "Las dos muertes de Mozart",
+                    "autor": "Joseph Gelinek"
+                },
+                {
+                    "referencia": "NOVE.HIST.16",
+                    "titulo": "El maestro Eckhart",
+                    "autor": "Juan Bedera"
+                },
+                {
+                    "referencia": "NOVE.HIST.17",
+                    "titulo": "La dama de Urtubi",
+                    "autor": "Pío Baroja"
+                },
+                {
+                    "referencia": "NOVE.HIST.18",
+                    "titulo": "Retrato de grupo con señora",
+                    "autor": "Heinrich Böll"
+                },
+                {
+                    "referencia": "NOVE.HIST.19",
+                    "titulo": "Colón",
+                    "autor": "Pedro Veltes"
+                },
+                {
+                    "referencia": "NOVE.HIST.20",
+                    "titulo": "La cena secreta",
+                    "autor": "Javier Sierra"
+                },
+                {
+                    "referencia": "NOVE.HIST.21",
+                    "titulo": "El capitán Alatriste",
+                    "autor": "Arturo Pérez-Reverte"
+                },
+                {
+                    "referencia": "NOVE.HIST.22",
+                    "titulo": "Rusos I",
+                    "autor": "Edward Rutherfurd"
+                },
+                {
+                    "referencia": "NOVE.HIST.23",
+                    "titulo": "Rusos II",
+                    "autor": "Edward Rutherfurd"
+                },
+                {
+                    "referencia": "NOVE.HIST.24",
+                    "titulo": "Todo bajo el cielo",
+                    "autor": "Matilde Asensi"
+                },
+                {
+                    "referencia": "NOVE.HIST.25",
+                    "titulo": "Constantinopla",
+                    "autor": "Ignacio Tovarey"
+                },
+                {
+                    "referencia": "NOVE.HIST.26",
+                    "titulo": "Archipiélago Gulag",
+                    "autor": "Aleksandr Solzhenitsyn"
+                },
+                {
+                    "referencia": "NOVE.HIST.27",
+                    "titulo": "Ulises Vol. I",
+                    "autor": "James Joyce"
+                },
+                {
+                    "referencia": "NOVE.HIST.28",
+                    "titulo": "Ulises Vol. II",
+                    "autor": "James Joyce"
+                },
+                {
+                    "referencia": "NOVE.HIST.29",
+                    "titulo": "Yo, Claudio",
+                    "autor": "Robert Graves"
+                },
+                {
+                    "referencia": "NOVE.HIST.30",
+                    "titulo": "El valle de los leones",
+                    "autor": "Ken Follett"
+                },
+                {
+                    "referencia": "NOVE.HIST.31",
+                    "titulo": "El largo viaje",
+                    "autor": "Jorge Semprún"
+                },
+                {
+                    "referencia": "NOVE.HIST.32",
+                    "titulo": "La verdad sobre el caso Savolta",
+                    "autor": "Eduardo Mendoza"
+                },
+                {
+                    "referencia": "NOVE.HIST.33",
+                    "titulo": "La rosa verde",
+                    "autor": "Warren A. Silva"
+                },
+                {
+                    "referencia": "NOVE.HIST.34",
+                    "titulo": "El clan del oso cavernario",
+                    "autor": "Jean M. Auel"
+                },
+                {
+                    "referencia": "NOVE.HIST.35",
+                    "titulo": "Retrato en sepia",
+                    "autor": "Isabel Allende"
+                },
+                {
+                    "referencia": "NOVE.HIST.36",
+                    "titulo": "El nombre de la rosa",
+                    "autor": "Umberto Eco"
+                },
+                {
+                    "referencia": "NOVE.HIST.37",
+                    "titulo": "El 19 de marzo y el 1 de mayo",
+                    "autor": "Benito Pérez Galdós"
+                },
+                {
+                    "referencia": "NOVE.HIST.38",
+                    "titulo": "Cuentos de la Alhambra",
+                    "autor": "Washington Irving"
+                },
+                {
+                    "referencia": "NOVE.HIST.39",
+                    "titulo": "Lisianca",
+                    "autor": "Sienkiewicz"
+                },
+                {
+                    "referencia": "NOVE.HIST.40",
+                    "titulo": "Romancero del mío Cid",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "NOVE.HIST.41",
+                    "titulo": "Trafalgar",
+                    "autor": "Benito Pérez Galdós"
+                },
+                {
+                    "referencia": "NOVE.HIST.42",
+                    "titulo": "La letra escarlata",
+                    "autor": "Hawthorne"
+                },
+                {
+                    "referencia": "NOVE.HIST.43",
+                    "titulo": "El médico de Toledo",
+                    "autor": "Toledano"
+                },
+                {
+                    "referencia": "NOVE.HIST.44",
+                    "titulo": "El ruido del tiempo",
+                    "autor": "Julian Barnes"
+                }
+            ],
+            "Suspense": [
+                {
+                    "referencia": "NOVE.SUSP.1",
+                    "titulo": "El Palacio de Medianoche",
+                    "autor": "Carlos Ruiz Zafón"
+                },
+                {
+                    "referencia": "NOVE.SUSP.2",
+                    "titulo": "La Sombra del Viento",
+                    "autor": "Carlos Ruiz Zafón"
+                },
+                {
+                    "referencia": "NOVE.SUSP.3",
+                    "titulo": "El Prisionero del Cielo",
+                    "autor": "Carlos Ruiz Zafón"
+                },
+                {
+                    "referencia": "NOVE.SUSP.4",
+                    "titulo": "Marina",
+                    "autor": "Carlos Ruiz Zafón"
+                },
+                {
+                    "referencia": "NOVE.SUSP.5",
+                    "titulo": "Ocho mortales poseídas",
+                    "autor": "Tennessee Williams"
+                },
+                {
+                    "referencia": "NOVE.SUSP.6",
+                    "titulo": "Extraños en un tren",
+                    "autor": "Patricia Highsmith"
+                },
+                {
+                    "referencia": "NOVE.SUSP.7",
+                    "titulo": "Horizonte de sucesos",
+                    "autor": "Carmen Peire"
+                },
+                {
+                    "referencia": "NOVE.SUSP.8",
+                    "titulo": "El código Da Vinci",
+                    "autor": "Dan Brown"
+                },
+                {
+                    "referencia": "NOVE.SUSP.9",
+                    "titulo": "La coartada perfecta",
+                    "autor": "Patricia Highsmith"
+                },
+                {
+                    "referencia": "NOVE.SUSP.10",
+                    "titulo": "Nuestro juego",
+                    "autor": "John Le carré"
+                },
+                {
+                    "referencia": "NOVE.SUSP.11",
+                    "titulo": "El caso del crimen de la ópera",
+                    "autor": "Elia Barceló"
+                },
+                {
+                    "referencia": "NOVE.SUSP.12",
+                    "titulo": "Sherlock Holmes: Estrella de plata",
+                    "autor": "Arthur Conan Doyle"
+                },
+                {
+                    "referencia": "NOVE.SUSP.13",
+                    "titulo": "Daddy",
+                    "autor": "Loup Durand"
+                },
+                {
+                    "referencia": "NOVE.SUSP.14",
+                    "titulo": "El ocho",
+                    "autor": "Katherine Neville"
+                },
+                {
+                    "referencia": "NOVE.SUSP.15",
+                    "titulo": "Salvatore Giuliano, el siciliano",
+                    "autor": "Mario Puzo"
+                },
+                {
+                    "referencia": "NOVE.SUSP.16",
+                    "titulo": "El secuestro de Mamá y otros relatos del Marqués de Sotosancho",
+                    "autor": "Alfonso Díaz"
+                },
+                {
+                    "referencia": "NOVE.SUSP.17",
+                    "titulo": "La hoguera de las vanidades",
+                    "autor": "Tom Wolfe"
+                },
+                {
+                    "referencia": "NOVE.SUSP.18",
+                    "titulo": "La chica del tren",
+                    "autor": "Paula Hawkings"
+                },
+                {
+                    "referencia": "NOVE.SUSP.19",
+                    "titulo": "El fuego invisible",
+                    "autor": "Javier Sierra"
+                },
+                {
+                    "referencia": "NOVE.SUSP.20",
+                    "titulo": "El hiperboloide del ingeniero Garín",
+                    "autor": "Alekséi Tolstói"
+                },
+                {
+                    "referencia": "NOVE.SUSP.21",
+                    "titulo": "La mortaja",
+                    "autor": "Miguel Delibes"
+                },
+                {
+                    "referencia": "NOVE.SUSP.22",
+                    "titulo": "La muerte en Venecia",
+                    "autor": "Thomas Mann"
+                },
+                {
+                    "referencia": "NOVE.SUSP.23",
+                    "titulo": "El Fantasma de Canterville",
+                    "autor": "Oscar Wilde"
+                },
+                {
+                    "referencia": "NOVE.SUSP.24",
+                    "titulo": "Si, con la policía",
+                    "autor": "A. y G. Veimar"
+                },
+                {
+                    "referencia": "NOVE.SUSP.25",
+                    "titulo": "El balneario",
+                    "autor": "Martin Gaite"
+                },
+                {
+                    "referencia": "NOVE.SUSP.26",
+                    "titulo": "El perseguidor",
+                    "autor": "Cortázar"
+                },
+                {
+                    "referencia": "NOVE.SUSP.27",
+                    "titulo": "El coronel no tiene quien le escriba",
+                    "autor": "Gabriel García Márquez"
+                },
+                {
+                    "referencia": "NOVE.SUSP.28",
+                    "titulo": "Una pequeña ciudad de Alemania",
+                    "autor": "John Le Carré"
+                },
+                {
+                    "referencia": "NOVE.SUSP.29",
+                    "titulo": "Crónica de una muerte anunciada",
+                    "autor": "Gabriel García Márquez"
+                },
+                {
+                    "referencia": "NOVE.SUSP.30",
+                    "titulo": "El susto de Mr. Ripley",
+                    "autor": "Patricia Highsmith"
+                },
+                {
+                    "referencia": "NOVE.SUSP.31",
+                    "titulo": "El ameriacano imposible",
+                    "autor": "Graham Greene"
+                },
+                {
+                    "referencia": "NOVE.SUSP.32",
+                    "titulo": "Los amigos del crimen perfecto",
+                    "autor": "Andrés Trapiello"
+                },
+                {
+                    "referencia": "NOVE.SUSP.33",
+                    "titulo": "Un espía perfecto",
+                    "autor": "John Le Carré"
+                }
+            ],
+            "Romántica": [
+                {
+                    "referencia": "NOVE.ROMÁ.1",
+                    "titulo": "La pasión turca",
+                    "autor": "Antonio Gala"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.2",
+                    "titulo": "Así empezó todo",
+                    "autor": "Mary Nickson"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.3",
+                    "titulo": "Donde el corazón te lleve",
+                    "autor": "Susanna Tamaro"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.4",
+                    "titulo": "La sonata a Kreutzer",
+                    "autor": "Tolstoi"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.5",
+                    "titulo": "Una noche encantada",
+                    "autor": "Christina Dodd"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.6",
+                    "titulo": "El señor de la guerra",
+                    "autor": "Elizabeth Elliott"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.7",
+                    "titulo": "Al otro lado del río y entre los árboles",
+                    "autor": "Ernest Hemingway"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.8",
+                    "titulo": "El imposible olvido",
+                    "autor": "Antonio Gala"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.9",
+                    "titulo": "Orgullo y prejuicio",
+                    "autor": "Jane Austen"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.10",
+                    "titulo": "Werther",
+                    "autor": "Goethe"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.11",
+                    "titulo": "Secretos en la provincia",
+                    "autor": "Bridget Asher"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.12",
+                    "titulo": "A este lado del paraíso",
+                    "autor": "F. Scott Fitzgerald"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.13",
+                    "titulo": "Al este del Edén",
+                    "autor": "John Steinbeck"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.14",
+                    "titulo": "Desayuno en Tiffany's",
+                    "autor": "Truman Capote"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.15",
+                    "titulo": "Mujeres enamoradas",
+                    "autor": "D. H. Lawrence"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.16",
+                    "titulo": "El amante de Lady Chatterley",
+                    "autor": "D. H. Lawrence"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.17",
+                    "titulo": "La sonrisa etrusca",
+                    "autor": "José Luis Sampedro"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.18",
+                    "titulo": "Prado Florido",
+                    "autor": "John Galsworthy"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.19",
+                    "titulo": "La insoportable levedad del ser",
+                    "autor": "Milan Kundera"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.20",
+                    "titulo": "El caballero Mauprat",
+                    "autor": "Jorge Sandi"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.21",
+                    "titulo": "La dama de las camelias",
+                    "autor": "Dumas hijo"
+                },
+                {
+                    "referencia": "NOVE.ROMÁ.22",
+                    "titulo": "Don Juan",
+                    "autor": "Lord Byron"
+                }
+            ],
+            "Aventura": [
+                {
+                    "referencia": "NOVE.AVEN.1",
+                    "titulo": "Don Quijote de la Mancha, ilustrado por Doré",
+                    "autor": "Miguel de Cervantes"
+                },
+                {
+                    "referencia": "NOVE.AVEN.2",
+                    "titulo": "El ingenioso hidalgo Don Quijote de la Mancha",
+                    "autor": "Miguel de Cervantes"
+                },
+                {
+                    "referencia": "NOVE.AVEN.3",
+                    "titulo": "El país de los Kenders",
+                    "autor": "Mary Kirchoff"
+                },
+                {
+                    "referencia": "NOVE.AVEN.4",
+                    "titulo": "Territorio Comanche",
+                    "autor": "Arturo Pérez Reverte"
+                },
+                {
+                    "referencia": "NOVE.AVEN.5",
+                    "titulo": "Dos capitanes, dos rumbos",
+                    "autor": "Veniamin Kaverin"
+                },
+                {
+                    "referencia": "NOVE.AVEN.6",
+                    "titulo": "El señor de los ladrones",
+                    "autor": "Cornelia Funke"
+                },
+                {
+                    "referencia": "NOVE.AVEN.7",
+                    "titulo": "Las nieves del Kilimanjaro",
+                    "autor": "Ernest Hemingway"
+                },
+                {
+                    "referencia": "NOVE.AVEN.8",
+                    "titulo": "Noche en Bombay",
+                    "autor": "Louis Bromfield"
+                },
+                {
+                    "referencia": "NOVE.AVEN.9",
+                    "titulo": "El corsario negro",
+                    "autor": "Emilio Salgari"
+                },
+                {
+                    "referencia": "NOVE.AVEN.10",
+                    "titulo": "Moby Dick",
+                    "autor": "Herman Melville"
+                },
+                {
+                    "referencia": "NOVE.AVEN.11",
+                    "titulo": "La quimera de oro",
+                    "autor": "Jack London"
+                },
+                {
+                    "referencia": "NOVE.AVEN.12",
+                    "titulo": "Obras completas. Tomo I",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.13",
+                    "titulo": "Obras completas. Tomo II",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.14",
+                    "titulo": "Obras completas. Tomo III",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.15",
+                    "titulo": "Obras completas. Tomo IV",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.16",
+                    "titulo": "Obras completas. Tomo V",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.17",
+                    "titulo": "Obras completas. Tomo VI",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.18",
+                    "titulo": "Obras completas. Tomo VII",
+                    "autor": "Julio Verne"
+                }
+            ],
+            "Bélica": [
+                {
+                    "referencia": "NOVE.BÉLI.1",
+                    "titulo": "Mar fuerte que el último",
+                    "autor": "Gueorgui Bernátzko"
+                },
+                {
+                    "referencia": "NOVE.BÉLI.2",
+                    "titulo": "Tiempo de prueba",
+                    "autor": "Pavel Nilov"
+                },
+                {
+                    "referencia": "NOVE.BÉLI.3",
+                    "titulo": "De los vivos y de los muertos",
+                    "autor": "Konstantin Simonov"
+                },
+                {
+                    "referencia": "NOVE.BÉLI.4",
+                    "titulo": "Balada alpina",
+                    "autor": "Vasil Bykov"
+                },
+                {
+                    "referencia": "NOVE.BÉLI.5",
+                    "titulo": "Un día en la vida de Ivan Denisovich",
+                    "autor": "Aleksandr Solzhenitsyn"
+                },
+                {
+                    "referencia": "NOVE.BÉLI.6",
+                    "titulo": "Un hombre de verdad",
+                    "autor": "Boris Polevoy"
+                },
+                {
+                    "referencia": "NOVE.BÉLI.7",
+                    "titulo": "La joven guardia",
+                    "autor": "Alexander Fadéiev"
+                }
+            ],
+            "Ciencia Ficción": [
+                {
+                    "referencia": "NOVE.CIFI.1",
+                    "titulo": "Teluria",
+                    "autor": "Pedro Sánchez Paredes"
+                },
+                {
+                    "referencia": "NOVE.CIFI.2",
+                    "titulo": "Contact",
+                    "autor": "Carl Sagan"
+                },
+                {
+                    "referencia": "NOVE.CIFI.3",
+                    "titulo": "El juego de Ender",
+                    "autor": "Orson Scott Card"
+                },
+                {
+                    "referencia": "NOVE.CIFI.4",
+                    "titulo": "La torre oscura",
+                    "autor": "Stephen King"
+                },
+                {
+                    "referencia": "NOVE.CIFI.5",
+                    "titulo": "Fahrenheit 451",
+                    "autor": "Ray Bradbury"
+                }
+            ],
+            "Ficción Social": [
+                {
+                    "referencia": "NOVE.FISO.1",
+                    "titulo": "El Decamerón",
+                    "autor": "Boccaccio"
+                },
+                {
+                    "referencia": "NOVE.FISO.2",
+                    "titulo": "San Manuel Bueno, mártir",
+                    "autor": "Miguel de Unamuno"
+                },
+                {
+                    "referencia": "NOVE.FISO.3",
+                    "titulo": "Crimen y castigo",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.4",
+                    "titulo": "El jugador",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.5",
+                    "titulo": "Fantasías vascas",
+                    "autor": "Pío Baroja"
+                },
+                {
+                    "referencia": "NOVE.FISO.6",
+                    "titulo": "Rayuela",
+                    "autor": "Julio Cortázar"
+                },
+                {
+                    "referencia": "NOVE.FISO.7",
+                    "titulo": "La sangre de los otros",
+                    "autor": "Simone de Beauvoir"
+                },
+                {
+                    "referencia": "NOVE.FISO.8",
+                    "titulo": "La verdad de las mentiras (Ensayos sobre la novela)",
+                    "autor": "Mario Vargas Llosa"
+                },
+                {
+                    "referencia": "NOVE.FISO.9",
+                    "titulo": "Nuevos cuentos de las colonias",
+                    "autor": "Rudyard Kipling"
+                },
+                {
+                    "referencia": "NOVE.FISO.10",
+                    "titulo": "El proceso",
+                    "autor": "Franz Kafka"
+                },
+                {
+                    "referencia": "NOVE.FISO.11",
+                    "titulo": "Humillados y ofendidos",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.12",
+                    "titulo": "Elogio de la locura",
+                    "autor": "Erasmo de Rotterdam"
+                },
+                {
+                    "referencia": "NOVE.FISO.13",
+                    "titulo": "Vinieron las lluvias, I",
+                    "autor": "Louis Bromfield"
+                },
+                {
+                    "referencia": "NOVE.FISO.14",
+                    "titulo": "De cómo los turcos descubrieron América",
+                    "autor": "Jorge Amado"
+                },
+                {
+                    "referencia": "NOVE.FISO.15",
+                    "titulo": "Biblioteca fundamental: El lobo estepario",
+                    "autor": "Hermann Hesse"
+                },
+                {
+                    "referencia": "NOVE.FISO.16",
+                    "titulo": "El desafío",
+                    "autor": "A. I. Kuprin"
+                },
+                {
+                    "referencia": "NOVE.FISO.17",
+                    "titulo": "Una comedia ligera",
+                    "autor": "Eduardo Mendoza"
+                },
+                {
+                    "referencia": "NOVE.FISO.18",
+                    "titulo": "Cándido",
+                    "autor": "Voltaire"
+                },
+                {
+                    "referencia": "NOVE.FISO.19",
+                    "titulo": "Fantasías de un delegado de Hacienda y otros cuentos",
+                    "autor": "Leopoldo Alas Clarín"
+                },
+                {
+                    "referencia": "NOVE.FISO.20",
+                    "titulo": "El pasajero de ultramar",
+                    "autor": "José M. Guelbenzu"
+                },
+                {
+                    "referencia": "NOVE.FISO.21",
+                    "titulo": "El rey lear de la estepa",
+                    "autor": "Turgueniev"
+                },
+                {
+                    "referencia": "NOVE.FISO.22",
+                    "titulo": "Historias de almanaque",
+                    "autor": "Bertolt Brecht"
+                },
+                {
+                    "referencia": "NOVE.FISO.23",
+                    "titulo": "Tiempo de abrazar",
+                    "autor": "Juan Carlos Onetti"
+                },
+                {
+                    "referencia": "NOVE.FISO.24",
+                    "titulo": "La piel de zapa",
+                    "autor": "Balzac"
+                },
+                {
+                    "referencia": "NOVE.FISO.25",
+                    "titulo": "La metamorfosis",
+                    "autor": "Kafka"
+                },
+                {
+                    "referencia": "NOVE.FISO.26",
+                    "titulo": "Iván el imbécil",
+                    "autor": "León Tolstoi"
+                },
+                {
+                    "referencia": "NOVE.FISO.27",
+                    "titulo": "Leyendas rusas",
+                    "autor": "María José Llorens Camp"
+                },
+                {
+                    "referencia": "NOVE.FISO.28",
+                    "titulo": "Crimen y castigo",
+                    "autor": "Fiódor Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.29",
+                    "titulo": "Dejemos hablar al viento",
+                    "autor": "Juan Carlos Onetti"
+                },
+                {
+                    "referencia": "NOVE.FISO.30",
+                    "titulo": "Vuelva usted mañana y otros artículos",
+                    "autor": "Mariano José de Larra"
+                },
+                {
+                    "referencia": "NOVE.FISO.31",
+                    "titulo": "Las tribulaciones del estudiante Törless",
+                    "autor": "Robert Musil"
+                },
+                {
+                    "referencia": "NOVE.FISO.32",
+                    "titulo": "Balada de otoño",
+                    "autor": "Manuel Vicent"
+                },
+                {
+                    "referencia": "NOVE.FISO.33",
+                    "titulo": "Sonata de primavera",
+                    "autor": "Ramón del Valle-Inclán"
+                },
+                {
+                    "referencia": "NOVE.FISO.34",
+                    "titulo": "Peón de rey",
+                    "autor": "Pedro Jesús Fernández"
+                },
+                {
+                    "referencia": "NOVE.FISO.35",
+                    "titulo": "Obras completas",
+                    "autor": "W. Somerset Maugham"
+                },
+                {
+                    "referencia": "NOVE.FISO.36",
+                    "titulo": "Contrapunto",
+                    "autor": "Aldous Huxley"
+                },
+                {
+                    "referencia": "NOVE.FISO.37",
+                    "titulo": "Las pequeñas memorias",
+                    "autor": "José Saramago"
+                },
+                {
+                    "referencia": "NOVE.FISO.38",
+                    "titulo": "Alabardas",
+                    "autor": "José Saramago"
+                },
+                {
+                    "referencia": "NOVE.FISO.39",
+                    "titulo": "El nombre duplicado",
+                    "autor": "José Saramago"
+                },
+                {
+                    "referencia": "NOVE.FISO.40",
+                    "titulo": "Los cuadernos de Lanzarote II (1996-1997)",
+                    "autor": "José Saramago"
+                }
+            ],
+            "Realismo Social": [
+                {
+                    "referencia": "NOVE.RESO.1",
+                    "titulo": "Los hermanos Karamazov",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.RESO.2",
+                    "titulo": "Rastro de sándalo",
+                    "autor": "Asha Miró"
+                },
+                {
+                    "referencia": "NOVE.RESO.3",
+                    "titulo": "El extranjero",
+                    "autor": "Albert Camus"
+                },
+                {
+                    "referencia": "NOVE.RESO.4",
+                    "titulo": "Los años difíciles",
+                    "autor": "Alejandro Gándara"
+                },
+                {
+                    "referencia": "NOVE.RESO.5",
+                    "titulo": "Todos los clásicos rusos",
+                    "autor": "Henry Luque Muñoz"
+                },
+                {
+                    "referencia": "NOVE.RESO.6",
+                    "titulo": "Dublineses",
+                    "autor": "James Joyce"
+                },
+                {
+                    "referencia": "NOVE.RESO.7",
+                    "titulo": "La buena tierra",
+                    "autor": "Pearl S. Buck"
+                },
+                {
+                    "referencia": "NOVE.RESO.8",
+                    "titulo": "El pequeño burgués",
+                    "autor": "Balzac"
+                },
+                {
+                    "referencia": "NOVE.RESO.9",
+                    "titulo": "Tener y no tener",
+                    "autor": "Hemingway"
+                },
+                {
+                    "referencia": "NOVE.RESO.10",
+                    "titulo": "La madre",
+                    "autor": "Gorki"
+                },
+                {
+                    "referencia": "NOVE.RESO.11",
+                    "titulo": "Los luchadores",
+                    "autor": "Pío Baroja"
+                },
+                {
+                    "referencia": "NOVE.RESO.12",
+                    "titulo": "Tiempo de silencio",
+                    "autor": "Luis Martín-Santos"
+                },
+                {
+                    "referencia": "NOVE.RESO.13",
+                    "titulo": "La isla",
+                    "autor": "Mara Torres"
+                },
+                {
+                    "referencia": "NOVE.RESO.14",
+                    "titulo": "La tregua",
+                    "autor": "Mario Benedetti"
+                },
+                {
+                    "referencia": "NOVE.RESO.15",
+                    "titulo": "Así se templó el acero",
+                    "autor": "Nikolai Ostrovski"
+                },
+                {
+                    "referencia": "NOVE.RESO.16",
+                    "titulo": "The Crack-Up",
+                    "autor": "F. Scott Fitzgerald"
+                },
+                {
+                    "referencia": "NOVE.RESO.17",
+                    "titulo": "Diario II",
+                    "autor": "Anaïs Nin"
+                },
+                {
+                    "referencia": "NOVE.RESO.18",
+                    "titulo": "Un pueblecito",
+                    "autor": "Azorín"
+                },
+                {
+                    "referencia": "NOVE.RESO.19",
+                    "titulo": "La novela de un novelista",
+                    "autor": "Armando Palacio Valdés"
+                },
+                {
+                    "referencia": "NOVE.RESO.20",
+                    "titulo": "La colmena",
+                    "autor": "Cela"
+                },
+                {
+                    "referencia": "NOVE.RESO.21",
+                    "titulo": "La princesa de Cléveris",
+                    "autor": "Madame de La Fayette"
+                },
+                {
+                    "referencia": "NOVE.RESO.22",
+                    "titulo": "Algunos muchachos y otros cuentos",
+                    "autor": "Ana María Matute"
+                },
+                {
+                    "referencia": "NOVE.RESO.23",
+                    "titulo": "Narraciones",
+                    "autor": "Chéjov"
+                },
+                {
+                    "referencia": "NOVE.RESO.24",
+                    "titulo": "Camisa roja",
+                    "autor": "Miguel Delibes"
+                },
+                {
+                    "referencia": "NOVE.RESO.25",
+                    "titulo": "Café de artistas y otros cuentos",
+                    "autor": "Cela"
+                },
+                {
+                    "referencia": "NOVE.RESO.26",
+                    "titulo": "Parábola",
+                    "autor": "Juan José Dos Santos"
+                },
+                {
+                    "referencia": "NOVE.RESO.27",
+                    "titulo": "De lo poco de la vida de hoya",
+                    "autor": "José Luis de Tomás García"
+                },
+                {
+                    "referencia": "NOVE.RESO.28",
+                    "titulo": "El jardinero",
+                    "autor": "Tagore"
+                },
+                {
+                    "referencia": "NOVE.RESO.29",
+                    "titulo": "La tribuna",
+                    "autor": "Emilia Pardo Bazán"
+                },
+                {
+                    "referencia": "NOVE.RESO.30",
+                    "titulo": "Una desdichada",
+                    "autor": "Turgeneiev"
+                },
+                {
+                    "referencia": "NOVE.RESO.31",
+                    "titulo": "El último magnate",
+                    "autor": "F. Scott Fitzgerald"
+                },
+                {
+                    "referencia": "NOVE.RESO.32",
+                    "titulo": "Balzac y la comedia humana",
+                    "autor": "Carlos Pujol"
+                },
+                {
+                    "referencia": "NOVE.RESO.33",
+                    "titulo": "Cuentos escogidos",
+                    "autor": "Andreiev"
+                },
+                {
+                    "referencia": "NOVE.RESO.34",
+                    "titulo": "El guardián entre el centeno",
+                    "autor": "J. D. Salinger"
+                },
+                {
+                    "referencia": "NOVE.RESO.35",
+                    "titulo": "Prisioneros del agua",
+                    "autor": "Alexis Díaz-Pimienta"
+                },
+                {
+                    "referencia": "NOVE.RESO.36",
+                    "titulo": "Mi siglo",
+                    "autor": "Günter Grass"
+                },
+                {
+                    "referencia": "NOVE.RESO.37",
+                    "titulo": "La madre",
+                    "autor": "Pearl S. Buck"
+                },
+                {
+                    "referencia": "NOVE.RESO.38",
+                    "titulo": "Los ex hombres",
+                    "autor": "Gorki"
+                },
+                {
+                    "referencia": "NOVE.RESO.39",
+                    "titulo": "Viento del este, viento del oeste",
+                    "autor": "Pearl S. Buck"
+                },
+                {
+                    "referencia": "NOVE.RESO.40",
+                    "titulo": "Los señores Golovliov",
+                    "autor": "Mijaíl Saltykov-Schedrin"
+                },
+                {
+                    "referencia": "NOVE.RESO.41",
+                    "titulo": "El camino",
+                    "autor": "Miguel Delibes"
+                },
+                {
+                    "referencia": "NOVE.RESO.42",
+                    "titulo": "El príncipe de Maquiavelo",
+                    "autor": "Nicolás Maquiavelo"
+                },
+                {
+                    "referencia": "NOVE.RESO.43",
+                    "titulo": "El cortesano",
+                    "autor": "Baldasar Castiglione"
+                },
+                {
+                    "referencia": "NOVE.RESO.44",
+                    "titulo": "Cuentos rusos",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "NOVE.RESO.45",
+                    "titulo": "Nido de hidalgos y vísperas",
+                    "autor": "Turguenev"
+                },
+                {
+                    "referencia": "NOVE.RESO.46",
+                    "titulo": "La Regenta",
+                    "autor": "Leopoldo Alas \"Clarín\""
+                },
+                {
+                    "referencia": "NOVE.RESO.47",
+                    "titulo": "Senderos de la libertad",
+                    "autor": "Javier Moro"
+                }
+            ],
+            "Fantástica": []
+        },
+        "libros": [
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Cien años de soledad",
+                "autor": "Gabriel García Márquez"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Narraciones extraordinarias",
+                "autor": "Edgar Allan Poe"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Cuentos y prosas",
+                "autor": "Rubén Darío"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "De que hablan los animales",
+                "autor": "L. L. Stishkovskaya"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Memorias de Idhún I: La resistencia",
+                "autor": "Laura Gallego García"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Canguro",
+                "autor": "D. H. Lawrence"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Cuento de Navidad - El grillo del hogar",
+                "autor": "Charles Dickens"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Cuentos",
+                "autor": "E. T. A. Hoffmann"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "Las mil y una noches",
+                "autor": "Ed. Salvat"
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "El demonio de Arbenois",
+                "autor": "Bernard T."
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "La sombra de Dreindar",
+                "autor": "Bernard T."
+            },
+            {
+                "referencia": "NOVE.FANT.1",
+                "titulo": "La montaña mágica",
+                "autor": "Thomas Mann"
+            }
+        ],
+        "subcontadores": {
+            "Aventura": 18,
+            "Bélica": 7,
+            "Ciencia Ficción": 5,
+            "Fantasía": 1,
+            "Ficción Social": 40,
+            "Histórica": 44,
+            "Realismo Social": 47,
+            "Romántica": 22,
+            "Suspense": 33
+        }
+    },
+    "OPOS": {
+        "nombre": "Oposiciones",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    },
+    "REFE": {
+        "nombre": "Referencias",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    },
+    "RELI": {
+        "nombre": "Religión",
+        "subsecciones": {},
+        "libros": [
+            {
+                "referencia": "RELI.1",
+                "titulo": "El inconsciente, ¿morada de Dios?",
+                "autor": "Josep Otón Catalán"
+            },
+            {
+                "referencia": "RELI.2",
+                "titulo": "Más allá de la muerte",
+                "autor": "Hélène Renard"
+            },
+            {
+                "referencia": "RELI.3",
+                "titulo": "Consagración al Sagrado Corazón de Jesús",
+                "autor": "Iglesia de Mataelpino"
+            },
+            {
+                "referencia": "RELI.4",
+                "titulo": "Sinopsis de los cuatro evangelios",
+                "autor": "Juan Leal"
+            },
+            {
+                "referencia": "RELI.5",
+                "titulo": "Ramakrishna y la vitalidad del hinduismo",
+                "autor": "Solange Lemaitre"
+            },
+            {
+                "referencia": "RELI.6",
+                "titulo": "Culturas y religiones en diálogo",
+                "autor": "Juan José Tamayo y María José Fariñas"
+            },
+            {
+                "referencia": "RELI.7",
+                "titulo": "El gran secreto de Jesús",
+                "autor": "Juan Arias"
+            },
+            {
+                "referencia": "RELI.8",
+                "titulo": "Una lectura social del Nuevo Testamento",
+                "autor": "Fidel Aizpurúa Donazar"
+            },
+            {
+                "referencia": "RELI.9",
+                "titulo": "Asia menor en tiempos de Pablo, Lucas y Juan",
+                "autor": "Eduardo Arens"
+            },
+            {
+                "referencia": "RELI.10",
+                "titulo": "La sabiduría de los antepasados",
+                "autor": "T. Lobsang Rampa"
+            },
+            {
+                "referencia": "RELI.11",
+                "titulo": "La religión en la cultura primitiva",
+                "autor": "Edward Burnett Tylor"
+            },
+            {
+                "referencia": "RELI.12",
+                "titulo": "El poder de la magia sagrada",
+                "autor": "Anónimo"
+            },
+            {
+                "referencia": "RELI.13",
+                "titulo": "El conflicto de los siglos",
+                "autor": "Elena G. White"
+            },
+            {
+                "referencia": "RELI.14",
+                "titulo": "El poder desconocido del ayuno",
+                "autor": "Sor Emmanuel Maillard"
+            },
+            {
+                "referencia": "RELI.15",
+                "titulo": "Breviarium romanum ex decreto Sacrosancti Concilij Tridentini restitutum",
+                "autor": "Pío V y Clemente VIII"
+            },
+            {
+                "referencia": "RELI.16",
+                "titulo": "El Corán",
+                "autor": "Mahoma"
+            },
+            {
+                "referencia": "RELI.17",
+                "titulo": "Biblia Sacra Vulgata",
+                "autor": "Editorial Weber - Gryson"
+            },
+            {
+                "referencia": "RELI.18",
+                "titulo": "La Santa Biblia",
+                "autor": "San Pablo"
+            },
+            {
+                "referencia": "RELI.19",
+                "titulo": "Mi fe en la verdad",
+                "autor": "Mohan Das Gandhi"
+            },
+            {
+                "referencia": "RELI.20",
+                "titulo": "Los sabios de la túnica color ciruela",
+                "autor": "Fun-Chang"
+            },
+            {
+                "referencia": "RELI.21",
+                "titulo": "Evangelio según Tomás",
+                "autor": "Ediciones Obelisco"
+            },
+            {
+                "referencia": "RELI.22",
+                "titulo": "Tao Te King",
+                "autor": "Lao Tse"
+            },
+            {
+                "referencia": "RELI.23",
+                "titulo": "Selección de cantos religiosos populares",
+                "autor": "P. Pliama Editorial"
+            },
+            {
+                "referencia": "RELI.24",
+                "titulo": "Los libros de Enoc",
+                "autor": "Oliver Ibáñez"
+            },
+            {
+                "referencia": "RELI.25",
+                "titulo": "Bibiani",
+                "autor": "No aplicable"
+            },
+            {
+                "referencia": "RELI.26",
+                "titulo": "Sagrada Biblia",
+                "autor": "Ediciones S.A."
+            },
+            {
+                "referencia": "RELI.27",
+                "titulo": "La Madonna e il bambino Gesú",
+                "autor": "Revista Gente"
+            },
+            {
+                "referencia": "RELI.28",
+                "titulo": "El libro verde",
+                "autor": "Mammar El Ghadafi"
+            },
+            {
+                "referencia": "RELI.29",
+                "titulo": "El libro de los muertos",
+                "autor": "Anónimo"
+            },
+            {
+                "referencia": "RELI.30",
+                "titulo": "La caverna de los antepasados",
+                "autor": "T. Lobsang Rampa"
+            }
+        ],
+        "subcontadores": {}
+    },
+    "ZZZZ": {
+        "nombre": "Apuntes, notas y varios",
+        "subsecciones": {},
+        "libros": [],
+        "subcontadores": {}
+    }
+}
