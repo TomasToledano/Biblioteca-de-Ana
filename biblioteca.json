@@ -2958,12 +2958,6 @@
         ],
         "subcontadores": {}
     },
-    "INFA": {
-        "nombre": "Infantil",
-        "subsecciones": {},
-        "libros": [],
-        "subcontadores": {}
-    },
     "JUVE": {
         "nombre": "Juvenil",
         "subsecciones": {
@@ -4007,7 +4001,98 @@
                     "autor": "Lord Byron"
                 }
             ],
-            "Aventura": [],
+            "Aventura": [
+                {
+                    "referencia": "NOVE.AVEN.1",
+                    "titulo": "Don Quijote de la Mancha, ilustrado por Doré",
+                    "autor": "Miguel de Cervantes"
+                },
+                {
+                    "referencia": "NOVE.AVEN.2",
+                    "titulo": "El ingenioso hidalgo Don Quijote de la Mancha",
+                    "autor": "Miguel de Cervantes"
+                },
+                {
+                    "referencia": "NOVE.AVEN.3",
+                    "titulo": "El país de los Kenders",
+                    "autor": "Mary Kirchoff"
+                },
+                {
+                    "referencia": "NOVE.AVEN.4",
+                    "titulo": "Territorio Comanche",
+                    "autor": "Arturo Pérez Reverte"
+                },
+                {
+                    "referencia": "NOVE.AVEN.5",
+                    "titulo": "Dos capitanes, dos rumbos",
+                    "autor": "Veniamin Kaverin"
+                },
+                {
+                    "referencia": "NOVE.AVEN.6",
+                    "titulo": "El señor de los ladrones",
+                    "autor": "Cornelia Funke"
+                },
+                {
+                    "referencia": "NOVE.AVEN.7",
+                    "titulo": "Las nieves del Kilimanjaro",
+                    "autor": "Ernest Hemingway"
+                },
+                {
+                    "referencia": "NOVE.AVEN.8",
+                    "titulo": "Noche en Bombay",
+                    "autor": "Louis Bromfield"
+                },
+                {
+                    "referencia": "NOVE.AVEN.9",
+                    "titulo": "El corsario negro",
+                    "autor": "Emilio Salgari"
+                },
+                {
+                    "referencia": "NOVE.AVEN.10",
+                    "titulo": "Moby Dick",
+                    "autor": "Herman Melville"
+                },
+                {
+                    "referencia": "NOVE.AVEN.11",
+                    "titulo": "La quimera de oro",
+                    "autor": "Jack London"
+                },
+                {
+                    "referencia": "NOVE.AVEN.12",
+                    "titulo": "Obras completas. Tomo I",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.13",
+                    "titulo": "Obras completas. Tomo II",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.14",
+                    "titulo": "Obras completas. Tomo III",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.15",
+                    "titulo": "Obras completas. Tomo IV",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.16",
+                    "titulo": "Obras completas. Tomo V",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.17",
+                    "titulo": "Obras completas. Tomo VI",
+                    "autor": "Julio Verne"
+                },
+                {
+                    "referencia": "NOVE.AVEN.18",
+                    "titulo": "Obras completas. Tomo VII",
+                    "autor": "Julio Verne"
+                }
+            ],
             "Bélica": [
                 {
                     "referencia": "NOVE.BÉLI.1",
@@ -4072,101 +4157,448 @@
                     "autor": "Ray Bradbury"
                 }
             ],
-            "Ficción social": [],
-            "Realismo social": [],
+            "Ficción Social": [
+                {
+                    "referencia": "NOVE.FISO.1",
+                    "titulo": "El Decamerón",
+                    "autor": "Boccaccio"
+                },
+                {
+                    "referencia": "NOVE.FISO.2",
+                    "titulo": "San Manuel Bueno, mártir",
+                    "autor": "Miguel de Unamuno"
+                },
+                {
+                    "referencia": "NOVE.FISO.3",
+                    "titulo": "Crimen y castigo",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.4",
+                    "titulo": "El jugador",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.5",
+                    "titulo": "Fantasías vascas",
+                    "autor": "Pío Baroja"
+                },
+                {
+                    "referencia": "NOVE.FISO.6",
+                    "titulo": "Rayuela",
+                    "autor": "Julio Cortázar"
+                },
+                {
+                    "referencia": "NOVE.FISO.7",
+                    "titulo": "La sangre de los otros",
+                    "autor": "Simone de Beauvoir"
+                },
+                {
+                    "referencia": "NOVE.FISO.8",
+                    "titulo": "La verdad de las mentiras (Ensayos sobre la novela)",
+                    "autor": "Mario Vargas Llosa"
+                },
+                {
+                    "referencia": "NOVE.FISO.9",
+                    "titulo": "Nuevos cuentos de las colonias",
+                    "autor": "Rudyard Kipling"
+                },
+                {
+                    "referencia": "NOVE.FISO.10",
+                    "titulo": "El proceso",
+                    "autor": "Franz Kafka"
+                },
+                {
+                    "referencia": "NOVE.FISO.11",
+                    "titulo": "Humillados y ofendidos",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.12",
+                    "titulo": "Elogio de la locura",
+                    "autor": "Erasmo de Rotterdam"
+                },
+                {
+                    "referencia": "NOVE.FISO.13",
+                    "titulo": "Vinieron las lluvias, I",
+                    "autor": "Louis Bromfield"
+                },
+                {
+                    "referencia": "NOVE.FISO.14",
+                    "titulo": "De cómo los turcos descubrieron América",
+                    "autor": "Jorge Amado"
+                },
+                {
+                    "referencia": "NOVE.FISO.15",
+                    "titulo": "Biblioteca fundamental: El lobo estepario",
+                    "autor": "Hermann Hesse"
+                },
+                {
+                    "referencia": "NOVE.FISO.16",
+                    "titulo": "El desafío",
+                    "autor": "A. I. Kuprin"
+                },
+                {
+                    "referencia": "NOVE.FISO.17",
+                    "titulo": "Una comedia ligera",
+                    "autor": "Eduardo Mendoza"
+                },
+                {
+                    "referencia": "NOVE.FISO.18",
+                    "titulo": "Cándido",
+                    "autor": "Voltaire"
+                },
+                {
+                    "referencia": "NOVE.FISO.19",
+                    "titulo": "Fantasías de un delegado de Hacienda y otros cuentos",
+                    "autor": "Leopoldo Alas Clarín"
+                },
+                {
+                    "referencia": "NOVE.FISO.20",
+                    "titulo": "El pasajero de ultramar",
+                    "autor": "José M. Guelbenzu"
+                },
+                {
+                    "referencia": "NOVE.FISO.21",
+                    "titulo": "El rey lear de la estepa",
+                    "autor": "Turgueniev"
+                },
+                {
+                    "referencia": "NOVE.FISO.22",
+                    "titulo": "Historias de almanaque",
+                    "autor": "Bertolt Brecht"
+                },
+                {
+                    "referencia": "NOVE.FISO.23",
+                    "titulo": "Tiempo de abrazar",
+                    "autor": "Juan Carlos Onetti"
+                },
+                {
+                    "referencia": "NOVE.FISO.24",
+                    "titulo": "La piel de zapa",
+                    "autor": "Balzac"
+                },
+                {
+                    "referencia": "NOVE.FISO.25",
+                    "titulo": "La metamorfosis",
+                    "autor": "Kafka"
+                },
+                {
+                    "referencia": "NOVE.FISO.26",
+                    "titulo": "Iván el imbécil",
+                    "autor": "León Tolstoi"
+                },
+                {
+                    "referencia": "NOVE.FISO.27",
+                    "titulo": "Leyendas rusas",
+                    "autor": "María José Llorens Camp"
+                },
+                {
+                    "referencia": "NOVE.FISO.28",
+                    "titulo": "Crimen y castigo",
+                    "autor": "Fiódor Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.FISO.29",
+                    "titulo": "Dejemos hablar al viento",
+                    "autor": "Juan Carlos Onetti"
+                },
+                {
+                    "referencia": "NOVE.FISO.30",
+                    "titulo": "Vuelva usted mañana y otros artículos",
+                    "autor": "Mariano José de Larra"
+                },
+                {
+                    "referencia": "NOVE.FISO.31",
+                    "titulo": "Las tribulaciones del estudiante Törless",
+                    "autor": "Robert Musil"
+                },
+                {
+                    "referencia": "NOVE.FISO.32",
+                    "titulo": "Balada de otoño",
+                    "autor": "Manuel Vicent"
+                },
+                {
+                    "referencia": "NOVE.FISO.33",
+                    "titulo": "Sonata de primavera",
+                    "autor": "Ramón del Valle-Inclán"
+                },
+                {
+                    "referencia": "NOVE.FISO.34",
+                    "titulo": "Peón de rey",
+                    "autor": "Pedro Jesús Fernández"
+                },
+                {
+                    "referencia": "NOVE.FISO.35",
+                    "titulo": "Obras completas",
+                    "autor": "W. Somerset Maugham"
+                },
+                {
+                    "referencia": "NOVE.FISO.36",
+                    "titulo": "Contrapunto",
+                    "autor": "Aldous Huxley"
+                },
+                {
+                    "referencia": "NOVE.FISO.37",
+                    "titulo": "Las pequeñas memorias",
+                    "autor": "José Saramago"
+                },
+                {
+                    "referencia": "NOVE.FISO.38",
+                    "titulo": "Alabardas",
+                    "autor": "José Saramago"
+                },
+                {
+                    "referencia": "NOVE.FISO.39",
+                    "titulo": "El nombre duplicado",
+                    "autor": "José Saramago"
+                },
+                {
+                    "referencia": "NOVE.FISO.40",
+                    "titulo": "Los cuadernos de Lanzarote II (1996-1997)",
+                    "autor": "José Saramago"
+                }
+            ],
+            "Realismo Social": [
+                {
+                    "referencia": "NOVE.RESO.1",
+                    "titulo": "Los hermanos Karamazov",
+                    "autor": "Dostoyevski"
+                },
+                {
+                    "referencia": "NOVE.RESO.2",
+                    "titulo": "Rastro de sándalo",
+                    "autor": "Asha Miró"
+                },
+                {
+                    "referencia": "NOVE.RESO.3",
+                    "titulo": "El extranjero",
+                    "autor": "Albert Camus"
+                },
+                {
+                    "referencia": "NOVE.RESO.4",
+                    "titulo": "Los años difíciles",
+                    "autor": "Alejandro Gándara"
+                },
+                {
+                    "referencia": "NOVE.RESO.5",
+                    "titulo": "Todos los clásicos rusos",
+                    "autor": "Henry Luque Muñoz"
+                },
+                {
+                    "referencia": "NOVE.RESO.6",
+                    "titulo": "Dublineses",
+                    "autor": "James Joyce"
+                },
+                {
+                    "referencia": "NOVE.RESO.7",
+                    "titulo": "La buena tierra",
+                    "autor": "Pearl S. Buck"
+                },
+                {
+                    "referencia": "NOVE.RESO.8",
+                    "titulo": "El pequeño burgués",
+                    "autor": "Balzac"
+                },
+                {
+                    "referencia": "NOVE.RESO.9",
+                    "titulo": "Tener y no tener",
+                    "autor": "Hemingway"
+                },
+                {
+                    "referencia": "NOVE.RESO.10",
+                    "titulo": "La madre",
+                    "autor": "Gorki"
+                },
+                {
+                    "referencia": "NOVE.RESO.11",
+                    "titulo": "Los luchadores",
+                    "autor": "Pío Baroja"
+                },
+                {
+                    "referencia": "NOVE.RESO.12",
+                    "titulo": "Tiempo de silencio",
+                    "autor": "Luis Martín-Santos"
+                },
+                {
+                    "referencia": "NOVE.RESO.13",
+                    "titulo": "La isla",
+                    "autor": "Mara Torres"
+                },
+                {
+                    "referencia": "NOVE.RESO.14",
+                    "titulo": "La tregua",
+                    "autor": "Mario Benedetti"
+                },
+                {
+                    "referencia": "NOVE.RESO.15",
+                    "titulo": "Así se templó el acero",
+                    "autor": "Nikolai Ostrovski"
+                },
+                {
+                    "referencia": "NOVE.RESO.16",
+                    "titulo": "The Crack-Up",
+                    "autor": "F. Scott Fitzgerald"
+                },
+                {
+                    "referencia": "NOVE.RESO.17",
+                    "titulo": "Diario II",
+                    "autor": "Anaïs Nin"
+                },
+                {
+                    "referencia": "NOVE.RESO.18",
+                    "titulo": "Un pueblecito",
+                    "autor": "Azorín"
+                },
+                {
+                    "referencia": "NOVE.RESO.19",
+                    "titulo": "La novela de un novelista",
+                    "autor": "Armando Palacio Valdés"
+                },
+                {
+                    "referencia": "NOVE.RESO.20",
+                    "titulo": "La colmena",
+                    "autor": "Cela"
+                },
+                {
+                    "referencia": "NOVE.RESO.21",
+                    "titulo": "La princesa de Cléveris",
+                    "autor": "Madame de La Fayette"
+                },
+                {
+                    "referencia": "NOVE.RESO.22",
+                    "titulo": "Algunos muchachos y otros cuentos",
+                    "autor": "Ana María Matute"
+                },
+                {
+                    "referencia": "NOVE.RESO.23",
+                    "titulo": "Narraciones",
+                    "autor": "Chéjov"
+                },
+                {
+                    "referencia": "NOVE.RESO.24",
+                    "titulo": "Camisa roja",
+                    "autor": "Miguel Delibes"
+                },
+                {
+                    "referencia": "NOVE.RESO.25",
+                    "titulo": "Café de artistas y otros cuentos",
+                    "autor": "Cela"
+                },
+                {
+                    "referencia": "NOVE.RESO.26",
+                    "titulo": "Parábola",
+                    "autor": "Juan José Dos Santos"
+                },
+                {
+                    "referencia": "NOVE.RESO.27",
+                    "titulo": "De lo poco de la vida de hoya",
+                    "autor": "José Luis de Tomás García"
+                },
+                {
+                    "referencia": "NOVE.RESO.28",
+                    "titulo": "El jardinero",
+                    "autor": "Tagore"
+                },
+                {
+                    "referencia": "NOVE.RESO.29",
+                    "titulo": "La tribuna",
+                    "autor": "Emilia Pardo Bazán"
+                },
+                {
+                    "referencia": "NOVE.RESO.30",
+                    "titulo": "Una desdichada",
+                    "autor": "Turgeneiev"
+                },
+                {
+                    "referencia": "NOVE.RESO.31",
+                    "titulo": "El último magnate",
+                    "autor": "F. Scott Fitzgerald"
+                },
+                {
+                    "referencia": "NOVE.RESO.32",
+                    "titulo": "Balzac y la comedia humana",
+                    "autor": "Carlos Pujol"
+                },
+                {
+                    "referencia": "NOVE.RESO.33",
+                    "titulo": "Cuentos escogidos",
+                    "autor": "Andreiev"
+                },
+                {
+                    "referencia": "NOVE.RESO.34",
+                    "titulo": "El guardián entre el centeno",
+                    "autor": "J. D. Salinger"
+                },
+                {
+                    "referencia": "NOVE.RESO.35",
+                    "titulo": "Prisioneros del agua",
+                    "autor": "Alexis Díaz-Pimienta"
+                },
+                {
+                    "referencia": "NOVE.RESO.36",
+                    "titulo": "Mi siglo",
+                    "autor": "Günter Grass"
+                },
+                {
+                    "referencia": "NOVE.RESO.37",
+                    "titulo": "La madre",
+                    "autor": "Pearl S. Buck"
+                },
+                {
+                    "referencia": "NOVE.RESO.38",
+                    "titulo": "Los ex hombres",
+                    "autor": "Gorki"
+                },
+                {
+                    "referencia": "NOVE.RESO.39",
+                    "titulo": "Viento del este, viento del oeste",
+                    "autor": "Pearl S. Buck"
+                },
+                {
+                    "referencia": "NOVE.RESO.40",
+                    "titulo": "Los señores Golovliov",
+                    "autor": "Mijaíl Saltykov-Schedrin"
+                },
+                {
+                    "referencia": "NOVE.RESO.41",
+                    "titulo": "El camino",
+                    "autor": "Miguel Delibes"
+                },
+                {
+                    "referencia": "NOVE.RESO.42",
+                    "titulo": "El príncipe de Maquiavelo",
+                    "autor": "Nicolás Maquiavelo"
+                },
+                {
+                    "referencia": "NOVE.RESO.43",
+                    "titulo": "El cortesano",
+                    "autor": "Baldasar Castiglione"
+                },
+                {
+                    "referencia": "NOVE.RESO.44",
+                    "titulo": "Cuentos rusos",
+                    "autor": "Ed. Salvat"
+                },
+                {
+                    "referencia": "NOVE.RESO.45",
+                    "titulo": "Nido de hidalgos y vísperas",
+                    "autor": "Turguenev"
+                },
+                {
+                    "referencia": "NOVE.RESO.46",
+                    "titulo": "La Regenta",
+                    "autor": "Leopoldo Alas \"Clarín\""
+                },
+                {
+                    "referencia": "NOVE.RESO.47",
+                    "titulo": "Senderos de la libertad",
+                    "autor": "Javier Moro"
+                }
+            ],
             "Fantástica": []
         },
         "libros": [
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Don Quijote de la Mancha, ilustrado por Doré",
-                "autor": "Miguel de Cervantes"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "El ingenioso hidalgo Don Quijote de la Mancha",
-                "autor": "Miguel de Cervantes"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "El país de los Kenders",
-                "autor": "Mary Kirchoff"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Territorio Comanche",
-                "autor": "Arturo Pérez Reverte"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Dos capitanes, dos rumbos",
-                "autor": "Veniamin Kaverin"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "El señor de los ladrones",
-                "autor": "Cornelia Funke"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Las nieves del Kilimanjaro",
-                "autor": "Ernest Hemingway"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Noche en Bombay",
-                "autor": "Louis Bromfield"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "El corsario negro",
-                "autor": "Emilio Salgari"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Moby Dick",
-                "autor": "Herman Melville"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "La quimera de oro",
-                "autor": "Jack London"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Obras completas. Tomo I",
-                "autor": "Julio Verne"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Obras completas. Tomo II",
-                "autor": "Julio Verne"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Obras completas. Tomo III",
-                "autor": "Julio Verne"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Obras completas. Tomo IV",
-                "autor": "Julio Verne"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Obras completas. Tomo V",
-                "autor": "Julio Verne"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Obras completas. Tomo VI",
-                "autor": "Julio Verne"
-            },
-            {
-                "referencia": "NOVE.AVEN.1",
-                "titulo": "Obras completas. Tomo VII",
-                "autor": "Julio Verne"
-            },
             {
                 "referencia": "NOVE.FANT.1",
                 "titulo": "Cien años de soledad",
@@ -4226,451 +4658,16 @@
                 "referencia": "NOVE.FANT.1",
                 "titulo": "La montaña mágica",
                 "autor": "Thomas Mann"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "El Decamerón",
-                "autor": "Boccaccio"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "San Manuel Bueno, mártir",
-                "autor": "Miguel de Unamuno"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Crimen y castigo",
-                "autor": "Dostoyevski"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "El jugador",
-                "autor": "Dostoyevski"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Fantasías vascas",
-                "autor": "Pío Baroja"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Rayuela",
-                "autor": "Julio Cortázar"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "La sangre de los otros",
-                "autor": "Simone de Beauvoir"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "La verdad de las mentiras (Ensayos sobre la novela)",
-                "autor": "Mario Vargas Llosa"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Nuevos cuentos de las colonias",
-                "autor": "Rudyard Kipling"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "El proceso",
-                "autor": "Franz Kafka"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Humillados y ofendidos",
-                "autor": "Dostoyevski"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Elogio de la locura",
-                "autor": "Erasmo de Rotterdam"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Vinieron las lluvias, I",
-                "autor": "Louis Bromfield"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "De cómo los turcos descubrieron América",
-                "autor": "Jorge Amado"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Biblioteca fundamental: El lobo estepario",
-                "autor": "Hermann Hesse"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "El desafío",
-                "autor": "A. I. Kuprin"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Una comedia ligera",
-                "autor": "Eduardo Mendoza"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Cándido",
-                "autor": "Voltaire"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Fantasías de un delegado de Hacienda y otros cuentos",
-                "autor": "Leopoldo Alas Clarín"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "El pasajero de ultramar",
-                "autor": "José M. Guelbenzu"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "El rey lear de la estepa",
-                "autor": "Turgueniev"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Historias de almanaque",
-                "autor": "Bertolt Brecht"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Tiempo de abrazar",
-                "autor": "Juan Carlos Onetti"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "La piel de zapa",
-                "autor": "Balzac"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "La metamorfosis",
-                "autor": "Kafka"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Iván el imbécil",
-                "autor": "León Tolstoi"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Leyendas rusas",
-                "autor": "María José Llorens Camp"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Crimen y castigo",
-                "autor": "Fiódor Dostoyevski"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Dejemos hablar al viento",
-                "autor": "Juan Carlos Onetti"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Vuelva usted mañana y otros artículos",
-                "autor": "Mariano José de Larra"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Las tribulaciones del estudiante Törless",
-                "autor": "Robert Musil"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Balada de otoño",
-                "autor": "Manuel Vicent"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Sonata de primavera",
-                "autor": "Ramón del Valle-Inclán"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Peón de rey",
-                "autor": "Pedro Jesús Fernández"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Obras completas",
-                "autor": "W. Somerset Maugham"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Contrapunto",
-                "autor": "Aldous Huxley"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Las pequeñas memorias",
-                "autor": "José Saramago"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Alabardas",
-                "autor": "José Saramago"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "El nombre duplicado",
-                "autor": "José Saramago"
-            },
-            {
-                "referencia": "NOVE.FISO.1",
-                "titulo": "Los cuadernos de Lanzarote II (1996-1997)",
-                "autor": "José Saramago"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Los hermanos Karamazov",
-                "autor": "Dostoyevski"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Rastro de sándalo",
-                "autor": "Asha Miró"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El extranjero",
-                "autor": "Albert Camus"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Los años difíciles",
-                "autor": "Alejandro Gándara"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Todos los clásicos rusos",
-                "autor": "Henry Luque Muñoz"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Dublineses",
-                "autor": "James Joyce"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La buena tierra",
-                "autor": "Pearl S. Buck"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El pequeño burgués",
-                "autor": "Balzac"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Tener y no tener",
-                "autor": "Hemingway"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La madre",
-                "autor": "Gorki"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Los luchadores",
-                "autor": "Pío Baroja"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Tiempo de silencio",
-                "autor": "Luis Martín-Santos"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La isla",
-                "autor": "Mara Torres"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La tregua",
-                "autor": "Mario Benedetti"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Así se templó el acero",
-                "autor": "Nikolai Ostrovski"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "The Crack-Up",
-                "autor": "F. Scott Fitzgerald"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Diario II",
-                "autor": "Anaïs Nin"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Un pueblecito",
-                "autor": "Azorín"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La novela de un novelista",
-                "autor": "Armando Palacio Valdés"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La colmena",
-                "autor": "Cela"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La princesa de Cléveris",
-                "autor": "Madame de La Fayette"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Algunos muchachos y otros cuentos",
-                "autor": "Ana María Matute"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Narraciones",
-                "autor": "Chéjov"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Camisa roja",
-                "autor": "Miguel Delibes"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Café de artistas y otros cuentos",
-                "autor": "Cela"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Parábola",
-                "autor": "Juan José Dos Santos"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "De lo poco de la vida de hoya",
-                "autor": "José Luis de Tomás García"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El jardinero",
-                "autor": "Tagore"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La tribuna",
-                "autor": "Emilia Pardo Bazán"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Una desdichada",
-                "autor": "Turgeneiev"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El último magnate",
-                "autor": "F. Scott Fitzgerald"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Balzac y la comedia humana",
-                "autor": "Carlos Pujol"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Cuentos escogidos",
-                "autor": "Andreiev"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El guardián entre el centeno",
-                "autor": "J. D. Salinger"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Prisioneros del agua",
-                "autor": "Alexis Díaz-Pimienta"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Mi siglo",
-                "autor": "Günter Grass"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La madre",
-                "autor": "Pearl S. Buck"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Los ex hombres",
-                "autor": "Gorki"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Viento del este, viento del oeste",
-                "autor": "Pearl S. Buck"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Los señores Golovliov",
-                "autor": "Mijaíl Saltykov-Schedrin"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El camino",
-                "autor": "Miguel Delibes"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El príncipe de Maquiavelo",
-                "autor": "Nicolás Maquiavelo"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "El cortesano",
-                "autor": "Baldasar Castiglione"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Cuentos rusos",
-                "autor": "Ed. Salvat"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Nido de hidalgos y vísperas",
-                "autor": "Turguenev"
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "La Regenta",
-                "autor": "Leopoldo Alas \"Clarín\""
-            },
-            {
-                "referencia": "NOVE.RESO.1",
-                "titulo": "Senderos de la libertad",
-                "autor": "Javier Moro"
             }
         ],
         "subcontadores": {
-            "Aventuras": 1,
+            "Aventura": 18,
             "Bélica": 7,
             "Ciencia Ficción": 5,
             "Fantasía": 1,
-            "Ficción Social": 1,
+            "Ficción Social": 40,
             "Histórica": 44,
-            "Realismo Social": 1,
+            "Realismo Social": 47,
             "Romántica": 22,
             "Suspense": 33
         }
